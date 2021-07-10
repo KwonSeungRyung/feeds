@@ -2,45 +2,131 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews</title>
-    <updated>2021-07-09T17:40:51.075Z</updated>
+    <updated>2021-07-10T05:32:29.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
-        <id>https://goomics.net/</id>
-        <link href="https://goomics.net/"/>
-        <updated>2021-07-09T17:40:50.788Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4585"><a class="upvote" href="javascript:vote(4585, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://goomics.net/" rel="nofollow" id="tr1"><h1>Goomics - 구글 사내 만화</h1></a> <span class="topicurl">(goomics.net)</span></td>]]></content>
+        <id>https://medium.com/graalvm/graalvm-at-facebook-af09338ac519</id>
+        <link href="https://medium.com/graalvm/graalvm-at-facebook-af09338ac519"/>
+        <updated>2021-07-10T05:32:29.370Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4588"><a class="upvote" href="javascript:vote(4588, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/graalvm/graalvm-at-facebook-af09338ac519" rel="nofollow" id="tr1"><h1>페이스북의 GraalVM 도입기</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
+        <id>https://news.hada.io/topic?id=4588</id>
+        <link href="https://news.hada.io/topic?id=4588"/>
+        <updated>2021-07-10T05:32:29.384Z</updated>
+        <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4588" class="c99 breakall">- Facebook이 Spark를 가속하고 메모리&amp;CPU 사용량을 줄이기 위해 GraalVM을 도입
+- 페북은 Java를 빅데이터,백엔드,모바일 등 몇몇 주요 분야에...</a></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://news.hada.io/user?id=xguru</id>
+        <link href="https://news.hada.io/user?id=xguru"/>
+        <updated>2021-07-08T11:49:50.367Z</updated>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4588">8</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote4588"></span> | <a href="topic?id=4588" class="u">댓글과 토론</a> </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://news.hada.io/new</id>
+        <link href="https://news.hada.io/new"/>
+        <updated>2021-07-10T05:32:29.247Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/</id>
+        <link href="https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/"/>
+        <updated>2021-07-10T05:32:29.384Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4587"><a class="upvote" href="javascript:vote(4587, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/" rel="nofollow" id="tr2"><h1>AWS InfiniDash 이야기</h1></a> <span class="topicurl">(siliconangle.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://news.hada.io/topic?id=4587</id>
+        <link href="https://news.hada.io/topic?id=4587"/>
+        <updated>2021-07-10T05:32:29.385Z</updated>
+        <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4587" class="c99 breakall">- 가짜 제품인 AWS InfiniDash가 바이럴 된 현상을 정리 
+- Twilio의 개발자 Joe Nash가 가짜로 만든 InfiniDash 가 언젠가 JD에 포함될 수 있을...</a></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://news.hada.io/user?id=xguru</id>
+        <link href="https://news.hada.io/user?id=xguru"/>
+        <updated>2021-07-08T11:49:50.367Z</updated>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4587">5</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote4587"></span> | <a href="topic?id=4587" class="u">댓글 2개</a> </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://news.hada.io/new</id>
+        <link href="https://news.hada.io/new"/>
+        <updated>2021-07-10T05:32:29.247Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[8]]></title>
+        <id>https://deno.com/blog/deploy-beta1</id>
+        <link href="https://deno.com/blog/deploy-beta1"/>
+        <updated>2021-07-10T05:32:29.388Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4586"><a class="upvote" href="javascript:vote(4586, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://deno.com/blog/deploy-beta1" rel="nofollow" id="tr3"><h1>Deno Deploy Beta 1</h1></a> <span class="topicurl">(deno.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9]]></title>
+        <id>https://news.hada.io/topic?id=4586</id>
+        <link href="https://news.hada.io/topic?id=4586"/>
+        <updated>2021-07-10T05:32:29.388Z</updated>
+        <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4586" class="c99 breakall">- 멀티테넌트 JavaScript 서버리스 엔진 
+ㅤ→ V8 및 Deno CLI를 그대로 사용
+ㅤ→ 전세계 25개 데이터센터에서 실행
+ㅤ→ TypeScript, JSX, ES Mo...</a></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10]]></title>
+        <id>https://news.hada.io/user?id=xguru</id>
+        <link href="https://news.hada.io/user?id=xguru"/>
+        <updated>2021-07-08T11:49:50.367Z</updated>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4586">8</span> points by <a href="/user?id=xguru">xguru</a> 5시간전<span id="unvote4586"></span> | <a href="topic?id=4586" class="u">댓글 2개</a> </td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[11]]></title>
+        <id>https://news.hada.io/new</id>
+        <link href="https://news.hada.io/new"/>
+        <updated>2021-07-10T05:32:29.247Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[12]]></title>
+        <id>https://goomics.net/</id>
+        <link href="https://goomics.net/"/>
+        <updated>2021-07-09T17:40:50.788Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4585"><a class="upvote" href="javascript:vote(4585, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://goomics.net/" rel="nofollow" id="tr4"><h1>Goomics - 구글 사내 만화</h1></a> <span class="topicurl">(goomics.net)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[13]]></title>
         <id>https://news.hada.io/topic?id=4585</id>
         <link href="https://news.hada.io/topic?id=4585"/>
         <updated>2021-07-09T17:40:50.788Z</updated>
         <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4585" class="c99 breakall">이 만화는 구글에서 14년 간 소프트웨어 엔지니어로 일해온 (그리고 1주 전에 트위터로 이직한) Manu Cornet이 2010년 이래로 그려온 만화입니다. ...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2]]></title>
+        <title type="html"><![CDATA[14]]></title>
         <id>https://news.hada.io/user?id=jinseokim</id>
         <link href="https://news.hada.io/user?id=jinseokim"/>
         <updated>2021-07-09T17:40:50.788Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4585">1</span> point by <a href="/user?id=jinseokim">jinseokim</a> 12시간전<span id="unvote4585"></span> | <a href="topic?id=4585" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4585">2</span> points by <a href="/user?id=jinseokim">jinseokim</a> 24시간전<span id="unvote4585"></span> | <a href="topic?id=4585" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3]]></title>
+        <title type="html"><![CDATA[15]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.607Z</updated>
+        <updated>2021-07-10T05:32:29.247Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[4]]></title>
+        <title type="html"><![CDATA[16]]></title>
         <id>https://newspeppermint.com/2021/07/08/workhard1/</id>
         <link href="https://newspeppermint.com/2021/07/08/workhard1/"/>
         <updated>2021-07-09T05:32:46.756Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4584"><a class="upvote" href="javascript:vote(4584, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://newspeppermint.com/2021/07/08/workhard1/" rel="nofollow" id="tr2"><h1>최선을 다한다는 것</h1></a> <span class="topicurl">(newspeppermint.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4584"><a class="upvote" href="javascript:vote(4584, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://newspeppermint.com/2021/07/08/workhard1/" rel="nofollow" id="tr5"><h1>최선을 다한다는 것</h1></a> <span class="topicurl">(newspeppermint.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[5]]></title>
+        <title type="html"><![CDATA[17]]></title>
         <id>https://news.hada.io/topic?id=4584</id>
         <link href="https://news.hada.io/topic?id=4584"/>
         <updated>2021-07-09T05:32:46.756Z</updated>
@@ -49,27 +135,27 @@
 - 두 가지만 만족...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6]]></title>
+        <title type="html"><![CDATA[18]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4584">20</span> points by <a href="/user?id=xguru">xguru</a> 16시간전<span id="unvote4584"></span> | <a href="topic?id=4584" class="u">댓글 3개</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4584">21</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote4584"></span> | <a href="topic?id=4584" class="u">댓글 3개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[7]]></title>
+        <title type="html"><![CDATA[19]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.607Z</updated>
+        <updated>2021-07-10T05:32:29.247Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[8]]></title>
+        <title type="html"><![CDATA[20]]></title>
         <id>https://github.com/ModernCloud/moderncloud</id>
         <link href="https://github.com/ModernCloud/moderncloud"/>
         <updated>2021-07-09T05:32:46.757Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4583"><a class="upvote" href="javascript:vote(4583, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/ModernCloud/moderncloud" rel="nofollow" id="tr3"><h1>ModernCloud - 브라우저 기반 서버리스 플랫폼</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4583"><a class="upvote" href="javascript:vote(4583, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/ModernCloud/moderncloud" rel="nofollow" id="tr6"><h1>ModernCloud - 브라우저 기반 서버리스 플랫폼</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[9]]></title>
+        <title type="html"><![CDATA[21]]></title>
         <id>https://news.hada.io/topic?id=4583</id>
         <link href="https://news.hada.io/topic?id=4583"/>
         <updated>2021-07-09T05:32:46.757Z</updated>
@@ -78,27 +164,27 @@
 ㅤ→ 코드/테스트/배포...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[10]]></title>
+        <title type="html"><![CDATA[22]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4583">6</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote4583"></span> | <a href="topic?id=4583" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4583">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote4583"></span> | <a href="topic?id=4583" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[11]]></title>
+        <title type="html"><![CDATA[23]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.607Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[12]]></title>
+        <title type="html"><![CDATA[24]]></title>
         <id>https://github.com/WeferralHq/weferral</id>
         <link href="https://github.com/WeferralHq/weferral"/>
         <updated>2021-07-09T05:32:46.757Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4582"><a class="upvote" href="javascript:vote(4582, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/WeferralHq/weferral" rel="nofollow" id="tr4"><h1>Weferral - 레퍼럴 &amp; 어필리에이트 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4582"><a class="upvote" href="javascript:vote(4582, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/WeferralHq/weferral" rel="nofollow" id="tr7"><h1>Weferral - 레퍼럴 &amp; 어필리에이트 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[13]]></title>
+        <title type="html"><![CDATA[25]]></title>
         <id>https://news.hada.io/topic?id=4582</id>
         <link href="https://news.hada.io/topic?id=4582"/>
         <updated>2021-07-09T05:32:46.757Z</updated>
@@ -107,27 +193,27 @@
 - 자동 트래...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[14]]></title>
+        <title type="html"><![CDATA[26]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4582">7</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote4582"></span> | <a href="topic?id=4582" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4582">8</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote4582"></span> | <a href="topic?id=4582" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[15]]></title>
+        <title type="html"><![CDATA[27]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.626Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[16]]></title>
+        <title type="html"><![CDATA[28]]></title>
         <id>https://driesdepoorter.be/theflemishscrollers/</id>
         <link href="https://driesdepoorter.be/theflemishscrollers/"/>
         <updated>2021-07-09T05:32:46.770Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4581"><a class="upvote" href="javascript:vote(4581, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://driesdepoorter.be/theflemishscrollers/" rel="nofollow" id="tr5"><h1>컴퓨터비전으로 회의중 딴짓하는 국회의원 잡아내기</h1></a> <span class="topicurl">(driesdepoorter.be)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4581"><a class="upvote" href="javascript:vote(4581, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://driesdepoorter.be/theflemishscrollers/" rel="nofollow" id="tr8"><h1>컴퓨터비전으로 회의중 딴짓하는 국회의원 잡아내기</h1></a> <span class="topicurl">(driesdepoorter.be)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[17]]></title>
+        <title type="html"><![CDATA[29]]></title>
         <id>https://news.hada.io/topic?id=4581</id>
         <link href="https://news.hada.io/topic?id=4581"/>
         <updated>2021-07-09T05:32:46.776Z</updated>
@@ -135,27 +221,27 @@
 - 트위터, ...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18]]></title>
+        <title type="html"><![CDATA[30]]></title>
         <id>https://news.hada.io/user?id=budlebee</id>
         <link href="https://news.hada.io/user?id=budlebee"/>
         <updated>2021-07-09T05:32:46.776Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4581">9</span> points by <a href="/user?id=budlebee">budlebee</a> 17시간전<span id="unvote4581"></span> | <a href="topic?id=4581" class="u">댓글 4개</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4581">11</span> points by <a href="/user?id=budlebee">budlebee</a> 1일전<span id="unvote4581"></span> | <a href="topic?id=4581" class="u">댓글 4개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[19]]></title>
+        <title type="html"><![CDATA[31]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.626Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20]]></title>
+        <title type="html"><![CDATA[32]]></title>
         <id>https://github.com/tuplex/tuplex</id>
         <link href="https://github.com/tuplex/tuplex"/>
         <updated>2021-07-09T05:32:46.776Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4580"><a class="upvote" href="javascript:vote(4580, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tuplex/tuplex" rel="nofollow" id="tr6"><h1>Tuplex - 병렬 빅데이터 처리 프레임워크</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4580"><a class="upvote" href="javascript:vote(4580, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tuplex/tuplex" rel="nofollow" id="tr9"><h1>Tuplex - 병렬 빅데이터 처리 프레임워크</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[21]]></title>
+        <title type="html"><![CDATA[33]]></title>
         <id>https://news.hada.io/topic?id=4580</id>
         <link href="https://news.hada.io/topic?id=4580"/>
         <updated>2021-07-09T05:32:46.776Z</updated>
@@ -164,27 +250,27 @@
 ㅤ→ 주어진 파이프라인과 입력 데이터세트...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[22]]></title>
+        <title type="html"><![CDATA[34]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4580">10</span> points by <a href="/user?id=xguru">xguru</a> 17시간전<span id="unvote4580"></span> | <a href="topic?id=4580" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4580">11</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote4580"></span> | <a href="topic?id=4580" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23]]></title>
+        <title type="html"><![CDATA[35]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.626Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[24]]></title>
+        <title type="html"><![CDATA[36]]></title>
         <id>https://snyk.io/jvm-ecosystem-report-2021/</id>
         <link href="https://snyk.io/jvm-ecosystem-report-2021/"/>
         <updated>2021-07-09T05:32:46.777Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4579"><a class="upvote" href="javascript:vote(4579, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://snyk.io/jvm-ecosystem-report-2021/" rel="nofollow" id="tr7"><h1>JVM 에코시스템 보고서 2021</h1></a> <span class="topicurl">(snyk.io)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4579"><a class="upvote" href="javascript:vote(4579, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://snyk.io/jvm-ecosystem-report-2021/" rel="nofollow" id="tr10"><h1>JVM 에코시스템 보고서 2021</h1></a> <span class="topicurl">(snyk.io)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[25]]></title>
+        <title type="html"><![CDATA[37]]></title>
         <id>https://news.hada.io/topic?id=4579</id>
         <link href="https://news.hada.io/topic?id=4579"/>
         <updated>2021-07-09T05:32:46.779Z</updated>
@@ -193,27 +279,27 @@
 - JVM...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[26]]></title>
+        <title type="html"><![CDATA[38]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4579">7</span> points by <a href="/user?id=xguru">xguru</a> 18시간전<span id="unvote4579"></span> | <a href="topic?id=4579" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4579">9</span> points by <a href="/user?id=xguru">xguru</a> 1일전<span id="unvote4579"></span> | <a href="topic?id=4579" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[27]]></title>
+        <title type="html"><![CDATA[39]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.626Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[28]]></title>
+        <title type="html"><![CDATA[40]]></title>
         <id>https://news.hada.io/blog/bots</id>
         <link href="https://news.hada.io/blog/bots"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4578"><a class="upvote" href="javascript:vote(4578, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://news.hada.io/blog/bots" rel="nofollow" id="tr8"><h1>GeekNews 잔디,Teams,Discord 봇 추가</h1></a> <span class="topicurl">(news.hada.io)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4578"><a class="upvote" href="javascript:vote(4578, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://news.hada.io/blog/bots" rel="nofollow" id="tr11"><h1>GeekNews 잔디,Teams,Discord 봇 추가</h1></a> <span class="topicurl">(news.hada.io)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[29]]></title>
+        <title type="html"><![CDATA[41]]></title>
         <id>https://news.hada.io/topic?id=4578</id>
         <link href="https://news.hada.io/topic?id=4578"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
@@ -225,27 +311,27 @@
 - 서버에...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30]]></title>
+        <title type="html"><![CDATA[42]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4578">12</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4578"></span> | <a href="topic?id=4578" class="u">댓글 10개</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4578">13</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4578"></span> | <a href="topic?id=4578" class="u">댓글 16개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[31]]></title>
+        <title type="html"><![CDATA[43]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.626Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[32]]></title>
+        <title type="html"><![CDATA[44]]></title>
         <id>https://github.com/mrbbot/miniflare</id>
         <link href="https://github.com/mrbbot/miniflare"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4577"><a class="upvote" href="javascript:vote(4577, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/mrbbot/miniflare" rel="nofollow" id="tr9"><h1>Miniflare - CloudFlare Workers 로컬 시뮬레이터</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4577"><a class="upvote" href="javascript:vote(4577, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/mrbbot/miniflare" rel="nofollow" id="tr12"><h1>Miniflare - CloudFlare Workers 로컬 시뮬레이터</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[33]]></title>
+        <title type="html"><![CDATA[45]]></title>
         <id>https://news.hada.io/topic?id=4577</id>
         <link href="https://news.hada.io/topic?id=4577"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
@@ -254,27 +340,27 @@
 - Workers의 대...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[34]]></title>
+        <title type="html"><![CDATA[46]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4577">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4577"></span> | <a href="topic?id=4577" class="u">댓글 1개</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4577">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4577"></span> | <a href="topic?id=4577" class="u">댓글 1개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[35]]></title>
+        <title type="html"><![CDATA[47]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.643Z</updated>
+        <updated>2021-07-10T05:32:29.251Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[36]]></title>
+        <title type="html"><![CDATA[48]]></title>
         <id>https://github.com/zverok/wikipedia_ql</id>
         <link href="https://github.com/zverok/wikipedia_ql"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4576"><a class="upvote" href="javascript:vote(4576, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/zverok/wikipedia_ql" rel="nofollow" id="tr10"><h1>WikipediaQL - 위키피디어 쿼리 언어</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4576"><a class="upvote" href="javascript:vote(4576, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/zverok/wikipedia_ql" rel="nofollow" id="tr13"><h1>WikipediaQL - 위키피디어 쿼리 언어</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[37]]></title>
+        <title type="html"><![CDATA[49]]></title>
         <id>https://news.hada.io/topic?id=4576</id>
         <link href="https://news.hada.io/topic?id=4576"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -282,27 +368,27 @@
 ㅤ→ 위키 데이터는 사람이 읽기는 편하지만 일부만 구조적이고 ...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[38]]></title>
+        <title type="html"><![CDATA[50]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4576">4</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4576"></span> | <a href="topic?id=4576" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4576">6</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4576"></span> | <a href="topic?id=4576" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[39]]></title>
+        <title type="html"><![CDATA[51]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.643Z</updated>
+        <updated>2021-07-10T05:32:29.264Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[40]]></title>
+        <title type="html"><![CDATA[52]]></title>
         <id>https://apnews.com/article/amazoncom-inc-technology-business-government-and-politics-83dae68a0ed4e24246900a1d1d1d00be</id>
         <link href="https://apnews.com/article/amazoncom-inc-technology-business-government-and-politics-83dae68a0ed4e24246900a1d1d1d00be"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4575"><a class="upvote" href="javascript:vote(4575, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://apnews.com/article/amazoncom-inc-technology-business-government-and-politics-83dae68a0ed4e24246900a1d1d1d00be" rel="nofollow" id="tr11"><h1>미 국방부, MS와의 11조원 클라우드 계약 취소</h1></a> <span class="topicurl">(apnews.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4575"><a class="upvote" href="javascript:vote(4575, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://apnews.com/article/amazoncom-inc-technology-business-government-and-politics-83dae68a0ed4e24246900a1d1d1d00be" rel="nofollow" id="tr14"><h1>미 국방부, MS와의 11조원 클라우드 계약 취소</h1></a> <span class="topicurl">(apnews.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[41]]></title>
+        <title type="html"><![CDATA[53]]></title>
         <id>https://news.hada.io/topic?id=4575</id>
         <link href="https://news.hada.io/topic?id=4575"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -311,27 +397,27 @@
 ...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[42]]></title>
+        <title type="html"><![CDATA[54]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4575">3</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4575"></span> | <a href="topic?id=4575" class="u">댓글 1개</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4575">5</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4575"></span> | <a href="topic?id=4575" class="u">댓글 1개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[43]]></title>
+        <title type="html"><![CDATA[55]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.643Z</updated>
+        <updated>2021-07-10T05:32:29.264Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[44]]></title>
+        <title type="html"><![CDATA[56]]></title>
         <id>https://blog.ycombinator.com/co-founder-matching/</id>
         <link href="https://blog.ycombinator.com/co-founder-matching/"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4574"><a class="upvote" href="javascript:vote(4574, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.ycombinator.com/co-founder-matching/" rel="nofollow" id="tr12"><h1>Y Combinator, Co-Founder 매칭 플랫폼 오픈</h1></a> <span class="topicurl">(blog.ycombinator.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4574"><a class="upvote" href="javascript:vote(4574, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.ycombinator.com/co-founder-matching/" rel="nofollow" id="tr15"><h1>Y Combinator, Co-Founder 매칭 플랫폼 오픈</h1></a> <span class="topicurl">(blog.ycombinator.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[45]]></title>
+        <title type="html"><![CDATA[57]]></title>
         <id>https://news.hada.io/topic?id=4574</id>
         <link href="https://news.hada.io/topic?id=4574"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -340,27 +426,27 @@
 - 공동창업자가 중요...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[46]]></title>
+        <title type="html"><![CDATA[58]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
         <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4574">10</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4574"></span> | <a href="topic?id=4574" class="u">댓글 2개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[47]]></title>
+        <title type="html"><![CDATA[59]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.643Z</updated>
+        <updated>2021-07-10T05:32:29.264Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[48]]></title>
+        <title type="html"><![CDATA[60]]></title>
         <id>https://medium.com/naver-fe-platform/%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-ui%EB%8A%94-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B3%A0-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95%EC%9D%80-%EB%8D%94-%EA%B0%95%ED%99%94%ED%95%9C-flicking-v4%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-82f6b8b0650d</id>
         <link href="https://medium.com/naver-fe-platform/%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-ui%EB%8A%94-%EC%9C%A0%EC%A7%80%ED%95%98%EA%B3%A0-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95%EC%9D%80-%EB%8D%94-%EA%B0%95%ED%99%94%ED%95%9C-flicking-v4%EB%A5%BC-%EA%B3%B5%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-82f6b8b0650d"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4573"><a class="upvote" href="javascript:vote(4573, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/naver-fe-platform/사용자의-ui는-유지하고-커스터마이징은-더-강화한-flicking-v4를-공개합니다-82f6b8b0650d" rel="nofollow" id="tr13"><h1>Flicking v4 - 오픈소스 캐로셀 라이브러리</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4573"><a class="upvote" href="javascript:vote(4573, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/naver-fe-platform/사용자의-ui는-유지하고-커스터마이징은-더-강화한-flicking-v4를-공개합니다-82f6b8b0650d" rel="nofollow" id="tr16"><h1>Flicking v4 - 오픈소스 캐로셀 라이브러리</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[49]]></title>
+        <title type="html"><![CDATA[61]]></title>
         <id>https://news.hada.io/topic?id=4573</id>
         <link href="https://news.hada.io/topic?id=4573"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -370,27 +456,27 @@
 - 더 쉬운 커스터마이...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50]]></title>
+        <title type="html"><![CDATA[62]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
         <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4573">10</span> points by <a href="/user?id=xguru">xguru</a> 2일전<span id="unvote4573"></span> | <a href="topic?id=4573" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[51]]></title>
+        <title type="html"><![CDATA[63]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.644Z</updated>
+        <updated>2021-07-10T05:32:29.264Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[52]]></title>
+        <title type="html"><![CDATA[64]]></title>
         <id>https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77</id>
         <link href="https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4572"><a class="upvote" href="javascript:vote(4572, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/class101/엔터프라이즈-프론트엔드-애플리케이션-아키텍쳐-79eef2e30c77" rel="nofollow" id="tr14"><h1>엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4572"><a class="upvote" href="javascript:vote(4572, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/class101/엔터프라이즈-프론트엔드-애플리케이션-아키텍쳐-79eef2e30c77" rel="nofollow" id="tr17"><h1>엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[53]]></title>
+        <title type="html"><![CDATA[65]]></title>
         <id>https://news.hada.io/topic?id=4572</id>
         <link href="https://news.hada.io/topic?id=4572"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -399,27 +485,27 @@
 - 도메인 별 코드베이...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[54]]></title>
+        <title type="html"><![CDATA[66]]></title>
         <id>https://news.hada.io/user?id=hjinu</id>
         <link href="https://news.hada.io/user?id=hjinu"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4572">19</span> points by <a href="/user?id=hjinu">hjinu</a> 2일전<span id="unvote4572"></span> | <a href="topic?id=4572" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4572">19</span> points by <a href="/user?id=hjinu">hjinu</a> 3일전<span id="unvote4572"></span> | <a href="topic?id=4572" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[55]]></title>
+        <title type="html"><![CDATA[67]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.644Z</updated>
+        <updated>2021-07-10T05:32:29.264Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[56]]></title>
+        <title type="html"><![CDATA[68]]></title>
         <id>https://www.linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/</id>
         <link href="https://www.linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4571"><a class="upvote" href="javascript:vote(4571, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/" rel="nofollow" id="tr15"><h1>리눅스재단에 게임엔진(Lumberyard)을 기부한 AWS</h1></a> <span class="topicurl">(linuxfoundation.org)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4571"><a class="upvote" href="javascript:vote(4571, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.linuxfoundation.org/press-release/linux-foundation-to-form-new-open-3d-foundation/" rel="nofollow" id="tr18"><h1>리눅스재단에 게임엔진(Lumberyard)을 기부한 AWS</h1></a> <span class="topicurl">(linuxfoundation.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[57]]></title>
+        <title type="html"><![CDATA[69]]></title>
         <id>https://news.hada.io/topic?id=4571</id>
         <link href="https://news.hada.io/topic?id=4571"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -427,27 +513,27 @@
 - 첫번째 프로젝트로 O3DE 엔진 개발을 ...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[58]]></title>
+        <title type="html"><![CDATA[70]]></title>
         <id>https://news.hada.io/user?id=choijaekyu</id>
         <link href="https://news.hada.io/user?id=choijaekyu"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4571">7</span> points by <a href="/user?id=choijaekyu">choijaekyu</a> 3일전<span id="unvote4571"></span> | <a href="topic?id=4571" class="u">댓글과 토론</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4571">8</span> points by <a href="/user?id=choijaekyu">choijaekyu</a> 3일전<span id="unvote4571"></span> | <a href="topic?id=4571" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[59]]></title>
+        <title type="html"><![CDATA[71]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.644Z</updated>
+        <updated>2021-07-10T05:32:29.264Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[60]]></title>
+        <title type="html"><![CDATA[72]]></title>
         <id>https://techneedle.com/archives/41962</id>
         <link href="https://techneedle.com/archives/41962"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4570"><a class="upvote" href="javascript:vote(4570, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://techneedle.com/archives/41962" rel="nofollow" id="tr16"><h1>제프 베조스가 CEO로서 전한 최고의 교훈들</h1></a> <span class="topicurl">(techneedle.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4570"><a class="upvote" href="javascript:vote(4570, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://techneedle.com/archives/41962" rel="nofollow" id="tr19"><h1>제프 베조스가 CEO로서 전한 최고의 교훈들</h1></a> <span class="topicurl">(techneedle.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[61]]></title>
+        <title type="html"><![CDATA[73]]></title>
         <id>https://news.hada.io/topic?id=4570</id>
         <link href="https://news.hada.io/topic?id=4570"/>
         <updated>2021-07-08T11:49:50.381Z</updated>
@@ -457,27 +543,27 @@
 - Embrace...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[62]]></title>
+        <title type="html"><![CDATA[74]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4570">15</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote4570"></span> | <a href="topic?id=4570" class="u">댓글 1개</a> </td>]]></content>
+        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4570">17</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote4570"></span> | <a href="topic?id=4570" class="u">댓글 1개</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[63]]></title>
+        <title type="html"><![CDATA[75]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.649Z</updated>
+        <updated>2021-07-10T05:32:29.268Z</updated>
     </entry>
     <entry>
-        <title type="html"><![CDATA[64]]></title>
+        <title type="html"><![CDATA[76]]></title>
         <id>https://sessions.riotgames.com/ko-kr/event/sessions/</id>
         <link href="https://sessions.riotgames.com/ko-kr/event/sessions/"/>
         <updated>2021-07-08T11:49:50.382Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4569"><a class="upvote" href="javascript:vote(4569, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://sessions.riotgames.com/ko-kr/event/sessions/" rel="nofollow" id="tr17"><h1>Riot Games, 창작자용 무료 음원 "세션: 바이" 공개</h1></a> <span class="topicurl">(sessions.riotgames.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4569"><a class="upvote" href="javascript:vote(4569, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://sessions.riotgames.com/ko-kr/event/sessions/" rel="nofollow" id="tr20"><h1>Riot Games, 창작자용 무료 음원 "세션: 바이" 공개</h1></a> <span class="topicurl">(sessions.riotgames.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[65]]></title>
+        <title type="html"><![CDATA[77]]></title>
         <id>https://news.hada.io/topic?id=4569</id>
         <link href="https://news.hada.io/topic?id=4569"/>
         <updated>2021-07-08T11:49:50.382Z</updated>
@@ -485,102 +571,17 @@
 - 첫 공개한 앨범 "Sessions: Vi" 는 총 37 곡 (1시간 4...</a></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[66]]></title>
+        <title type="html"><![CDATA[78]]></title>
         <id>https://news.hada.io/user?id=xguru</id>
         <link href="https://news.hada.io/user?id=xguru"/>
         <updated>2021-07-08T11:49:50.367Z</updated>
         <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4569">7</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote4569"></span> | <a href="topic?id=4569" class="u">댓글과 토론</a> </td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[67]]></title>
-        <id>https://news.hada.io/new</id>
-        <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.655Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[68]]></title>
-        <id>https://transfer.sh/</id>
-        <link href="https://transfer.sh/"/>
-        <updated>2021-07-08T11:49:50.384Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4568"><a class="upvote" href="javascript:vote(4568, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://transfer.sh/" rel="nofollow" id="tr18"><h1>Transfer.sh - 쉘에서 쉽게 파일 공유하기</h1></a> <span class="topicurl">(transfer.sh)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[69]]></title>
-        <id>https://news.hada.io/topic?id=4568</id>
-        <link href="https://news.hada.io/topic?id=4568"/>
-        <updated>2021-07-08T11:49:50.386Z</updated>
-        <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4568" class="c99 breakall">- 별도 툴 설치 없이 cURL 또는 transfer 쉘스크립트 커맨드로 파일을 전송하면 파일 공유용 URL이 리턴
-- 10GB 까지 14일간 암호화 해서 무료로 ...</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[70]]></title>
-        <id>https://news.hada.io/user?id=xguru</id>
-        <link href="https://news.hada.io/user?id=xguru"/>
-        <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4568">14</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote4568"></span> | <a href="topic?id=4568" class="u">댓글 4개</a> </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[71]]></title>
-        <id>https://news.hada.io/new</id>
-        <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.657Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[72]]></title>
-        <id>https://neeva.com/</id>
-        <link href="https://neeva.com/"/>
-        <updated>2021-07-08T11:49:50.388Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4567"><a class="upvote" href="javascript:vote(4567, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://neeva.com/" rel="nofollow" id="tr19"><h1>neeva - 광고없는 유료 검색엔진</h1></a> <span class="topicurl">(neeva.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[73]]></title>
-        <id>https://news.hada.io/topic?id=4567</id>
-        <link href="https://news.hada.io/topic?id=4567"/>
-        <updated>2021-07-08T11:49:50.390Z</updated>
-        <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4567" class="c99 breakall">- 구글 전 임원들이 나와서 만든 유료 검색엔진 서비스 
-ㅤ→ 광고 전혀 없음
-ㅤ→ 선호하는 뉴스 소스 와 리테일러 지정해서 검색 결과 커스터마...</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[74]]></title>
-        <id>https://news.hada.io/user?id=xguru</id>
-        <link href="https://news.hada.io/user?id=xguru"/>
-        <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4567">6</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote4567"></span> | <a href="topic?id=4567" class="u">댓글 1개</a> </td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[75]]></title>
-        <id>https://news.hada.io/new</id>
-        <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.660Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[76]]></title>
-        <id>https://github.com/tenacityteam/tenacity</id>
-        <link href="https://github.com/tenacityteam/tenacity"/>
-        <updated>2021-07-08T11:49:50.393Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4566"><a class="upvote" href="javascript:vote(4566, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tenacityteam/tenacity" rel="nofollow" id="tr20"><h1>Tenacity - Audacity 에서 Telemetry를 제거한 포크 버전 </h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[77]]></title>
-        <id>https://news.hada.io/topic?id=4566</id>
-        <link href="https://news.hada.io/topic?id=4566"/>
-        <updated>2021-07-08T11:49:50.394Z</updated>
-        <content type="html"><![CDATA[<td colspan="2"></td><td><a href="topic?id=4566" class="c99 breakall">- 오픈소스 크로스플랫폼 오디오 편집기 Audacity를 포크해서 Telemetry 와 Reporting 을 모두 제거
-- Audacity 의 변경된 Privacy Policy / Cont...</a></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[78]]></title>
-        <id>https://news.hada.io/user?id=xguru</id>
-        <link href="https://news.hada.io/user?id=xguru"/>
-        <updated>2021-07-08T11:49:50.367Z</updated>
-        <content type="html"><![CDATA[<td>&nbsp;</td><td>&nbsp;</td><td colspan="2"><span id="tp4566">4</span> points by <a href="/user?id=xguru">xguru</a> 3일전<span id="unvote4566"></span> | <a href="topic?id=4566" class="u">댓글 3개</a> </td>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[79]]></title>
         <id>https://news.hada.io/new</id>
         <link href="https://news.hada.io/new"/>
-        <updated>2021-07-09T17:40:50.663Z</updated>
+        <updated>2021-07-10T05:32:29.268Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[80]]></title>
