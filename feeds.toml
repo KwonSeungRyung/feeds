@@ -1,6 +1,6 @@
 [geeknews]
 title = "GeekNews"
 url = "https://news.hada.io/new"
-entrySelector = ".topic .topictitle"
-titleSelector = "h1"
-linkSelector = "a"
+entrySelector = "body > main > article > table > tbody"
+titleSelector = "tr.topic > td.topictitle > a > h1"
+linkSelector = "tr.topic > td.topictitle > a"
