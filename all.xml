@@ -2,6 +2,146 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KwonSeungRyung.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-12T06:02:14.863Z</updated>
+    <updated>2021-07-12T06:47:13.577Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[스타트업에서 데이터 팀 만들기 (GeekNews)]]></title>
+        <id>https://erikbern.com/2021/07/07/the-data-team-a-short-story.html</id>
+        <link href="https://erikbern.com/2021/07/07/the-data-team-a-short-story.html"/>
+        <updated>2021-07-12T06:47:13.435Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4597"><a class="upvote" href="javascript:vote(4597, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://erikbern.com/2021/07/07/the-data-team-a-short-story.html" rel="nofollow" id="tr1"><h1>스타트업에서 데이터 팀 만들기</h1></a> <span class="topicurl">(erikbern.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creep - 4px 넓이 픽셀 폰트 (GeekNews)]]></title>
+        <id>https://github.com/romeovs/creep</id>
+        <link href="https://github.com/romeovs/creep"/>
+        <updated>2021-07-12T06:47:13.435Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4596"><a class="upvote" href="javascript:vote(4596, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/romeovs/creep" rel="nofollow" id="tr2"><h1>Creep - 4px 넓이 픽셀 폰트</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앱스토어 정책, 과연 중요할까? 누구에게, 얼마나? (GeekNews)]]></title>
+        <id>https://ebadak.news/2021/07/11/app-store/</id>
+        <link href="https://ebadak.news/2021/07/11/app-store/"/>
+        <updated>2021-07-12T06:47:13.435Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4595"><a class="upvote" href="javascript:vote(4595, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ebadak.news/2021/07/11/app-store/" rel="nofollow" id="tr3"><h1>앱스토어 정책, 과연 중요할까? 누구에게, 얼마나?</h1></a> <span class="topicurl">(ebadak.news)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[tilemaker - OpenStreetMap 데이터로 지도 벡터 타일 만들기 (GeekNews)]]></title>
+        <id>https://tilemaker.org/</id>
+        <link href="https://tilemaker.org/"/>
+        <updated>2021-07-12T06:47:13.435Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4594"><a class="upvote" href="javascript:vote(4594, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://tilemaker.org/" rel="nofollow" id="tr4"><h1>tilemaker - OpenStreetMap 데이터로 지도 벡터 타일 만들기</h1></a> <span class="topicurl">(tilemaker.org)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevTron - k8s용 소프트웨어 딜리버리 워크플로우 (GeekNews)]]></title>
+        <id>https://devtron.ai/</id>
+        <link href="https://devtron.ai/"/>
+        <updated>2021-07-12T06:47:13.438Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4593"><a class="upvote" href="javascript:vote(4593, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://devtron.ai/" rel="nofollow" id="tr5"><h1>DevTron - k8s용 소프트웨어 딜리버리 워크플로우</h1></a> <span class="topicurl">(devtron.ai)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSS에서 100%는 어떤 의미일까 (GeekNews)]]></title>
+        <id>https://wattenberger.com/blog/css-percents</id>
+        <link href="https://wattenberger.com/blog/css-percents"/>
+        <updated>2021-07-12T06:47:13.440Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4591"><a class="upvote" href="javascript:vote(4591, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://wattenberger.com/blog/css-percents" rel="nofollow" id="tr6"><h1>CSS에서 100%는 어떤 의미일까</h1></a> <span class="topicurl">(wattenberger.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pulse - 애플 OS를 위한 네트웍 인스펙터 & 로거 (GeekNews)]]></title>
+        <id>https://kean.blog/pulse/home</id>
+        <link href="https://kean.blog/pulse/home"/>
+        <updated>2021-07-12T06:47:13.441Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4590"><a class="upvote" href="javascript:vote(4590, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://kean.blog/pulse/home" rel="nofollow" id="tr7"><h1>Pulse - 애플 OS를 위한 네트웍 인스펙터 &amp; 로거</h1></a> <span class="topicurl">(kean.blog)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 상반기 - 개발자는 이 책을 읽었다 (GeekNews)]]></title>
+        <id>http://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42675</id>
+        <link href="http://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42675"/>
+        <updated>2021-07-12T06:47:13.442Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4589"><a class="upvote" href="javascript:vote(4589, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="http://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42675" rel="nofollow" id="tr8"><h1>2021년 상반기 - 개발자는 이 책을 읽었다</h1></a> <span class="topicurl">(kyobobook.co.kr)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북의 GraalVM 도입기 (GeekNews)]]></title>
+        <id>https://blogs.oracle.com/javakr/graalvm-facebook</id>
+        <link href="https://blogs.oracle.com/javakr/graalvm-facebook"/>
+        <updated>2021-07-12T06:47:13.443Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4588"><a class="upvote" href="javascript:vote(4588, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blogs.oracle.com/javakr/graalvm-facebook" rel="nofollow" id="tr9"><h1>페이스북의 GraalVM 도입기</h1></a> <span class="topicurl">(blogs.oracle.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS InfiniDash 이야기 (GeekNews)]]></title>
+        <id>https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/</id>
+        <link href="https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/"/>
+        <updated>2021-07-12T06:47:13.448Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4587"><a class="upvote" href="javascript:vote(4587, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://siliconangle.com/2021/07/05/fake-amazon-cloud-service-aws-infinidash-quickly-goes-viral/" rel="nofollow" id="tr10"><h1>AWS InfiniDash 이야기</h1></a> <span class="topicurl">(siliconangle.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno Deploy Beta 1 (GeekNews)]]></title>
+        <id>https://deno.com/blog/deploy-beta1</id>
+        <link href="https://deno.com/blog/deploy-beta1"/>
+        <updated>2021-07-12T06:47:13.449Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4586"><a class="upvote" href="javascript:vote(4586, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://deno.com/blog/deploy-beta1" rel="nofollow" id="tr11"><h1>Deno Deploy Beta 1</h1></a> <span class="topicurl">(deno.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goomics - 구글 사내 만화 (GeekNews)]]></title>
+        <id>https://goomics.net/</id>
+        <link href="https://goomics.net/"/>
+        <updated>2021-07-12T06:47:13.450Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4585"><a class="upvote" href="javascript:vote(4585, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://goomics.net/" rel="nofollow" id="tr12"><h1>Goomics - 구글 사내 만화</h1></a> <span class="topicurl">(goomics.net)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최선을 다한다는 것 (GeekNews)]]></title>
+        <id>https://newspeppermint.com/2021/07/08/workhard1/</id>
+        <link href="https://newspeppermint.com/2021/07/08/workhard1/"/>
+        <updated>2021-07-12T06:47:13.453Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4584"><a class="upvote" href="javascript:vote(4584, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://newspeppermint.com/2021/07/08/workhard1/" rel="nofollow" id="tr13"><h1>최선을 다한다는 것</h1></a> <span class="topicurl">(newspeppermint.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ModernCloud - 브라우저 기반 서버리스 플랫폼 (GeekNews)]]></title>
+        <id>https://github.com/ModernCloud/moderncloud</id>
+        <link href="https://github.com/ModernCloud/moderncloud"/>
+        <updated>2021-07-12T06:47:13.454Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4583"><a class="upvote" href="javascript:vote(4583, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/ModernCloud/moderncloud" rel="nofollow" id="tr14"><h1>ModernCloud - 브라우저 기반 서버리스 플랫폼</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weferral - 레퍼럴 & 어필리에이트 오픈소스 (GeekNews)]]></title>
+        <id>https://github.com/WeferralHq/weferral</id>
+        <link href="https://github.com/WeferralHq/weferral"/>
+        <updated>2021-07-12T06:47:13.454Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4582"><a class="upvote" href="javascript:vote(4582, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/WeferralHq/weferral" rel="nofollow" id="tr15"><h1>Weferral - 레퍼럴 &amp; 어필리에이트 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[컴퓨터비전으로 회의중 딴짓하는 국회의원 잡아내기 (GeekNews)]]></title>
+        <id>https://driesdepoorter.be/theflemishscrollers/</id>
+        <link href="https://driesdepoorter.be/theflemishscrollers/"/>
+        <updated>2021-07-12T06:47:13.455Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4581"><a class="upvote" href="javascript:vote(4581, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://driesdepoorter.be/theflemishscrollers/" rel="nofollow" id="tr16"><h1>컴퓨터비전으로 회의중 딴짓하는 국회의원 잡아내기</h1></a> <span class="topicurl">(driesdepoorter.be)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuplex - 병렬 빅데이터 처리 프레임워크 (GeekNews)]]></title>
+        <id>https://github.com/tuplex/tuplex</id>
+        <link href="https://github.com/tuplex/tuplex"/>
+        <updated>2021-07-12T06:47:13.455Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4580"><a class="upvote" href="javascript:vote(4580, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tuplex/tuplex" rel="nofollow" id="tr17"><h1>Tuplex - 병렬 빅데이터 처리 프레임워크</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVM 에코시스템 보고서 2021 (GeekNews)]]></title>
+        <id>https://snyk.io/jvm-ecosystem-report-2021/</id>
+        <link href="https://snyk.io/jvm-ecosystem-report-2021/"/>
+        <updated>2021-07-12T06:47:13.456Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4579"><a class="upvote" href="javascript:vote(4579, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://snyk.io/jvm-ecosystem-report-2021/" rel="nofollow" id="tr18"><h1>JVM 에코시스템 보고서 2021</h1></a> <span class="topicurl">(snyk.io)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeekNews 잔디,Teams,Discord 봇 추가 (GeekNews)]]></title>
+        <id>https://news.hada.io/blog/bots</id>
+        <link href="https://news.hada.io/blog/bots"/>
+        <updated>2021-07-12T06:47:13.457Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4578"><a class="upvote" href="javascript:vote(4578, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://news.hada.io/blog/bots" rel="nofollow" id="tr19"><h1>GeekNews 잔디,Teams,Discord 봇 추가</h1></a> <span class="topicurl">(news.hada.io)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miniflare - CloudFlare Workers 로컬 시뮬레이터 (GeekNews)]]></title>
+        <id>https://github.com/mrbbot/miniflare</id>
+        <link href="https://github.com/mrbbot/miniflare"/>
+        <updated>2021-07-12T06:47:13.458Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4577"><a class="upvote" href="javascript:vote(4577, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/mrbbot/miniflare" rel="nofollow" id="tr20"><h1>Miniflare - CloudFlare Workers 로컬 시뮬레이터</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
 </feed>
