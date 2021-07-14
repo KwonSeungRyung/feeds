@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KwonSeungRyung.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-14T05:32:28.605Z</updated>
+    <updated>2021-07-14T17:40:38.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Apache Heron - 실시간, 분산, fault-tolerant 스트림 처리 엔진 (GeekNews)]]></title>
