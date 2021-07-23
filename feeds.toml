@@ -5,3 +5,11 @@ entrySelector = ".topic"
 titleSelector = "td.topictitle > a > h1"
 linkSelector = "td.topictitle > a"
 contentSelector = "body > main > article > table > tbody > tr.topictitle > a > h1"
+
+[velog]
+title = "velog"
+url = "https://velog.io"
+entrySelector = ".sc-dVhcbM"
+titleSelector = "h4"
+linkSelector = ".sc-fMiknA"
+contentSelector = ".description-wrapper"
