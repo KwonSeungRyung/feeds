@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews</title>
-    <updated>2021-07-23T17:41:15.084Z</updated>
+    <updated>2021-07-25T17:39:20.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart]]></title>
+        <id>https://github.com/kineung-us/prepull</id>
+        <link href="https://github.com/kineung-us/prepull"/>
+        <updated>2021-07-25T17:39:18.703Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4690"><a class="upvote" href="javascript:vote(4690, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/kineung-us/prepull" rel="nofollow" id="tr1"><h1>Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fiddly - Readme를 예쁜 웹페이지로 만들기]]></title>
+        <id>https://github.com/SaraVieira/fiddly</id>
+        <link href="https://github.com/SaraVieira/fiddly"/>
+        <updated>2021-07-25T17:39:18.703Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4688"><a class="upvote" href="javascript:vote(4688, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/SaraVieira/fiddly" rel="nofollow" id="tr2"><h1>Fiddly - Readme를 예쁜 웹페이지로 만들기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Riju - 모든 프로그래밍 언어에 대한 Playground]]></title>
+        <id>https://riju.codes/</id>
+        <link href="https://riju.codes/"/>
+        <updated>2021-07-25T17:39:18.706Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4687"><a class="upvote" href="javascript:vote(4687, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://riju.codes/" rel="nofollow" id="tr3"><h1>Riju - 모든 프로그래밍 언어에 대한 Playground</h1></a> <span class="topicurl">(riju.codes)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus, Mixed Reality용 Passthrough API 공개]]></title>
+        <id>https://developer.oculus.com/blog/mixed-reality-with-passthrough/</id>
+        <link href="https://developer.oculus.com/blog/mixed-reality-with-passthrough/"/>
+        <updated>2021-07-25T17:39:18.706Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4686"><a class="upvote" href="javascript:vote(4686, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developer.oculus.com/blog/mixed-reality-with-passthrough/" rel="nofollow" id="tr4"><h1>Oculus, Mixed Reality용 Passthrough API 공개</h1></a> <span class="topicurl">(developer.oculus.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Typed(타입드) - 문서 작성과 연계되는 지식 수집/관리 툴]]></title>
+        <id>https://www.typed.biz/</id>
+        <link href="https://www.typed.biz/"/>
+        <updated>2021-07-25T17:39:18.706Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4685"><a class="upvote" href="javascript:vote(4685, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.typed.biz/" rel="nofollow" id="tr5"><h1>Typed(타입드) - 문서 작성과 연계되는 지식 수집/관리 툴</h1></a> <span class="topicurl">(typed.biz)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 11 'Bullseye' 2021-08-21 릴리즈 예정]]></title>
+        <id>https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html</id>
+        <link href="https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html"/>
+        <updated>2021-07-25T17:39:18.706Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4684"><a class="upvote" href="javascript:vote(4684, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html" rel="nofollow" id="tr6"><h1>Debian 11 'Bullseye' 2021-08-21 릴리즈 예정</h1></a> <span class="topicurl">(lists.debian.org)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, 1글자 오타로 크롬OS에 로그인 불가능한 업데이트 배포 후 수정본 배포]]></title>
+        <id>https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/</id>
+        <link href="https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/"/>
+        <updated>2021-07-25T17:39:18.707Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4683"><a class="upvote" href="javascript:vote(4683, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/" rel="nofollow" id="tr7"><h1>구글, 1글자 오타로 크롬OS에 로그인 불가능한 업데이트 배포 후 수정본 배포</h1></a> <span class="topicurl">(arstechnica.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BirdNET - 새 지저귐 소리로 새 판별하기]]></title>
+        <id>https://birdnet.cornell.edu/</id>
+        <link href="https://birdnet.cornell.edu/"/>
+        <updated>2021-07-25T17:39:18.707Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4682"><a class="upvote" href="javascript:vote(4682, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://birdnet.cornell.edu/" rel="nofollow" id="tr8"><h1>BirdNET - 새 지저귐 소리로 새 판별하기</h1></a> <span class="topicurl">(birdnet.cornell.edu)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Framework Laptop 배송 시작 및 리뷰들 공개]]></title>
+        <id>https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews</id>
+        <link href="https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews"/>
+        <updated>2021-07-25T17:39:18.708Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4681"><a class="upvote" href="javascript:vote(4681, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews" rel="nofollow" id="tr9"><h1>Framework Laptop 배송 시작 및 리뷰들 공개</h1></a> <span class="topicurl">(frame.work)</span></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Audacity가 개인정보 보호 정책 업데이트 및 사과문을 올림]]></title>
         <id>https://github.com/audacity/audacity/discussions/1353</id>
         <link href="https://github.com/audacity/audacity/discussions/1353"/>
         <updated>2021-07-23T13:07:45.810Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4680"><a class="upvote" href="javascript:vote(4680, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/audacity/audacity/discussions/1353" rel="nofollow" id="tr1"><h1>Audacity가 개인정보 보호 정책 업데이트 및 사과문을 올림</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4680"><a class="upvote" href="javascript:vote(4680, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/audacity/audacity/discussions/1353" rel="nofollow" id="tr10"><h1>Audacity가 개인정보 보호 정책 업데이트 및 사과문을 올림</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=4679</id>
         <link href="https://news.hada.io/topic?id=4679"/>
         <updated>2021-07-23T13:07:45.814Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4679"><a class="upvote" href="javascript:vote(4679, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4679" id="tr2"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4679"><a class="upvote" href="javascript:vote(4679, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4679" id="tr11"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FNM - Fast Node Manager]]></title>
         <id>https://github.com/Schniz/fnm</id>
         <link href="https://github.com/Schniz/fnm"/>
         <updated>2021-07-23T13:07:45.818Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4678"><a class="upvote" href="javascript:vote(4678, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Schniz/fnm" rel="nofollow" id="tr3"><h1>FNM - Fast Node Manager</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4678"><a class="upvote" href="javascript:vote(4678, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Schniz/fnm" rel="nofollow" id="tr12"><h1>FNM - Fast Node Manager</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gaze - 파일 저장할 때마다 명령 실행하기]]></title>
         <id>https://github.com/wtetsu/gaze</id>
         <link href="https://github.com/wtetsu/gaze"/>
         <updated>2021-07-23T13:07:45.824Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4677"><a class="upvote" href="javascript:vote(4677, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/wtetsu/gaze" rel="nofollow" id="tr4"><h1>Gaze - 파일 저장할 때마다 명령 실행하기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4677"><a class="upvote" href="javascript:vote(4677, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/wtetsu/gaze" rel="nofollow" id="tr13"><h1>Gaze - 파일 저장할 때마다 명령 실행하기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SpaceX의 저궤도 위성 인터넷 Starlink 4개월 이용기]]></title>
         <id>https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months</id>
         <link href="https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months"/>
         <updated>2021-07-23T13:07:45.827Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4676"><a class="upvote" href="javascript:vote(4676, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months" rel="nofollow" id="tr5"><h1>SpaceX의 저궤도 위성 인터넷 Starlink 4개월 이용기 </h1></a> <span class="topicurl">(jeffgeerling.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4676"><a class="upvote" href="javascript:vote(4676, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.jeffgeerling.com/blog/2021/spacexs-starlink-review-four-months" rel="nofollow" id="tr14"><h1>SpaceX의 저궤도 위성 인터넷 Starlink 4개월 이용기 </h1></a> <span class="topicurl">(jeffgeerling.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NSO Group Pegasus 포렌식 보고서]]></title>
         <id>https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/</id>
         <link href="https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/"/>
         <updated>2021-07-23T13:07:45.828Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4675"><a class="upvote" href="javascript:vote(4675, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/" rel="nofollow" id="tr6"><h1>NSO Group Pegasus 포렌식 보고서</h1></a> <span class="topicurl">(amnesty.org)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4675"><a class="upvote" href="javascript:vote(4675, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/" rel="nofollow" id="tr15"><h1>NSO Group Pegasus 포렌식 보고서</h1></a> <span class="topicurl">(amnesty.org)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tinycon - Favicon 조작 라이브러리]]></title>
         <id>https://github.com/tommoor/tinycon</id>
         <link href="https://github.com/tommoor/tinycon"/>
         <updated>2021-07-23T13:07:45.829Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4674"><a class="upvote" href="javascript:vote(4674, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tommoor/tinycon" rel="nofollow" id="tr7"><h1>Tinycon - Favicon 조작 라이브러리 </h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4674"><a class="upvote" href="javascript:vote(4674, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tommoor/tinycon" rel="nofollow" id="tr16"><h1>Tinycon - Favicon 조작 라이브러리 </h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ultimate Backend - 멀티테넌트 SaaS 스타터 킷 오픈소스]]></title>
         <id>https://github.com/juicycleff/ultimate-backend</id>
         <link href="https://github.com/juicycleff/ultimate-backend"/>
         <updated>2021-07-23T13:07:45.830Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4673"><a class="upvote" href="javascript:vote(4673, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/juicycleff/ultimate-backend" rel="nofollow" id="tr8"><h1>Ultimate Backend - 멀티테넌트 SaaS 스타터 킷 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4673"><a class="upvote" href="javascript:vote(4673, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/juicycleff/ultimate-backend" rel="nofollow" id="tr17"><h1>Ultimate Backend - 멀티테넌트 SaaS 스타터 킷 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아카마이 Edge DNS 서비스 장애]]></title>
         <id>https://edgedns.status.akamai.com/</id>
         <link href="https://edgedns.status.akamai.com/"/>
         <updated>2021-07-23T13:07:45.834Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4672"><a class="upvote" href="javascript:vote(4672, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://edgedns.status.akamai.com/" rel="nofollow" id="tr9"><h1>아카마이 Edge DNS 서비스 장애</h1></a> <span class="topicurl">(edgedns.status.akamai.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4672"><a class="upvote" href="javascript:vote(4672, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://edgedns.status.akamai.com/" rel="nofollow" id="tr18"><h1>아카마이 Edge DNS 서비스 장애</h1></a> <span class="topicurl">(edgedns.status.akamai.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Startup Concepts - 만화책 스타일의 스타트업 단어 설명]]></title>
         <id>https://ajuniorvc.com/startup-concepts/</id>
         <link href="https://ajuniorvc.com/startup-concepts/"/>
         <updated>2021-07-23T13:07:45.856Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4671"><a class="upvote" href="javascript:vote(4671, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ajuniorvc.com/startup-concepts/" rel="nofollow" id="tr10"><h1>Startup Concepts - 만화책 스타일의 스타트업 단어 설명 </h1></a> <span class="topicurl">(ajuniorvc.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4671"><a class="upvote" href="javascript:vote(4671, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ajuniorvc.com/startup-concepts/" rel="nofollow" id="tr19"><h1>Startup Concepts - 만화책 스타일의 스타트업 단어 설명 </h1></a> <span class="topicurl">(ajuniorvc.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AVPress - 인-브라우저 비디오 압축 도구]]></title>
         <id>https://avpress.zaps.dev/</id>
         <link href="https://avpress.zaps.dev/"/>
         <updated>2021-07-23T13:07:45.856Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4670"><a class="upvote" href="javascript:vote(4670, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://avpress.zaps.dev/" rel="nofollow" id="tr11"><h1>AVPress - 인-브라우저 비디오 압축 도구 </h1></a> <span class="topicurl">(avpress.zaps.dev)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Svelte Storm - 오픈소스 Svelte IDE]]></title>
-        <id>https://github.com/oslabs-beta/SvelteStorm</id>
-        <link href="https://github.com/oslabs-beta/SvelteStorm"/>
-        <updated>2021-07-23T13:07:45.856Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4669"><a class="upvote" href="javascript:vote(4669, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/oslabs-beta/SvelteStorm" rel="nofollow" id="tr12"><h1>Svelte Storm - 오픈소스 Svelte IDE</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RAWGraphs - 스프레드시트와 데이터 시각화 사이의 미싱링크]]></title>
-        <id>https://rawgraphs.io/</id>
-        <link href="https://rawgraphs.io/"/>
-        <updated>2021-07-23T13:07:45.856Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4668"><a class="upvote" href="javascript:vote(4668, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://rawgraphs.io/" rel="nofollow" id="tr13"><h1>RAWGraphs - 스프레드시트와 데이터 시각화 사이의 미싱링크</h1></a> <span class="topicurl">(rawgraphs.io)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Daptin - 오픈소스 Backend as a Service & Headless CMS]]></title>
-        <id>https://github.com/daptin/daptin</id>
-        <link href="https://github.com/daptin/daptin"/>
-        <updated>2021-07-23T13:07:45.856Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4667"><a class="upvote" href="javascript:vote(4667, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/daptin/daptin" rel="nofollow" id="tr14"><h1>Daptin - 오픈소스 Backend as a Service &amp; Headless CMS</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Salesforce, Slack 인수 완료]]></title>
-        <id>https://slack.com/intl/en-es/blog/news/salesforce-completes-acquisition-of-slack</id>
-        <link href="https://slack.com/intl/en-es/blog/news/salesforce-completes-acquisition-of-slack"/>
-        <updated>2021-07-23T13:07:45.856Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4666"><a class="upvote" href="javascript:vote(4666, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://slack.com/intl/en-es/blog/news/salesforce-completes-acquisition-of-slack" rel="nofollow" id="tr15"><h1>Salesforce, Slack 인수 완료</h1></a> <span class="topicurl">(slack.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brython - 파이썬3의 브라우저 구현체]]></title>
-        <id>https://github.com/brython-dev/brython</id>
-        <link href="https://github.com/brython-dev/brython"/>
-        <updated>2021-07-21T05:32:18.227Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4665"><a class="upvote" href="javascript:vote(4665, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/brython-dev/brython" rel="nofollow" id="tr16"><h1>Brython - 파이썬3의 브라우저 구현체 </h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sioyek - 논문/기술서적을 위한 빠른 PDF 뷰어]]></title>
-        <id>https://sioyek.info/</id>
-        <link href="https://sioyek.info/"/>
-        <updated>2021-07-21T05:32:18.228Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4664"><a class="upvote" href="javascript:vote(4664, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://sioyek.info/" rel="nofollow" id="tr17"><h1>Sioyek - 논문/기술서적을 위한 빠른 PDF 뷰어</h1></a> <span class="topicurl">(sioyek.info)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node-RED 2.0 릴리즈 - Low-Code 오픈소스]]></title>
-        <id>https://nodered.org/blog/2021/07/20/version-2-0-released</id>
-        <link href="https://nodered.org/blog/2021/07/20/version-2-0-released"/>
-        <updated>2021-07-21T05:32:18.231Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4663"><a class="upvote" href="javascript:vote(4663, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://nodered.org/blog/2021/07/20/version-2-0-released" rel="nofollow" id="tr18"><h1>Node-RED 2.0 릴리즈 - Low-Code 오픈소스</h1></a> <span class="topicurl">(nodered.org)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스]]></title>
-        <id>https://github.com/Endava/cats</id>
-        <link href="https://github.com/Endava/cats"/>
-        <updated>2021-07-21T05:32:18.231Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4662"><a class="upvote" href="javascript:vote(4662, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Endava/cats" rel="nofollow" id="tr19"><h1>CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quickwit - 비용 효율적인 분산 검색엔진 오픈소스]]></title>
-        <id>https://github.com/quickwit-inc/quickwit/</id>
-        <link href="https://github.com/quickwit-inc/quickwit/"/>
-        <updated>2021-07-21T05:32:18.254Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4661"><a class="upvote" href="javascript:vote(4661, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/quickwit-inc/quickwit/" rel="nofollow" id="tr20"><h1>Quickwit - 비용 효율적인 분산 검색엔진 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4670"><a class="upvote" href="javascript:vote(4670, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://avpress.zaps.dev/" rel="nofollow" id="tr20"><h1>AVPress - 인-브라우저 비디오 압축 도구 </h1></a> <span class="topicurl">(avpress.zaps.dev)</span></td>]]></content>
     </entry>
 </feed>
