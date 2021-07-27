@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://KwonSeungRyung.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-26T05:32:17.148Z</updated>
+    <updated>2021-07-27T05:32:33.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[qiskit 양자 컴퓨터 입문 (GeekNews)]]></title>
+        <id>https://qiskit.org/learn/intro-qc-qh/</id>
+        <link href="https://qiskit.org/learn/intro-qc-qh/"/>
+        <updated>2021-07-27T05:32:31.019Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4709"><a class="upvote" href="javascript:vote(4709, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://qiskit.org/learn/intro-qc-qh/" rel="nofollow" id="tr1"><h1>qiskit 양자 컴퓨터 입문</h1></a> <span class="topicurl">(qiskit.org)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 현재 어떤 개발 언어를 사용하고 계신가요? (GeekNews)]]></title>
+        <id>https://news.hada.io/topic?id=4708</id>
+        <link href="https://news.hada.io/topic?id=4708"/>
+        <updated>2021-07-27T05:32:31.019Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4708"><a class="upvote" href="javascript:vote(4708, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4708" id="tr2"><h1>Ask GN: 현재 어떤 개발 언어를 사용하고 계신가요?</h1></a> <span class="topicurl"></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GeekNews 2주년 회고 (GeekNews)]]></title>
+        <id>https://news.hada.io/blog/geeknews_2year</id>
+        <link href="https://news.hada.io/blog/geeknews_2year"/>
+        <updated>2021-07-27T05:32:31.020Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4707"><a class="upvote" href="javascript:vote(4707, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://news.hada.io/blog/geeknews_2year" rel="nofollow" id="tr3"><h1>GeekNews 2주년 회고</h1></a> <span class="topicurl">(news.hada.io)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[State of Data Science 2021 보고서 [46p PDF] (GeekNews)]]></title>
+        <id>https://www.anaconda.com/state-of-data-science-2021</id>
+        <link href="https://www.anaconda.com/state-of-data-science-2021"/>
+        <updated>2021-07-27T05:32:31.020Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4706"><a class="upvote" href="javascript:vote(4706, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.anaconda.com/state-of-data-science-2021" rel="nofollow" id="tr4"><h1>State of Data Science 2021 보고서 [46p PDF]</h1></a> <span class="topicurl">(anaconda.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fullstack Boilerplate (GeekNews)]]></title>
+        <id>https://github.com/NoQuarterTeam/boilerplate</id>
+        <link href="https://github.com/NoQuarterTeam/boilerplate"/>
+        <updated>2021-07-27T05:32:31.033Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4705"><a class="upvote" href="javascript:vote(4705, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/NoQuarterTeam/boilerplate" rel="nofollow" id="tr5"><h1>Fullstack Boilerplate</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CudaText - 크로스플랫폼 코드 에디터 (GeekNews)]]></title>
+        <id>https://cudatext.github.io/</id>
+        <link href="https://cudatext.github.io/"/>
+        <updated>2021-07-27T05:32:31.040Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4704"><a class="upvote" href="javascript:vote(4704, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://cudatext.github.io/" rel="nofollow" id="tr6"><h1>CudaText - 크로스플랫폼 코드 에디터</h1></a> <span class="topicurl">(cudatext.github.io)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엘리베이터 프로그래밍 게임 (GeekNews)]]></title>
+        <id>https://play.elevatorsaga.com/</id>
+        <link href="https://play.elevatorsaga.com/"/>
+        <updated>2021-07-27T05:32:31.043Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4703"><a class="upvote" href="javascript:vote(4703, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://play.elevatorsaga.com/" rel="nofollow" id="tr7"><h1>엘리베이터 프로그래밍 게임</h1></a> <span class="topicurl">(play.elevatorsaga.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직원들이 집에서 일하는 걸 포기하는 대신, 회사를 나가고 있습니다. (GeekNews)]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home"/>
+        <updated>2021-07-27T05:32:31.048Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4702"><a class="upvote" href="javascript:vote(4702, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.bloomberg.com/news/articles/2021-06-01/return-to-office-employees-are-quitting-instead-of-giving-up-work-from-home" rel="nofollow" id="tr8"><h1>직원들이 집에서 일하는 걸 포기하는 대신, 회사를 나가고 있습니다.</h1></a> <span class="topicurl">(bloomberg.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸러티가 있으신가요? (GeekNews)]]></title>
+        <id>https://news.hada.io/topic?id=4701</id>
+        <link href="https://news.hada.io/topic?id=4701"/>
+        <updated>2021-07-27T05:32:31.059Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4701"><a class="upvote" href="javascript:vote(4701, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4701" id="tr9"><h1>Ask GN: 근처 사람들은 잘 안 쓰는데, 유용하게 쓰고 계신 유틸러티가 있으신가요? </h1></a> <span class="topicurl"></span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Plate 1.0 - Slate & React용 에디터 플러그인 시스템 (GeekNews)]]></title>
+        <id>https://plate.udecode.io/</id>
+        <link href="https://plate.udecode.io/"/>
+        <updated>2021-07-27T05:32:31.064Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4700"><a class="upvote" href="javascript:vote(4700, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://plate.udecode.io/" rel="nofollow" id="tr10"><h1>Plate 1.0 - Slate &amp; React용 에디터 플러그인 시스템</h1></a> <span class="topicurl">(plate.udecode.io)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pyenv 를 활용한 파이썬 버전관리와 가상환경 구축하는 법 (GeekNews)]]></title>
+        <id>https://medium.com/@visiodeibc/pyenv-%EC%82%BD%EC%A7%88%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B2%95-641c451512e6</id>
+        <link href="https://medium.com/@visiodeibc/pyenv-%EC%82%BD%EC%A7%88%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B2%95-641c451512e6"/>
+        <updated>2021-07-27T05:32:31.065Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4699"><a class="upvote" href="javascript:vote(4699, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/@visiodeibc/pyenv-%EC%82%BD%EC%A7%88%EA%B8%B0-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B4%80%EB%A6%AC%EC%99%80-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B2%95-641c451512e6" rel="nofollow" id="tr11"><h1>Pyenv 를 활용한 파이썬 버전관리와 가상환경 구축하는 법</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IaaC 코드로 작성한 인프라의 비용 추산 (GeekNews)]]></title>
         <id>https://github.com/infracost/infracost</id>
         <link href="https://github.com/infracost/infracost"/>
         <updated>2021-07-26T05:32:14.817Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4698"><a class="upvote" href="javascript:vote(4698, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/infracost/infracost" rel="nofollow" id="tr1"><h1>IaaC 코드로 작성한 인프라의 비용 추산</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4698"><a class="upvote" href="javascript:vote(4698, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/infracost/infracost" rel="nofollow" id="tr12"><h1>IaaC 코드로 작성한 인프라의 비용 추산</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주니어 개발자의 스타트업 취업기 (GeekNews)]]></title>
         <id>https://medium.com/visiodeibc/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B0%80%EC%B9%98-%EA%B3%B5%EB%8F%8C%EC%9D%B4-%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EB%BD%80%EA%B8%B0-98879d45745b</id>
         <link href="https://medium.com/visiodeibc/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B0%80%EC%B9%98-%EA%B3%B5%EB%8F%8C%EC%9D%B4-%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EB%BD%80%EA%B8%B0-98879d45745b"/>
         <updated>2021-07-26T05:32:14.817Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4697"><a class="upvote" href="javascript:vote(4697, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/visiodeibc/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B0%80%EC%B9%98-%EA%B3%B5%EB%8F%8C%EC%9D%B4-%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EB%BD%80%EA%B8%B0-98879d45745b" rel="nofollow" id="tr2"><h1>주니어 개발자의 스타트업 취업기</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4697"><a class="upvote" href="javascript:vote(4697, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/visiodeibc/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%82%AC%ED%9A%8C%EC%A0%81-%EA%B0%80%EC%B9%98-%EA%B3%B5%EB%8F%8C%EC%9D%B4-%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EB%BD%80%EA%B8%B0-98879d45745b" rel="nofollow" id="tr13"><h1>주니어 개발자의 스타트업 취업기</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다음 스타트업의 대세는 커뮤니티 주도형이 될 것 (GeekNews)]]></title>
         <id>https://medium.com/swlh/why-the-next-wave-of-startups-will-be-community-led-e4ed219e6637</id>
         <link href="https://medium.com/swlh/why-the-next-wave-of-startups-will-be-community-led-e4ed219e6637"/>
         <updated>2021-07-26T05:32:14.818Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4696"><a class="upvote" href="javascript:vote(4696, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/swlh/why-the-next-wave-of-startups-will-be-community-led-e4ed219e6637" rel="nofollow" id="tr3"><h1>다음 스타트업의 대세는 커뮤니티 주도형이 될 것</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4696"><a class="upvote" href="javascript:vote(4696, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/swlh/why-the-next-wave-of-startups-will-be-community-led-e4ed219e6637" rel="nofollow" id="tr14"><h1>다음 스타트업의 대세는 커뮤니티 주도형이 될 것</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FZF for JavaScript - 브라우저에서도 퍼지 검색을 (GeekNews)]]></title>
         <id>https://github.com/ajitid/fzf-for-js</id>
         <link href="https://github.com/ajitid/fzf-for-js"/>
         <updated>2021-07-26T05:32:14.818Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4695"><a class="upvote" href="javascript:vote(4695, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/ajitid/fzf-for-js" rel="nofollow" id="tr4"><h1>FZF for JavaScript - 브라우저에서도 퍼지 검색을</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4695"><a class="upvote" href="javascript:vote(4695, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/ajitid/fzf-for-js" rel="nofollow" id="tr15"><h1>FZF for JavaScript - 브라우저에서도 퍼지 검색을</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Angle-grinder - 실시간 로그 뷰어 (GeekNews)]]></title>
         <id>https://github.com/rcoh/angle-grinder</id>
         <link href="https://github.com/rcoh/angle-grinder"/>
         <updated>2021-07-26T05:32:14.819Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4694"><a class="upvote" href="javascript:vote(4694, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/rcoh/angle-grinder" rel="nofollow" id="tr5"><h1>Angle-grinder - 실시간 로그 뷰어</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4694"><a class="upvote" href="javascript:vote(4694, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/rcoh/angle-grinder" rel="nofollow" id="tr16"><h1>Angle-grinder - 실시간 로그 뷰어</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AWS의 어처구니 없는(Egregious) Egress 비용 (GeekNews)]]></title>
         <id>https://blog.cloudflare.com/aws-egregious-egress/</id>
         <link href="https://blog.cloudflare.com/aws-egregious-egress/"/>
         <updated>2021-07-26T05:32:14.824Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4693"><a class="upvote" href="javascript:vote(4693, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.cloudflare.com/aws-egregious-egress/" rel="nofollow" id="tr6"><h1>AWS의 어처구니 없는(Egregious) Egress 비용</h1></a> <span class="topicurl">(blog.cloudflare.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4693"><a class="upvote" href="javascript:vote(4693, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.cloudflare.com/aws-egregious-egress/" rel="nofollow" id="tr17"><h1>AWS의 어처구니 없는(Egregious) Egress 비용</h1></a> <span class="topicurl">(blog.cloudflare.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["페이스북은 이제 메타버스 기업" - 마크 주커버그 인터뷰 (GeekNews)]]></title>
         <id>https://c-rocket.net/facebook_mark_zuckerberg_metaverse_the_verge/</id>
         <link href="https://c-rocket.net/facebook_mark_zuckerberg_metaverse_the_verge/"/>
         <updated>2021-07-26T05:32:14.827Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4692"><a class="upvote" href="javascript:vote(4692, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://c-rocket.net/facebook_mark_zuckerberg_metaverse_the_verge/" rel="nofollow" id="tr7"><h1>"페이스북은 이제 메타버스 기업" - 마크 주커버그 인터뷰</h1></a> <span class="topicurl">(c-rocket.net)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4692"><a class="upvote" href="javascript:vote(4692, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://c-rocket.net/facebook_mark_zuckerberg_metaverse_the_verge/" rel="nofollow" id="tr18"><h1>"페이스북은 이제 메타버스 기업" - 마크 주커버그 인터뷰</h1></a> <span class="topicurl">(c-rocket.net)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[구글, 검색결과가 왜 나왔는지 보여주는 기능 도입 (GeekNews)]]></title>
         <id>https://blog.google/products/search/learn-more-and-get-more-from-search/</id>
         <link href="https://blog.google/products/search/learn-more-and-get-more-from-search/"/>
         <updated>2021-07-26T05:32:14.827Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4691"><a class="upvote" href="javascript:vote(4691, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.google/products/search/learn-more-and-get-more-from-search/" rel="nofollow" id="tr8"><h1>구글, 검색결과가 왜 나왔는지 보여주는 기능 도입</h1></a> <span class="topicurl">(blog.google)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4691"><a class="upvote" href="javascript:vote(4691, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.google/products/search/learn-more-and-get-more-from-search/" rel="nofollow" id="tr19"><h1>구글, 검색결과가 왜 나왔는지 보여주는 기능 도입</h1></a> <span class="topicurl">(blog.google)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart (GeekNews)]]></title>
         <id>https://github.com/kineung-us/prepull</id>
         <link href="https://github.com/kineung-us/prepull"/>
         <updated>2021-07-25T17:39:18.703Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4690"><a class="upvote" href="javascript:vote(4690, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/kineung-us/prepull" rel="nofollow" id="tr9"><h1>Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fiddly - Readme를 예쁜 웹페이지로 만들기 (GeekNews)]]></title>
-        <id>https://github.com/SaraVieira/fiddly</id>
-        <link href="https://github.com/SaraVieira/fiddly"/>
-        <updated>2021-07-25T17:39:18.703Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4688"><a class="upvote" href="javascript:vote(4688, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/SaraVieira/fiddly" rel="nofollow" id="tr10"><h1>Fiddly - Readme를 예쁜 웹페이지로 만들기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Riju - 모든 프로그래밍 언어에 대한 Playground (GeekNews)]]></title>
-        <id>https://riju.codes/</id>
-        <link href="https://riju.codes/"/>
-        <updated>2021-07-25T17:39:18.706Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4687"><a class="upvote" href="javascript:vote(4687, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://riju.codes/" rel="nofollow" id="tr11"><h1>Riju - 모든 프로그래밍 언어에 대한 Playground</h1></a> <span class="topicurl">(riju.codes)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oculus, Mixed Reality용 Passthrough API 공개 (GeekNews)]]></title>
-        <id>https://developer.oculus.com/blog/mixed-reality-with-passthrough/</id>
-        <link href="https://developer.oculus.com/blog/mixed-reality-with-passthrough/"/>
-        <updated>2021-07-25T17:39:18.706Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4686"><a class="upvote" href="javascript:vote(4686, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developer.oculus.com/blog/mixed-reality-with-passthrough/" rel="nofollow" id="tr12"><h1>Oculus, Mixed Reality용 Passthrough API 공개</h1></a> <span class="topicurl">(developer.oculus.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Typed(타입드) - 문서 작성과 연계되는 지식 수집/관리 툴 (GeekNews)]]></title>
-        <id>https://www.typed.biz/</id>
-        <link href="https://www.typed.biz/"/>
-        <updated>2021-07-25T17:39:18.706Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4685"><a class="upvote" href="javascript:vote(4685, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.typed.biz/" rel="nofollow" id="tr13"><h1>Typed(타입드) - 문서 작성과 연계되는 지식 수집/관리 툴</h1></a> <span class="topicurl">(typed.biz)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Debian 11 'Bullseye' 2021-08-21 릴리즈 예정 (GeekNews)]]></title>
-        <id>https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html</id>
-        <link href="https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html"/>
-        <updated>2021-07-25T17:39:18.706Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4684"><a class="upvote" href="javascript:vote(4684, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://lists.debian.org/debian-devel-announce/2021/07/msg00003.html" rel="nofollow" id="tr14"><h1>Debian 11 'Bullseye' 2021-08-21 릴리즈 예정</h1></a> <span class="topicurl">(lists.debian.org)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 1글자 오타로 크롬OS에 로그인 불가능한 업데이트 배포 후 수정본 배포 (GeekNews)]]></title>
-        <id>https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/</id>
-        <link href="https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/"/>
-        <updated>2021-07-25T17:39:18.707Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4683"><a class="upvote" href="javascript:vote(4683, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://arstechnica.com/gadgets/2021/07/google-pushed-a-one-character-typo-to-production-bricking-chrome-os-devices/" rel="nofollow" id="tr15"><h1>구글, 1글자 오타로 크롬OS에 로그인 불가능한 업데이트 배포 후 수정본 배포</h1></a> <span class="topicurl">(arstechnica.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BirdNET - 새 지저귐 소리로 새 판별하기 (GeekNews)]]></title>
-        <id>https://birdnet.cornell.edu/</id>
-        <link href="https://birdnet.cornell.edu/"/>
-        <updated>2021-07-25T17:39:18.707Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4682"><a class="upvote" href="javascript:vote(4682, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://birdnet.cornell.edu/" rel="nofollow" id="tr16"><h1>BirdNET - 새 지저귐 소리로 새 판별하기</h1></a> <span class="topicurl">(birdnet.cornell.edu)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Framework Laptop 배송 시작 및 리뷰들 공개 (GeekNews)]]></title>
-        <id>https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews</id>
-        <link href="https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews"/>
-        <updated>2021-07-25T17:39:18.708Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4681"><a class="upvote" href="javascript:vote(4681, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://frame.work/blog/the-framework-laptop-is-now-shipping-and-press-reviews" rel="nofollow" id="tr17"><h1>Framework Laptop 배송 시작 및 리뷰들 공개</h1></a> <span class="topicurl">(frame.work)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Audacity가 개인정보 보호 정책 업데이트 및 사과문을 올림 (GeekNews)]]></title>
-        <id>https://github.com/audacity/audacity/discussions/1353</id>
-        <link href="https://github.com/audacity/audacity/discussions/1353"/>
-        <updated>2021-07-23T13:07:45.810Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4680"><a class="upvote" href="javascript:vote(4680, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/audacity/audacity/discussions/1353" rel="nofollow" id="tr18"><h1>Audacity가 개인정보 보호 정책 업데이트 및 사과문을 올림</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요? (GeekNews)]]></title>
-        <id>https://news.hada.io/topic?id=4679</id>
-        <link href="https://news.hada.io/topic?id=4679"/>
-        <updated>2021-07-23T13:07:45.814Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4679"><a class="upvote" href="javascript:vote(4679, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4679" id="tr19"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FNM - Fast Node Manager (GeekNews)]]></title>
-        <id>https://github.com/Schniz/fnm</id>
-        <link href="https://github.com/Schniz/fnm"/>
-        <updated>2021-07-23T13:07:45.818Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4678"><a class="upvote" href="javascript:vote(4678, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Schniz/fnm" rel="nofollow" id="tr20"><h1>FNM - Fast Node Manager</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4690"><a class="upvote" href="javascript:vote(4690, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/kineung-us/prepull" rel="nofollow" id="tr20"><h1>Prepull - k8s 전체 노드에 미리 이미지를 다운로드 받는 helm chart</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🎉 네이버 공채 합격 후기 (velog)]]></title>
@@ -150,13 +150,6 @@
         <link href="https://velog.io/@gomjellie/%EB%84%A4%EC%9D%B4%EB%B2%84-%EA%B3%B5%EC%B1%84-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0"/>
         <updated>2021-07-25T17:39:20.101Z</updated>
         <content type="html"><![CDATA[<p>NAVER: 정보의 바다인 인터넷을 항해하는 사람</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get과 Post의 차이를 아시나요? (velog)]]></title>
-        <id>https://velog.io/@songyouhyun/Get%EA%B3%BC-Post%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94</id>
-        <link href="https://velog.io/@songyouhyun/Get%EA%B3%BC-Post%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%84%EC%8B%9C%EB%82%98%EC%9A%94"/>
-        <updated>2021-07-25T17:39:20.105Z</updated>
-        <content type="html"><![CDATA[<p>제 질문에 답을 하지 못하겠다면, 이 글을 읽어보시는 걸 적극적으로 추천합니다.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[토이프로젝트에서 Data Driven으로 프로젝트하기  🔍 (velog)]]></title>
@@ -173,20 +166,11 @@
         <content type="html"><![CDATA[<p>Fluter로 첫 앱을 만들어보았습니다.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 네이버 상반기 신입 공채 최종 합격 후기 (velog)]]></title>
-        <id>https://velog.io/@broccolism/2021-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0</id>
-        <link href="https://velog.io/@broccolism/2021-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0"/>
-        <updated>2021-07-25T17:39:20.108Z</updated>
-        <content type="html"><![CDATA[<p>난.. 코딩 테스트식 문제 푸는걸 좋아하지 않는다..
-난.. 형식적인 자기소개서 쓰기도 싫어..
-하지만 난.. 서비스 개발을 하고싶단말이야!</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💸 고소득자의 자부심 증명서 만들기 (velog)]]></title>
-        <id>https://velog.io/@junhoyeo/%EA%B3%A0%EC%86%8C%EB%93%9D%EC%9E%90%EC%9D%98-%EC%9E%90%EB%B6%80%EC%8B%AC-%EC%A6%9D%EB%AA%85%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0</id>
-        <link href="https://velog.io/@junhoyeo/%EA%B3%A0%EC%86%8C%EB%93%9D%EC%9E%90%EC%9D%98-%EC%9E%90%EB%B6%80%EC%8B%AC-%EC%A6%9D%EB%AA%85%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0"/>
-        <updated>2021-07-25T17:39:20.109Z</updated>
-        <content type="html"><![CDATA[<p>고소득자들에겐 25만원 대신 자부심을 드립니다.</p>]]></content>
+        <title type="html"><![CDATA[짧게 써보는 웹 프론트엔드의 역사 (velog)]]></title>
+        <id>https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC</id>
+        <link href="https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC"/>
+        <updated>2021-07-25T17:39:20.111Z</updated>
+        <content type="html"><![CDATA[<p>그냥 한번 쓱 훑어보는 것으로 후에 밟을 지뢰를 피하는 데 조금의 도움이 된다면, 혹은 새 기술을 선택하는데 중요한 기준점을 세울 수 있다면 좋을 것 같다는 생각에 오랜만에 글을 쓰게 되었습니다.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ES2020, ES2021에 추가된 기능 (velog)]]></title>
@@ -196,18 +180,11 @@
         <content type="html"><![CDATA[<p>ES2020, ES2021에 추가된 기능을 정리해 보았다.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[짧게 써보는 웹 프론트엔드의 역사 (velog)]]></title>
-        <id>https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC</id>
-        <link href="https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC"/>
-        <updated>2021-07-25T17:39:20.111Z</updated>
-        <content type="html"><![CDATA[<p>그냥 한번 쓱 훑어보는 것으로 후에 밟을 지뢰를 피하는 데 조금의 도움이 된다면, 혹은 새 기술을 선택하는데 중요한 기준점을 세울 수 있다면 좋을 것 같다는 생각에 오랜만에 글을 쓰게 되었습니다.</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js + Typescript 초기세팅 하기 (velog)]]></title>
-        <id>https://velog.io/@devstone/Next.js-Typescript-%EC%B4%88%EA%B8%B0%EC%84%B8%ED%8C%85-%ED%95%98%EA%B8%B0</id>
-        <link href="https://velog.io/@devstone/Next.js-Typescript-%EC%B4%88%EA%B8%B0%EC%84%B8%ED%8C%85-%ED%95%98%EA%B8%B0"/>
-        <updated>2021-07-25T17:39:20.112Z</updated>
-        <content type="html"><![CDATA[<p>솝트 28기 웹잼 중 공부한 Next.js+Typescript 초기세팅 방법</p>]]></content>
+        <title type="html"><![CDATA[💸 고소득자의 자부심 증명서 만들기 (velog)]]></title>
+        <id>https://velog.io/@junhoyeo/%EA%B3%A0%EC%86%8C%EB%93%9D%EC%9E%90%EC%9D%98-%EC%9E%90%EB%B6%80%EC%8B%AC-%EC%A6%9D%EB%AA%85%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0</id>
+        <link href="https://velog.io/@junhoyeo/%EA%B3%A0%EC%86%8C%EB%93%9D%EC%9E%90%EC%9D%98-%EC%9E%90%EB%B6%80%EC%8B%AC-%EC%A6%9D%EB%AA%85%EC%84%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0"/>
+        <updated>2021-07-25T17:39:20.109Z</updated>
+        <content type="html"><![CDATA[<p>고소득자들에겐 25만원 대신 자부심을 드립니다.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GDG 썸머 해커톤 후기 (똑똑해지겠상🏆) (velog)]]></title>
@@ -217,6 +194,13 @@
         <content type="html"><![CDATA[<p>코드스쿼드가 끝나면 꼭 한 번 참여해보고 싶었던 활동이 있었는데, 그건 바로 해커톤이다. 24시간 안에 아이디어 기획부터 서비스 개발이 전부 일어나는게 매력적으로 다가왔고, 24시간 안에 백엔드 개발을 뚝딱뚝딱 해낼 수 있는 실력이 되면 제일 먼저 참여해야겠다고 생각했<!-- -->...</p>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스프링 기초와 원리를 알아보자🌳 (velog)]]></title>
+        <id>https://velog.io/@shlee327/%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EC%B4%88%EC%99%80-%EC%9B%90%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90</id>
+        <link href="https://velog.io/@shlee327/%EC%8A%A4%ED%94%84%EB%A7%81-%EA%B8%B0%EC%B4%88%EC%99%80-%EC%9B%90%EB%A6%AC%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90"/>
+        <updated>2021-07-27T05:32:32.713Z</updated>
+        <content type="html"><![CDATA[<p>스프링을 사용하지만 기초과 원리가 부족한 개발자들에게 필요한 내용!!</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[고양이 갤러리 앱을 제작해보자 (velog)]]></title>
         <id>https://velog.io/@sesang06/Swift%EB%A1%9C-IOS-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Proj-%EA%B3%A0%EC%96%91%EC%9D%B4-%EA%B0%A4%EB%9F%AC%EB%A6%AC-App-%EA%B0%95%EC%9D%98</id>
         <link href="https://velog.io/@sesang06/Swift%EB%A1%9C-IOS-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-Proj-%EA%B3%A0%EC%96%91%EC%9D%B4-%EA%B0%A4%EB%9F%AC%EB%A6%AC-App-%EA%B0%95%EC%9D%98"/>
@@ -224,19 +208,11 @@
         <content type="html"><![CDATA[<p>iOS로 간단하게 고양이를 만드는 갤러리 프로그램을 작성하는 방법을 강의입니다.</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 DGSW 해커톤 회고록 (velog)]]></title>
-        <id>https://velog.io/@jce1407/2021-DGSW-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D</id>
-        <link href="https://velog.io/@jce1407/2021-DGSW-%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%9A%8C%EA%B3%A0%EB%A1%9D"/>
-        <updated>2021-07-25T17:39:20.114Z</updated>
-        <content type="html"><![CDATA[<p>2021 DGSW 교내 해커톤 회고록!
-DGSW는 대구 소프트웨어 마이스터 고등학교의 약자 입니다 ㅎㅎ</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[swiper.js 없이 swipe 만들어보기 (1) (velog)]]></title>
-        <id>https://velog.io/@miminishin/swiper.js-%EC%97%86%EC%9D%B4-swipe-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1</id>
-        <link href="https://velog.io/@miminishin/swiper.js-%EC%97%86%EC%9D%B4-swipe-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1"/>
-        <updated>2021-07-25T17:39:20.115Z</updated>
-        <content type="html"><![CDATA[<p>swipe란 손가락을 댄 후, 일직선으로 드래그하는 것을 말한다.</p>]]></content>
+        <title type="html"><![CDATA[홈 화면에서 클릭 한 번에 QR 체크인하자! (velog)]]></title>
+        <id>https://velog.io/@sesang06/%ED%99%88-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A6%AD-%ED%95%9C-%EB%B2%88%EC%97%90-QR-%EC%B2%B4%ED%81%AC%EC%9D%B8%ED%95%98%EC%9E%90</id>
+        <link href="https://velog.io/@sesang06/%ED%99%88-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A6%AD-%ED%95%9C-%EB%B2%88%EC%97%90-QR-%EC%B2%B4%ED%81%AC%EC%9D%B8%ED%95%98%EC%9E%90"/>
+        <updated>2021-07-27T05:32:32.717Z</updated>
+        <content type="html"><![CDATA[<p>QR 체크인을 메인 화면에서 단번에 해주게 만드는 앱 제작법을 설명합니다.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Paper Review] Latent Aspect Rating Analysis on Review Text Data: A Rating Regression Approach (velog)]]></title>
@@ -244,6 +220,13 @@ DGSW는 대구 소프트웨어 마이스터 고등학교의 약자 입니다 ㅎ
         <link href="https://velog.io/@gyuu_katsu/Paper-Review-Latent-Aspect-Rating-Analysis-on-Review-Text-Data-A-Rating-Regression-Approach"/>
         <updated>2021-07-25T17:39:20.117Z</updated>
         <content type="html"><![CDATA[<p>리뷰를 분석하여 주요한 문장을 추출하고, 상품이나 서비스에 대한 고객들의 의견을 파악하는 것은 중요한 과제이다. 특히 리뷰의 총점(이하 overall rating)이 같더라도 고객마다 중요하게 생각한 요소(이하 aspect)는 다를 수 있기 때문에, 주요 aspect들<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React-hook Memoization을 통한 렌더링 성능올리기 (velog)]]></title>
+        <id>https://velog.io/@eastar/React-hooks-Memoization%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5%EC%98%AC%EB%A6%AC%EA%B8%B0</id>
+        <link href="https://velog.io/@eastar/React-hooks-Memoization%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5%EC%98%AC%EB%A6%AC%EA%B8%B0"/>
+        <updated>2021-07-25T17:39:20.121Z</updated>
+        <content type="html"><![CDATA[<p> 잘하는 엔지니어가 되고 싶습니다!! 그러한 엔지니어가 되려면 정말 많은 능력이 필요할 것 같습니다!  여러 능력 중 기능적인 측면에서 성능을 올릴 수 있는 기법 중 하나인 Memoization에 대해 알아봅시다.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021 개발자 필독서 55권 (5) (velog)]]></title>
@@ -267,20 +250,6 @@ DGSW는 대구 소프트웨어 마이스터 고등학교의 약자 입니다 ㅎ
         <content type="html"><![CDATA[<p>2021.7.8k님이 보내주신 카톡. 당시에 읽고 힘이 너무 너무 많이 됐다. 조급할 때마다 꺼내서 읽어보는 말.2021.7.20알고리즘 1번 짐 나르기를 풀면서 수학적 지식이 부족하다는 걸 느꼈다. 수학 잘하는 친척 오빠한테 문제 설명해주면서 박스를 최대한 적게 사용<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Airbnb Project #1] AWS VPC 설정하기 (velog)]]></title>
-        <id>https://velog.io/@janeljs/Airbnb-Project-1</id>
-        <link href="https://velog.io/@janeljs/Airbnb-Project-1"/>
-        <updated>2021-07-25T17:39:20.120Z</updated>
-        <content type="html"><![CDATA[<p>코드스쿼드 수강 당시 Airbnb 웹사이트를 클론하는 프로젝트를 진행했었는데, 3주간 매일 새벽 5~6시에 자며 몰입했던 기억이 있다. 잠깐 프로젝트를 정리되지 않은 채로 방치해 두었었는데, 당시 함께 작업했던 프론트엔드 팀원 라쿤과 프로젝트를 이어하게 되어 어떤 식으<!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React-hook Memoization을 통한 렌더링 성능올리기 (velog)]]></title>
-        <id>https://velog.io/@eastar/React-hooks-Memoization%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5%EC%98%AC%EB%A6%AC%EA%B8%B0</id>
-        <link href="https://velog.io/@eastar/React-hooks-Memoization%EC%9D%84-%ED%86%B5%ED%95%9C-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5%EC%98%AC%EB%A6%AC%EA%B8%B0"/>
-        <updated>2021-07-25T17:39:20.121Z</updated>
-        <content type="html"><![CDATA[<p> 잘하는 엔지니어가 되고 싶습니다!! 그러한 엔지니어가 되려면 정말 많은 능력이 필요할 것 같습니다!  여러 능력 중 기능적인 측면에서 성능을 올릴 수 있는 기법 중 하나인 Memoization에 대해 알아봅시다.</p>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Git 커밋 메시지 자동 완성기 만들기 (velog)]]></title>
         <id>https://velog.io/@janeljs/git-8</id>
         <link href="https://velog.io/@janeljs/git-8"/>
@@ -288,31 +257,40 @@ DGSW는 대구 소프트웨어 마이스터 고등학교의 약자 입니다 ㅎ
         <content type="html"><![CDATA[<p>요즘 알고리즘 문제 풀이를 주차별 이슈로 관리하고 있는데, 커밋 메시지를 매번 작성하기 너무 귀찮다는 생각이 들었다. 어떻게 자동화할 방법이 없을까 하다가 블로그의 알고리즘 카테고리와 이슈 번호를 포함한 커밋 메시지 생성부터 원격 저장소로의 푸쉬까지 자동으로 해주는 스<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS 서버 만들기 & VS_code를 이용해  Node.js 연결하기(1) (velog)]]></title>
-        <id>https://velog.io/@nara7875/AWS-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-VScode%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-Node.js-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B01</id>
-        <link href="https://velog.io/@nara7875/AWS-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-VScode%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-Node.js-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B01"/>
-        <updated>2021-07-26T05:32:16.953Z</updated>
-        <content type="html"><![CDATA[<p>  Amazon Web Service의 약자로, 클라우드 컴퓨터 시스템이다. 클라우드 컴퓨터 시스템이 나오기 전까지는 사람들이 서비스를 만들어도 서버 컴퓨터가 비쌌기 때문에 쉽사리 배포하지 못했다. 그런데, 클라우딩 서버라는 개념이 생기면서 적은 금액으로도 서버를 운영<!-- -->...</p>]]></content>
+        <title type="html"><![CDATA[[Airbnb Project #1] AWS VPC 설정하기 (velog)]]></title>
+        <id>https://velog.io/@janeljs/Airbnb-Project-1</id>
+        <link href="https://velog.io/@janeljs/Airbnb-Project-1"/>
+        <updated>2021-07-25T17:39:20.120Z</updated>
+        <content type="html"><![CDATA[<p>코드스쿼드 수강 당시 Airbnb 웹사이트를 클론하는 프로젝트를 진행했었는데, 3주간 매일 새벽 5~6시에 자며 몰입했던 기억이 있다. 잠깐 프로젝트를 정리되지 않은 채로 방치해 두었었는데, 당시 함께 작업했던 프론트엔드 팀원 라쿤과 프로젝트를 이어하게 되어 어떤 식으<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프론트엔드 개발자 혼자서 사이드 프로젝트하기 (velog)]]></title>
-        <id>https://velog.io/@minsoku03/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C</id>
-        <link href="https://velog.io/@minsoku03/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EA%B0%80%EB%8A%A5%ED%95%A0%EA%B9%8C"/>
-        <updated>2021-07-25T17:39:20.128Z</updated>
-        <content type="html"><![CDATA[<p>백엔드 없이 프론트엔드 혼자 사이드프로젝트가 가능하다고 ??? </p>]]></content>
+        <title type="html"><![CDATA[프론트엔드 개발자와 UX (velog)]]></title>
+        <id>https://velog.io/@wooogie/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80-UX</id>
+        <link href="https://velog.io/@wooogie/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80-UX"/>
+        <updated>2021-07-27T05:32:32.733Z</updated>
+        <content type="html"><![CDATA[<p>User Experience??
+1990년대 팀 버너스리에 의해 처음 생긴 웹은 세월이 지나 발전된 형태의 웹으로 변화하고 있다. 정보를 정적으로 보여주던 옛날의 웹과는 달리 요즘의 웹은 다양한 액션을 통해 정보를 보여주어 웹의 복잡성이 늘어났다. 하지만 복잡성이 늘어<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[컴퓨터에 문외한이었던 내가 개발을 시작하기 까지 (velog)]]></title>
-        <id>https://velog.io/@gigymi2005/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-%EB%AC%B8%EC%99%B8%ED%95%9C%EC%9D%B4%EC%97%88%EB%8D%98-%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EA%B9%8C%EC%A7%80-gxh2tn3k</id>
-        <link href="https://velog.io/@gigymi2005/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-%EB%AC%B8%EC%99%B8%ED%95%9C%EC%9D%B4%EC%97%88%EB%8D%98-%EB%82%B4%EA%B0%80-%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EA%B9%8C%EC%A7%80-gxh2tn3k"/>
-        <updated>2021-07-25T17:39:20.129Z</updated>
-        <content type="html"><![CDATA[<p>처음 접하는 개발
-
-나는 컴퓨터에 문외한 이었다.
-컴퓨터는 언제나 나에게 있어 미지의 분야였고 두려움의 대상이었다.
-과거의 나에게 너가 개발을 한다고 말하면 아마 거짓말이라며 부정했을만큼 나는 컴퓨터에 대해 몰랐다.
-이런 내가 처음 개발을 접한건 남들과 비슷하게 대학교 1학년 프로그래밍 수업때 였다.
-파이썬 수업이었는데 생각보다 정말 쉽고, 자동으로 뭔가를...</p>]]></content>
+        <title type="html"><![CDATA[swiper.js 없이 swipe 만들어보기 (1) (velog)]]></title>
+        <id>https://velog.io/@miminishin/swiper.js-%EC%97%86%EC%9D%B4-swipe-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1</id>
+        <link href="https://velog.io/@miminishin/swiper.js-%EC%97%86%EC%9D%B4-swipe-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1"/>
+        <updated>2021-07-25T17:39:20.115Z</updated>
+        <content type="html"><![CDATA[<p>swipe란 손가락을 댄 후, 일직선으로 드래그하는 것을 말한다.</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIKELION 9th 해커톤 BOOKREST (1) (velog)]]></title>
+        <id>https://velog.io/@seulhyi/LIKELION-9th-%ED%95%B4%EC%BB%A4%ED%86%A4-BOOKREST</id>
+        <link href="https://velog.io/@seulhyi/LIKELION-9th-%ED%95%B4%EC%BB%A4%ED%86%A4-BOOKREST"/>
+        <updated>2021-07-27T05:32:32.787Z</updated>
+        <content type="html"><![CDATA[<p>멋쟁이 사자처럼 9기 운영진으로 해커톤을 준비중이다.서비스 명은 BOOKREST, 전공서적을 대여해주는 서비스이다.매 학기마다 전공책 새로 구매해야 하고 구매할 때마다 가격이 부담스럽다 ㅠㅠ라는 아이디어로 시작하게 된 전공서적대여 서비스다.모두가 함께 사용하는 전공 책<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Vue의 현실] 현실편.. (velog)]]></title>
+        <id>https://velog.io/@uriyang_/Vue%EC%9D%98-%ED%98%84%EC%8B%A4.-%ED%98%84%EC%8B%A4%ED%8E%B8</id>
+        <link href="https://velog.io/@uriyang_/Vue%EC%9D%98-%ED%98%84%EC%8B%A4.-%ED%98%84%EC%8B%A4%ED%8E%B8"/>
+        <updated>2021-07-27T05:32:32.790Z</updated>
+        <content type="html"><![CDATA[<p>React, Angular, Vue 3대장 중 vue를 선택한 회사들의 현실</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[챌린지 | 공학 공부는 개념어 이해가 핵심이다(#14✍️) (velog)]]></title>
@@ -320,5 +298,19 @@ DGSW는 대구 소프트웨어 마이스터 고등학교의 약자 입니다 ㅎ
         <link href="https://velog.io/@sik2/%EC%B1%8C%EB%A6%B0%EC%A7%80-%EA%B3%B5%ED%95%99%EC%9D%80-%EA%B2%B0%EA%B5%AD-%EA%B0%9C%EB%85%90%EC%96%B4-%EC%9D%B4%ED%95%B4%EA%B0%80-%ED%95%B5%EC%8B%AC%EC%9D%B4%EB%8B%A414"/>
         <updated>2021-07-26T05:32:16.980Z</updated>
         <content type="html"><![CDATA[<p>예전에 국문학으로 박사 학위를 받으신 분이랑 이야기를 한적이 있다.당시에 공대으로 전과를 선택했다고 말하자 그분께서 그렇게 이야기하셨다.공학에서 나오는 언어는 모두 개념어다. 결국 개념어를 정확이 이해하려면 배경지식을 쌓아야한다. 왜냐면 같은 말이라도 어떤 공학적 관점<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[210721 - TIL (velog)]]></title>
+        <id>https://velog.io/@yzkim9501/210721-TIL</id>
+        <link href="https://velog.io/@yzkim9501/210721-TIL"/>
+        <updated>2021-07-27T05:32:32.796Z</updated>
+        <content type="html"><![CDATA[<p>210721 - 장상현 관찰일지1\. 세미콜론을 자꾸 안붙이겠다고 땡깡을 부려서 논리로 승리했다. 지난주에 onclick 메소드에 두줄 어떻게 쓰냐고 구글링을 한참 해도 못하길래 세미콜론 붙여서 나누는 법을 알려줬었는데, 세미콜론을 애당초에 써버릇하면 이런 문제를 고민<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[210722-TIL (velog)]]></title>
+        <id>https://velog.io/@janeljs/210722-TIL</id>
+        <link href="https://velog.io/@janeljs/210722-TIL"/>
+        <updated>2021-07-27T05:32:32.801Z</updated>
+        <content type="html"><![CDATA[<p>D-100</p>]]></content>
     </entry>
 </feed>
