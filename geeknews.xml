@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews</title>
-    <updated>2021-07-30T05:32:28.291Z</updated>
+    <updated>2021-07-30T17:39:53.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ask GN: 여러분이 쓰는 노트 앱은 무엇인가요?]]></title>
+        <id>https://news.hada.io/topic?id=4730</id>
+        <link href="https://news.hada.io/topic?id=4730"/>
+        <updated>2021-07-30T17:39:48.350Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4730"><a class="upvote" href="javascript:vote(4730, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4730" id="tr1"><h1>Ask GN: 여러분이 쓰는 노트 앱은 무엇인가요?</h1></a> <span class="topicurl"></span></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
         <id>https://news.hada.io/topic?id=4729</id>
         <link href="https://news.hada.io/topic?id=4729"/>
         <updated>2021-07-30T05:32:26.889Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4729"><a class="upvote" href="javascript:vote(4729, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4729" id="tr1"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4729"><a class="upvote" href="javascript:vote(4729, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4729" id="tr2"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북 캠페인 아이디어 생성기 공개]]></title>
         <id>https://www.facebook.com/business/m/campaign-ideas-generator</id>
         <link href="https://www.facebook.com/business/m/campaign-ideas-generator"/>
         <updated>2021-07-30T05:32:26.904Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4728"><a class="upvote" href="javascript:vote(4728, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.facebook.com/business/m/campaign-ideas-generator" rel="nofollow" id="tr2"><h1>페이스북 캠페인 아이디어 생성기 공개</h1></a> <span class="topicurl">(facebook.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4728"><a class="upvote" href="javascript:vote(4728, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.facebook.com/business/m/campaign-ideas-generator" rel="nofollow" id="tr3"><h1>페이스북 캠페인 아이디어 생성기 공개</h1></a> <span class="topicurl">(facebook.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TStream - 자신의 터미널을 라이브 스트리밍]]></title>
         <id>https://www.tstream.club/</id>
         <link href="https://www.tstream.club/"/>
         <updated>2021-07-30T05:32:26.905Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4727"><a class="upvote" href="javascript:vote(4727, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.tstream.club/" rel="nofollow" id="tr3"><h1>TStream - 자신의 터미널을 라이브 스트리밍</h1></a> <span class="topicurl">(tstream.club)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4727"><a class="upvote" href="javascript:vote(4727, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.tstream.club/" rel="nofollow" id="tr4"><h1>TStream - 자신의 터미널을 라이브 스트리밍</h1></a> <span class="topicurl">(tstream.club)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MS Beachball - Semantic Version Bumper]]></title>
         <id>https://microsoft.github.io/beachball/</id>
         <link href="https://microsoft.github.io/beachball/"/>
         <updated>2021-07-30T05:32:26.906Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4726"><a class="upvote" href="javascript:vote(4726, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://microsoft.github.io/beachball/" rel="nofollow" id="tr4"><h1>MS Beachball - Semantic Version Bumper</h1></a> <span class="topicurl">(microsoft.github.io)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4726"><a class="upvote" href="javascript:vote(4726, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://microsoft.github.io/beachball/" rel="nofollow" id="tr5"><h1>MS Beachball - Semantic Version Bumper</h1></a> <span class="topicurl">(microsoft.github.io)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유명 B2B 도구들의 오픈소스 대체제들]]></title>
         <id>https://www.btw.so/open-source-alternatives</id>
         <link href="https://www.btw.so/open-source-alternatives"/>
         <updated>2021-07-30T05:32:26.911Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4725"><a class="upvote" href="javascript:vote(4725, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.btw.so/open-source-alternatives" rel="nofollow" id="tr5"><h1>유명 B2B 도구들의 오픈소스 대체제들</h1></a> <span class="topicurl">(btw.so)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4725"><a class="upvote" href="javascript:vote(4725, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.btw.so/open-source-alternatives" rel="nofollow" id="tr6"><h1>유명 B2B 도구들의 오픈소스 대체제들</h1></a> <span class="topicurl">(btw.so)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Clockwise - 회의 비용 계산기]]></title>
         <id>https://github.com/syncfast/clockwise</id>
         <link href="https://github.com/syncfast/clockwise"/>
         <updated>2021-07-30T05:32:26.912Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4724"><a class="upvote" href="javascript:vote(4724, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/syncfast/clockwise" rel="nofollow" id="tr6"><h1>Clockwise - 회의 비용 계산기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4724"><a class="upvote" href="javascript:vote(4724, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/syncfast/clockwise" rel="nofollow" id="tr7"><h1>Clockwise - 회의 비용 계산기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[생산적인 프로그래머를 위한 CLI 도구들]]></title>
         <id>https://earthly.dev/blog/command-line-tools/</id>
         <link href="https://earthly.dev/blog/command-line-tools/"/>
         <updated>2021-07-30T05:32:26.913Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4723"><a class="upvote" href="javascript:vote(4723, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://earthly.dev/blog/command-line-tools/" rel="nofollow" id="tr7"><h1>생산적인 프로그래머를 위한 CLI 도구들</h1></a> <span class="topicurl">(earthly.dev)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4723"><a class="upvote" href="javascript:vote(4723, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://earthly.dev/blog/command-line-tools/" rel="nofollow" id="tr8"><h1>생산적인 프로그래머를 위한 CLI 도구들</h1></a> <span class="topicurl">(earthly.dev)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[페이스북, iOS에 웹앱 방식으로 클라우드 게임 서비스 시작]]></title>
         <id>https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple</id>
         <link href="https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple"/>
         <updated>2021-07-29T05:32:26.897Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4722"><a class="upvote" href="javascript:vote(4722, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple" rel="nofollow" id="tr8"><h1>페이스북, iOS에 웹앱 방식으로 클라우드 게임 서비스 시작</h1></a> <span class="topicurl">(theverge.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4722"><a class="upvote" href="javascript:vote(4722, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.theverge.com/2021/7/23/22589398/facebook-cloud-gaming-web-app-launch-apple" rel="nofollow" id="tr9"><h1>페이스북, iOS에 웹앱 방식으로 클라우드 게임 서비스 시작</h1></a> <span class="topicurl">(theverge.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스를 이용한 사설 LTE & 5G 네트워크 구축]]></title>
         <id>https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks</id>
         <link href="https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks"/>
         <updated>2021-07-29T05:32:26.898Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4721"><a class="upvote" href="javascript:vote(4721, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks" rel="nofollow" id="tr9"><h1>오픈소스를 이용한 사설 LTE &amp; 5G 네트워크 구축</h1></a> <span class="topicurl">(ubuntu.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4721"><a class="upvote" href="javascript:vote(4721, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ubuntu.com/blog/introduction-to-open-source-private-lte-and-5g-networks" rel="nofollow" id="tr10"><h1>오픈소스를 이용한 사설 LTE &amp; 5G 네트워크 구축</h1></a> <span class="topicurl">(ubuntu.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[No-Code 스타트업 Bubble, 1150억원(1억달러) 규모의 시리즈A 펀딩받아]]></title>
         <id>https://techcrunch.com/2021/07/27/no-code-bubble-series-a/</id>
         <link href="https://techcrunch.com/2021/07/27/no-code-bubble-series-a/"/>
         <updated>2021-07-29T05:32:26.899Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4720"><a class="upvote" href="javascript:vote(4720, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://techcrunch.com/2021/07/27/no-code-bubble-series-a/" rel="nofollow" id="tr10"><h1>No-Code 스타트업 Bubble, 1150억원(1억달러) 규모의 시리즈A 펀딩받아</h1></a> <span class="topicurl">(techcrunch.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4720"><a class="upvote" href="javascript:vote(4720, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://techcrunch.com/2021/07/27/no-code-bubble-series-a/" rel="nofollow" id="tr11"><h1>No-Code 스타트업 Bubble, 1150억원(1억달러) 규모의 시리즈A 펀딩받아</h1></a> <span class="topicurl">(techcrunch.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, 오픈소스 GPU 프로그래밍 언어 Triton 1.0 공개]]></title>
         <id>https://www.openai.com/blog/triton/</id>
         <link href="https://www.openai.com/blog/triton/"/>
         <updated>2021-07-29T05:32:26.901Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4719"><a class="upvote" href="javascript:vote(4719, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.openai.com/blog/triton/" rel="nofollow" id="tr11"><h1>OpenAI, 오픈소스 GPU 프로그래밍 언어 Triton 1.0 공개</h1></a> <span class="topicurl">(openai.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4719"><a class="upvote" href="javascript:vote(4719, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.openai.com/blog/triton/" rel="nofollow" id="tr12"><h1>OpenAI, 오픈소스 GPU 프로그래밍 언어 Triton 1.0 공개</h1></a> <span class="topicurl">(openai.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Windows 96]]></title>
         <id>https://windows96.net/</id>
         <link href="https://windows96.net/"/>
         <updated>2021-07-29T05:32:26.903Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4718"><a class="upvote" href="javascript:vote(4718, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://windows96.net/" rel="nofollow" id="tr12"><h1>Windows 96</h1></a> <span class="topicurl">(windows96.net)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4718"><a class="upvote" href="javascript:vote(4718, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://windows96.net/" rel="nofollow" id="tr13"><h1>Windows 96</h1></a> <span class="topicurl">(windows96.net)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Arm의 새로운 플라스틱 칩 PlasticARM, Internet of Everything 이 가능하게 될 수도]]></title>
         <id>https://singularityhub.com/2021/07/26/arms-new-flexible-plastic-chip-could-enable-an-internet-of-everything/</id>
         <link href="https://singularityhub.com/2021/07/26/arms-new-flexible-plastic-chip-could-enable-an-internet-of-everything/"/>
         <updated>2021-07-28T05:32:22.497Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4717"><a class="upvote" href="javascript:vote(4717, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://singularityhub.com/2021/07/26/arms-new-flexible-plastic-chip-could-enable-an-internet-of-everything/" rel="nofollow" id="tr13"><h1>Arm의 새로운 플라스틱 칩 PlasticARM, Internet of Everything 이 가능하게 될 수도</h1></a> <span class="topicurl">(singularityhub.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4717"><a class="upvote" href="javascript:vote(4717, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://singularityhub.com/2021/07/26/arms-new-flexible-plastic-chip-could-enable-an-internet-of-everything/" rel="nofollow" id="tr14"><h1>Arm의 새로운 플라스틱 칩 PlasticARM, Internet of Everything 이 가능하게 될 수도</h1></a> <span class="topicurl">(singularityhub.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Discord, Threads 기능 공개]]></title>
         <id>https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b</id>
         <link href="https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b"/>
         <updated>2021-07-28T05:32:22.497Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4716"><a class="upvote" href="javascript:vote(4716, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b" rel="nofollow" id="tr14"><h1>Discord, Threads 기능 공개</h1></a> <span class="topicurl">(blog.discord.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4716"><a class="upvote" href="javascript:vote(4716, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.discord.com/connect-the-conversation-with-threads-on-discord-3f5fa8b0f6b" rel="nofollow" id="tr15"><h1>Discord, Threads 기능 공개</h1></a> <span class="topicurl">(blog.discord.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mobian - 모바일용 Debian]]></title>
         <id>https://mobian-project.org/</id>
         <link href="https://mobian-project.org/"/>
         <updated>2021-07-28T05:32:22.497Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4715"><a class="upvote" href="javascript:vote(4715, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://mobian-project.org/" rel="nofollow" id="tr15"><h1>Mobian - 모바일용 Debian</h1></a> <span class="topicurl">(mobian-project.org)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4715"><a class="upvote" href="javascript:vote(4715, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://mobian-project.org/" rel="nofollow" id="tr16"><h1>Mobian - 모바일용 Debian</h1></a> <span class="topicurl">(mobian-project.org)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Postgres를 이용한 Full-Text Search]]></title>
         <id>https://daesuni.github.io/postgres-fulltext-search/</id>
         <link href="https://daesuni.github.io/postgres-fulltext-search/"/>
         <updated>2021-07-28T05:32:22.497Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4714"><a class="upvote" href="javascript:vote(4714, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://daesuni.github.io/postgres-fulltext-search/" rel="nofollow" id="tr16"><h1>Postgres를 이용한 Full-Text Search</h1></a> <span class="topicurl">(daesuni.github.io)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4714"><a class="upvote" href="javascript:vote(4714, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://daesuni.github.io/postgres-fulltext-search/" rel="nofollow" id="tr17"><h1>Postgres를 이용한 Full-Text Search</h1></a> <span class="topicurl">(daesuni.github.io)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Oculus, 자체 API 중단하고 OpenXR에 올인]]></title>
         <id>https://developer.oculus.com/blog/oculus-all-in-on-openxr-deprecates-proprietary-apis/</id>
         <link href="https://developer.oculus.com/blog/oculus-all-in-on-openxr-deprecates-proprietary-apis/"/>
         <updated>2021-07-28T05:32:22.497Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4713"><a class="upvote" href="javascript:vote(4713, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developer.oculus.com/blog/oculus-all-in-on-openxr-deprecates-proprietary-apis/" rel="nofollow" id="tr17"><h1>Oculus, 자체 API 중단하고 OpenXR에 올인</h1></a> <span class="topicurl">(developer.oculus.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4713"><a class="upvote" href="javascript:vote(4713, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developer.oculus.com/blog/oculus-all-in-on-openxr-deprecates-proprietary-apis/" rel="nofollow" id="tr18"><h1>Oculus, 자체 API 중단하고 OpenXR에 올인</h1></a> <span class="topicurl">(developer.oculus.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cloudflare: Arm CPU로 프로덕션 Edge 서버 배포, 와트 당 성능 57% 향상]]></title>
         <id>https://blog.cloudflare.com/designing-edge-servers-with-arm-cpus/</id>
         <link href="https://blog.cloudflare.com/designing-edge-servers-with-arm-cpus/"/>
         <updated>2021-07-28T05:32:22.502Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4712"><a class="upvote" href="javascript:vote(4712, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.cloudflare.com/designing-edge-servers-with-arm-cpus/" rel="nofollow" id="tr18"><h1>Cloudflare: Arm CPU로 프로덕션 Edge 서버 배포, 와트 당 성능 57% 향상</h1></a> <span class="topicurl">(blog.cloudflare.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4712"><a class="upvote" href="javascript:vote(4712, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.cloudflare.com/designing-edge-servers-with-arm-cpus/" rel="nofollow" id="tr19"><h1>Cloudflare: Arm CPU로 프로덕션 Edge 서버 배포, 와트 당 성능 57% 향상</h1></a> <span class="topicurl">(blog.cloudflare.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 개인 할 일 관리 서비스로 어떤 서비스 쓰고 계신가요?]]></title>
         <id>https://news.hada.io/topic?id=4711</id>
         <link href="https://news.hada.io/topic?id=4711"/>
         <updated>2021-07-28T05:32:22.504Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4711"><a class="upvote" href="javascript:vote(4711, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4711" id="tr19"><h1>Ask GN: 개인 할 일 관리 서비스로 어떤 서비스 쓰고 계신가요?</h1></a> <span class="topicurl"></span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask GN: 시니어가 주니어들에게 꼭 해주고 싶은 말은?]]></title>
-        <id>https://news.hada.io/topic?id=4710</id>
-        <link href="https://news.hada.io/topic?id=4710"/>
-        <updated>2021-07-28T05:32:22.505Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4710"><a class="upvote" href="javascript:vote(4710, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4710" id="tr20"><h1>Ask GN: 시니어가 주니어들에게 꼭 해주고 싶은 말은?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4711"><a class="upvote" href="javascript:vote(4711, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4711" id="tr20"><h1>Ask GN: 개인 할 일 관리 서비스로 어떤 서비스 쓰고 계신가요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
 </feed>
