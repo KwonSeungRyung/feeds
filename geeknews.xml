@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews</title>
-    <updated>2021-08-03T17:46:15.107Z</updated>
+    <updated>2021-08-08T17:38:16.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Google Tensor는 올 가을 새로운 Pixel 6에서 데뷔합니다]]></title>
-        <id>https://blog.google/products/pixel/google-tensor-debuts-new-pixel-6-fall/</id>
-        <link href="https://blog.google/products/pixel/google-tensor-debuts-new-pixel-6-fall/"/>
-        <updated>2021-08-03T17:46:13.149Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4754"><a class="upvote" href="javascript:vote(4754, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.google/products/pixel/google-tensor-debuts-new-pixel-6-fall/" rel="nofollow" id="tr1"><h1>Google Tensor는 올 가을 새로운 Pixel 6에서 데뷔합니다</h1></a> <span class="topicurl">(blog.google)</span></td>]]></content>
+        <title type="html"><![CDATA[Athens Research 시즌 2 선언]]></title>
+        <id>https://athensresearch.ghost.io/season-2/</id>
+        <link href="https://athensresearch.ghost.io/season-2/"/>
+        <updated>2021-08-08T17:38:15.507Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4781"><a class="upvote" href="javascript:vote(4781, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://athensresearch.ghost.io/season-2/" rel="nofollow" id="tr1"><h1>Athens Research 시즌 2 선언</h1></a> <span class="topicurl">(athensresearch.ghost.io)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coding Fonts - 코딩용 폰트 미리보기]]></title>
-        <id>https://coding-fonts.css-tricks.com/</id>
-        <link href="https://coding-fonts.css-tricks.com/"/>
-        <updated>2021-08-03T17:46:13.152Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4753"><a class="upvote" href="javascript:vote(4753, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://coding-fonts.css-tricks.com/" rel="nofollow" id="tr2"><h1>Coding Fonts - 코딩용 폰트 미리보기</h1></a> <span class="topicurl">(coding-fonts.css-tricks.com)</span></td>]]></content>
+        <title type="html"><![CDATA[Postgres.app - 맥용 PostgreSQL]]></title>
+        <id>https://postgresapp.com/</id>
+        <link href="https://postgresapp.com/"/>
+        <updated>2021-08-08T17:38:15.507Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4780"><a class="upvote" href="javascript:vote(4780, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://postgresapp.com/" rel="nofollow" id="tr2"><h1>Postgres.app - 맥용 PostgreSQL</h1></a> <span class="topicurl">(postgresapp.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Setups - 다른 사람의 책상은 어떨까 ?]]></title>
-        <id>https://setups.co/</id>
-        <link href="https://setups.co/"/>
-        <updated>2021-08-03T17:46:13.183Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4752"><a class="upvote" href="javascript:vote(4752, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://setups.co/" rel="nofollow" id="tr3"><h1>Setups - 다른 사람의 책상은 어떨까 ?</h1></a> <span class="topicurl">(setups.co)</span></td>]]></content>
+        <title type="html"><![CDATA[CalyxOS - 구글을 제거한 안드로이드 OS]]></title>
+        <id>https://calyxos.org/</id>
+        <link href="https://calyxos.org/"/>
+        <updated>2021-08-08T17:38:15.507Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4779"><a class="upvote" href="javascript:vote(4779, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://calyxos.org/" rel="nofollow" id="tr3"><h1>CalyxOS - 구글을 제거한 안드로이드 OS</h1></a> <span class="topicurl">(calyxos.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[L0phtCrack 7, 오픈소스로 공개예정]]></title>
-        <id>https://l0phtcrack.gitlab.io/</id>
-        <link href="https://l0phtcrack.gitlab.io/"/>
-        <updated>2021-08-03T17:46:13.185Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4751"><a class="upvote" href="javascript:vote(4751, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://l0phtcrack.gitlab.io/" rel="nofollow" id="tr4"><h1>L0phtCrack 7, 오픈소스로 공개예정</h1></a> <span class="topicurl">(l0phtcrack.gitlab.io)</span></td>]]></content>
+        <title type="html"><![CDATA[LineageOS - 안드로이드 기반의 오픈소스 OS]]></title>
+        <id>https://lineageos.org/</id>
+        <link href="https://lineageos.org/"/>
+        <updated>2021-08-08T17:38:15.507Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4778"><a class="upvote" href="javascript:vote(4778, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://lineageos.org/" rel="nofollow" id="tr4"><h1>LineageOS - 안드로이드 기반의 오픈소스 OS</h1></a> <span class="topicurl">(lineageos.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sift.js - MongoDB의 쿼리를 JS에서 이용하기]]></title>
-        <id>https://github.com/crcn/sift.js</id>
-        <link href="https://github.com/crcn/sift.js"/>
-        <updated>2021-08-03T17:46:13.189Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4750"><a class="upvote" href="javascript:vote(4750, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/crcn/sift.js" rel="nofollow" id="tr5"><h1>Sift.js - MongoDB의 쿼리를 JS에서 이용하기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <title type="html"><![CDATA[LÖVR - 몰입형 3D 구축을 위한 오픈소스 프레임워크]]></title>
+        <id>https://lovr.org/</id>
+        <link href="https://lovr.org/"/>
+        <updated>2021-08-08T17:38:15.507Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4777"><a class="upvote" href="javascript:vote(4777, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://lovr.org/" rel="nofollow" id="tr5"><h1>LÖVR - 몰입형 3D 구축을 위한 오픈소스 프레임워크</h1></a> <span class="topicurl">(lovr.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자율주행이 우리 생활에 가져올 변화]]></title>
-        <id>https://www.technologyreview.kr/zoox-ceo-aicha-evans-amazon-autonomy-self-driving-taxi-interview/</id>
-        <link href="https://www.technologyreview.kr/zoox-ceo-aicha-evans-amazon-autonomy-self-driving-taxi-interview/"/>
-        <updated>2021-08-03T17:46:13.190Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4749"><a class="upvote" href="javascript:vote(4749, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.technologyreview.kr/zoox-ceo-aicha-evans-amazon-autonomy-self-driving-taxi-interview/" rel="nofollow" id="tr6"><h1>자율주행이 우리 생활에 가져올 변화</h1></a> <span class="topicurl">(technologyreview.kr)</span></td>]]></content>
+        <title type="html"><![CDATA[KDash - 빠르고 심플한 쿠버네티스 대쉬보드]]></title>
+        <id>https://github.com/kdash-rs/kdash</id>
+        <link href="https://github.com/kdash-rs/kdash"/>
+        <updated>2021-08-08T17:38:15.509Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4776"><a class="upvote" href="javascript:vote(4776, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/kdash-rs/kdash" rel="nofollow" id="tr6"><h1>KDash - 빠르고 심플한 쿠버네티스 대쉬보드</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Sample - 뉴스레터 추천받아 골라보기]]></title>
-        <id>https://sample.findka.com/</id>
-        <link href="https://sample.findka.com/"/>
-        <updated>2021-08-03T17:46:13.190Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4748"><a class="upvote" href="javascript:vote(4748, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://sample.findka.com/" rel="nofollow" id="tr7"><h1>The Sample - 뉴스레터 추천받아 골라보기</h1></a> <span class="topicurl">(sample.findka.com)</span></td>]]></content>
+        <title type="html"><![CDATA[애플, 아동 보호를 위한 새로운 안전기능 도입]]></title>
+        <id>https://www.apple.com/child-safety/</id>
+        <link href="https://www.apple.com/child-safety/"/>
+        <updated>2021-08-08T17:38:15.509Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4775"><a class="upvote" href="javascript:vote(4775, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.apple.com/child-safety/" rel="nofollow" id="tr7"><h1>애플, 아동 보호를 위한 새로운 안전기능 도입</h1></a> <span class="topicurl">(apple.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비슷한 명령어 추천은 어떻게 하는걸까?]]></title>
-        <id>https://xo.dev/hacking-command-recommendation/</id>
-        <link href="https://xo.dev/hacking-command-recommendation/"/>
-        <updated>2021-08-03T17:46:13.191Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4747"><a class="upvote" href="javascript:vote(4747, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://xo.dev/hacking-command-recommendation/" rel="nofollow" id="tr8"><h1>비슷한 명령어 추천은 어떻게 하는걸까?</h1></a> <span class="topicurl">(xo.dev)</span></td>]]></content>
+        <title type="html"><![CDATA[Wails - Go 사용 데스크톱 응용 프로그램 개발 프레임 워크]]></title>
+        <id>https://github.com/wailsapp/wails</id>
+        <link href="https://github.com/wailsapp/wails"/>
+        <updated>2021-08-08T17:38:15.511Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4774"><a class="upvote" href="javascript:vote(4774, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/wailsapp/wails" rel="nofollow" id="tr8"><h1>Wails - Go 사용 데스크톱 응용 프로그램 개발 프레임 워크</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 추천하고 싶은 유튜브 채널이 있으신가요?]]></title>
-        <id>https://news.hada.io/topic?id=4746</id>
-        <link href="https://news.hada.io/topic?id=4746"/>
-        <updated>2021-08-03T17:46:13.191Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4746"><a class="upvote" href="javascript:vote(4746, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4746" id="tr9"><h1>Ask GN: 추천하고 싶은 유튜브 채널이 있으신가요?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <title type="html"><![CDATA[Ask GN: 어떤 키보드를 사용하고 계신가요?]]></title>
+        <id>https://news.hada.io/topic?id=4773</id>
+        <link href="https://news.hada.io/topic?id=4773"/>
+        <updated>2021-08-08T17:38:15.514Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4773"><a class="upvote" href="javascript:vote(4773, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4773" id="tr9"><h1>Ask GN: 어떤 키보드를 사용하고 계신가요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copilot 설명 및 사용기]]></title>
-        <id>https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-14-%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-copilot-803f12fc81aa</id>
-        <link href="https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-14-%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-copilot-803f12fc81aa"/>
-        <updated>2021-08-02T17:40:19.530Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4745"><a class="upvote" href="javascript:vote(4745, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-14-%EC%BD%94%EB%94%A9%ED%95%98%EB%8A%94-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-copilot-803f12fc81aa" rel="nofollow" id="tr10"><h1>Copilot 설명 및 사용기</h1></a> <span class="topicurl">(medium.com)</span></td>]]></content>
+        <title type="html"><![CDATA[replit, 빠른 웹앱 개발용 replit.web 공개]]></title>
+        <id>https://blog.replit.com/replit-web</id>
+        <link href="https://blog.replit.com/replit-web"/>
+        <updated>2021-08-08T17:38:15.525Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4772"><a class="upvote" href="javascript:vote(4772, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.replit.com/replit-web" rel="nofollow" id="tr10"><h1>replit, 빠른 웹앱 개발용 replit.web 공개 </h1></a> <span class="topicurl">(blog.replit.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 빠른 CRDT를 위해 최적화 하기]]></title>
-        <id>https://josephg.com/blog/crdts-go-brrr/</id>
-        <link href="https://josephg.com/blog/crdts-go-brrr/"/>
-        <updated>2021-08-02T17:40:19.531Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4744"><a class="upvote" href="javascript:vote(4744, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://josephg.com/blog/crdts-go-brrr/" rel="nofollow" id="tr11"><h1>더 빠른 CRDT를 위해 최적화 하기</h1></a> <span class="topicurl">(josephg.com)</span></td>]]></content>
+        <title type="html"><![CDATA[MS Edge, Super Duper Secure Mode 실험]]></title>
+        <id>https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/</id>
+        <link href="https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/"/>
+        <updated>2021-08-08T17:38:15.529Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4771"><a class="upvote" href="javascript:vote(4771, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://microsoftedge.github.io/edgevr/posts/Super-Duper-Secure-Mode/" rel="nofollow" id="tr11"><h1>MS Edge, Super Duper Secure Mode 실험</h1></a> <span class="topicurl">(microsoftedge.github.io)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Tech in Africa]]></title>
-        <id>https://www.readthegeneralist.com/briefing/africa</id>
-        <link href="https://www.readthegeneralist.com/briefing/africa"/>
-        <updated>2021-08-02T17:40:19.532Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4743"><a class="upvote" href="javascript:vote(4743, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.readthegeneralist.com/briefing/africa" rel="nofollow" id="tr12"><h1>Tech in Africa</h1></a> <span class="topicurl">(readthegeneralist.com)</span></td>]]></content>
+        <title type="html"><![CDATA[Airyx - 오픈소스 데스크탑 OS]]></title>
+        <id>http://airyx.org/</id>
+        <link href="http://airyx.org/"/>
+        <updated>2021-08-08T17:38:15.531Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4770"><a class="upvote" href="javascript:vote(4770, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="http://airyx.org/" rel="nofollow" id="tr12"><h1>Airyx - 오픈소스 데스크탑 OS</h1></a> <span class="topicurl">(airyx.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[100% 한국인 - 숫자로 보는 한국인의 생각과 라이프스타일]]></title>
-        <id>https://www.gallup.co.kr/gallupdb/hundred.asp</id>
-        <link href="https://www.gallup.co.kr/gallupdb/hundred.asp"/>
-        <updated>2021-08-02T17:40:19.532Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4742"><a class="upvote" href="javascript:vote(4742, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.gallup.co.kr/gallupdb/hundred.asp" rel="nofollow" id="tr13"><h1>100% 한국인 - 숫자로 보는 한국인의 생각과 라이프스타일</h1></a> <span class="topicurl">(gallup.co.kr)</span></td>]]></content>
+        <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
+        <id>https://news.hada.io/topic?id=4769</id>
+        <link href="https://news.hada.io/topic?id=4769"/>
+        <updated>2021-08-08T17:38:15.533Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4769"><a class="upvote" href="javascript:vote(4769, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4769" id="tr13"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구]]></title>
-        <id>https://github.com/Clivern/Peanut</id>
-        <link href="https://github.com/Clivern/Peanut"/>
-        <updated>2021-08-02T17:40:19.533Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4741"><a class="upvote" href="javascript:vote(4741, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Clivern/Peanut" rel="nofollow" id="tr14"><h1>Peanut - 개발 &amp; 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <title type="html"><![CDATA[AdonisJS - Node.js용 웹 프레임워크]]></title>
+        <id>https://adonisjs.com/</id>
+        <link href="https://adonisjs.com/"/>
+        <updated>2021-08-08T17:38:15.534Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4768"><a class="upvote" href="javascript:vote(4768, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://adonisjs.com/" rel="nofollow" id="tr14"><h1>AdonisJS - Node.js용 웹 프레임워크</h1></a> <span class="topicurl">(adonisjs.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ncc - Node.js 프로젝트를 1개 파일로 컴파일]]></title>
-        <id>https://github.com/vercel/ncc</id>
-        <link href="https://github.com/vercel/ncc"/>
-        <updated>2021-08-02T17:40:19.534Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4740"><a class="upvote" href="javascript:vote(4740, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/vercel/ncc" rel="nofollow" id="tr15"><h1>ncc - Node.js 프로젝트를 1개 파일로 컴파일</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <title type="html"><![CDATA[Android 12 베타 3 및 최종 API를 확인하세요]]></title>
+        <id>https://developers-kr.googleblog.com/2021/08/android-12-beta-3.html</id>
+        <link href="https://developers-kr.googleblog.com/2021/08/android-12-beta-3.html"/>
+        <updated>2021-08-08T17:38:15.536Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4767"><a class="upvote" href="javascript:vote(4767, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developers-kr.googleblog.com/2021/08/android-12-beta-3.html" rel="nofollow" id="tr15"><h1>Android 12 베타 3 및 최종 API를 확인하세요</h1></a> <span class="topicurl">(developers-kr.googleblog.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
-        <id>https://news.hada.io/topic?id=4739</id>
-        <link href="https://news.hada.io/topic?id=4739"/>
-        <updated>2021-08-02T17:40:19.537Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4739"><a class="upvote" href="javascript:vote(4739, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4739" id="tr16"><h1>Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <title type="html"><![CDATA[Ask GN: GeekNews를 운영하시는데 드는 비용이 얼마나 되나요?]]></title>
+        <id>https://news.hada.io/topic?id=4766</id>
+        <link href="https://news.hada.io/topic?id=4766"/>
+        <updated>2021-08-08T17:38:15.538Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4766"><a class="upvote" href="javascript:vote(4766, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4766" id="tr16"><h1>Ask GN: GeekNews를 운영하시는데 드는 비용이 얼마나 되나요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[동영상] CPU는 어떻게 작동할까?]]></title>
-        <id>https://www.youtube.com/watch?v=Fg00LN30Ezg</id>
-        <link href="https://www.youtube.com/watch?v=Fg00LN30Ezg"/>
-        <updated>2021-08-02T17:40:19.539Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4738"><a class="upvote" href="javascript:vote(4738, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.youtube.com/watch?v=Fg00LN30Ezg" rel="nofollow" id="tr17"><h1>[동영상] CPU는 어떻게 작동할까?</h1></a> <span class="topicurl">(youtube.com)</span></td>]]></content>
+        <title type="html"><![CDATA[스택오버플로우의 개발자 설문조사 2021]]></title>
+        <id>https://insights.stackoverflow.com/survey/2021</id>
+        <link href="https://insights.stackoverflow.com/survey/2021"/>
+        <updated>2021-08-08T17:38:15.540Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4765"><a class="upvote" href="javascript:vote(4765, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://insights.stackoverflow.com/survey/2021" rel="nofollow" id="tr17"><h1>스택오버플로우의 개발자 설문조사 2021</h1></a> <span class="topicurl">(insights.stackoverflow.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Static Wiki - 읽기 전용 위키피디어 (43GB)]]></title>
-        <id>http://static.wiki/</id>
-        <link href="http://static.wiki/"/>
-        <updated>2021-08-02T17:40:19.541Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4737"><a class="upvote" href="javascript:vote(4737, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="http://static.wiki/" rel="nofollow" id="tr18"><h1>Static Wiki - 읽기 전용 위키피디어 (43GB)</h1></a> <span class="topicurl">(static.wiki)</span></td>]]></content>
+        <title type="html"><![CDATA[The Size of Space - 우주에 있는 것들의 크기 비교]]></title>
+        <id>https://neal.fun/size-of-space/</id>
+        <link href="https://neal.fun/size-of-space/"/>
+        <updated>2021-08-08T17:38:15.541Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4764"><a class="upvote" href="javascript:vote(4764, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://neal.fun/size-of-space/" rel="nofollow" id="tr18"><h1>The Size of Space - 우주에 있는 것들의 크기 비교</h1></a> <span class="topicurl">(neal.fun)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[M1 맥 지원하는 Lunar 개발기]]></title>
-        <id>https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/</id>
-        <link href="https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/"/>
-        <updated>2021-08-02T17:40:19.545Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4736"><a class="upvote" href="javascript:vote(4736, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://alinpanaitiu.com/blog/journey-to-ddc-on-m1-macs/" rel="nofollow" id="tr19"><h1>M1 맥 지원하는 Lunar 개발기</h1></a> <span class="topicurl">(alinpanaitiu.com)</span></td>]]></content>
+        <title type="html"><![CDATA[Text Fish - 웹페이지의 중요 텍스트만 보기]]></title>
+        <id>https://text.fish/</id>
+        <link href="https://text.fish/"/>
+        <updated>2021-08-08T17:38:15.543Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4763"><a class="upvote" href="javascript:vote(4763, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://text.fish/" rel="nofollow" id="tr19"><h1>Text Fish - 웹페이지의 중요 텍스트만 보기</h1></a> <span class="topicurl">(text.fish)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox, 2019년부터 5천만명의 사용자 이탈]]></title>
-        <id>https://data.firefox.com/dashboard/user-activity</id>
-        <link href="https://data.firefox.com/dashboard/user-activity"/>
-        <updated>2021-08-02T17:40:19.546Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4735"><a class="upvote" href="javascript:vote(4735, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://data.firefox.com/dashboard/user-activity" rel="nofollow" id="tr20"><h1>Firefox, 2019년부터 5천만명의 사용자 이탈 </h1></a> <span class="topicurl">(data.firefox.com)</span></td>]]></content>
+        <title type="html"><![CDATA[MDN의 검색 자동완성 구현 방법]]></title>
+        <id>https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/</id>
+        <link href="https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/"/>
+        <updated>2021-08-08T17:38:15.545Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4762"><a class="upvote" href="javascript:vote(4762, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/" rel="nofollow" id="tr20"><h1>MDN의 검색 자동완성 구현 방법</h1></a> <span class="topicurl">(hacks.mozilla.org)</span></td>]]></content>
     </entry>
 </feed>
