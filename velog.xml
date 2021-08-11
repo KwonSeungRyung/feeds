@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://velog.io</id>
     <title>velog</title>
-    <updated>2021-08-08T17:38:16.762Z</updated>
+    <updated>2021-08-11T05:32:27.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://static.velog.io/favicons/favicon-32x32.png</icon>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2021-08-08T17:38:16.586Z</updated>
         <content type="html"><![CDATA[<p>🙌  들어가기
 
-회사에 들어온 뒤 온보딩 과제를 끝내자마자, 첫 세미나를 맡게 되었습니다 🎉  이번 200% 시리즈는 Storybook 입니당 🙌</p>]]></content>
+회사에 들어온 뒤 온보딩 과제를 끝내자마자, 첫 세미나를 맡게 되었습니다  🎉   이번 200% 시리즈는 Storybook 입니다!</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🥰 우리 같이 .. '코틀린' 할까요?]]></title>
@@ -20,6 +20,59 @@
         <link href="https://velog.io/@haero_kim/%EC%9A%B0%EB%A6%AC-%EA%B0%99%EC%9D%B4-...-%EC%BD%94%ED%8B%80%EB%A6%B0-%ED%95%A0%EA%B9%8C%EC%9A%94"/>
         <updated>2021-08-08T17:38:16.587Z</updated>
         <content type="html"><![CDATA[<p>본격 마성의 언어 코틀린 입덕글</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5년차 프론트엔드 개발자 이직 후기]]></title>
+        <id>https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0</id>
+        <link href="https://velog.io/@bluestragglr/%EC%96%B4%EC%A9%8C%EB%8B%A4-5%EB%85%84%EC%B0%A8-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B4%EC%A7%81-%ED%9B%84%EA%B8%B0"/>
+        <updated>2021-08-11T05:32:27.007Z</updated>
+        <content type="html"><![CDATA[<p>어쩌다.. 제가 벌써 5년차가 됐을까요?</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리액트 문서 읽기 1] - 엘리먼트와 렌더링]]></title>
+        <id>https://velog.io/@tanney-102/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EC%99%80-%EB%A0%8C%EB%8D%94%EB%A7%81</id>
+        <link href="https://velog.io/@tanney-102/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EC%99%80-%EB%A0%8C%EB%8D%94%EB%A7%81"/>
+        <updated>2021-08-08T17:38:16.607Z</updated>
+        <content type="html"><![CDATA[<p>* 리액트 공식문서와 함께 읽으시면 더욱 좋습니다.*
+* 거침없는 피드백은 더 더욱 좋습니다*
+
+리액트 엘리먼트
+
+&gt; 엘리먼트는 React 앱의 가장 작은 단위입니다.
+
+브라우저에 돔 엘리먼트가 있듯 리액트에도 엘리먼트라는 개념이 존재합니다. 돔 엘리먼트와 한가지 다른<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발만 잘하면 군대 개꿀로 다녀올 수 있다?!]]></title>
+        <id>https://velog.io/@academey/%EA%B0%9C%EB%B0%9C%EB%A7%8C-%EC%9E%98%ED%95%98%EB%A9%B4-%EA%B5%B0%EB%8C%80-%EA%B0%9C%EA%BF%80%EB%A1%9C-%EB%8B%A4%EB%85%80%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4</id>
+        <link href="https://velog.io/@academey/%EA%B0%9C%EB%B0%9C%EB%A7%8C-%EC%9E%98%ED%95%98%EB%A9%B4-%EA%B5%B0%EB%8C%80-%EA%B0%9C%EA%BF%80%EB%A1%9C-%EB%8B%A4%EB%85%80%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4"/>
+        <updated>2021-08-08T17:38:16.605Z</updated>
+        <content type="html"><![CDATA[<p>!youtube[9Xikx4nAe5U]
+
+0. 들어가며
+
+안녕하세요. 병특을 들어봤을지도 안 들어봤을지도 모르는 여러분. 1년 동안 병특이라는 제도를 준비한 사람으로서, 그게 뭔지, 어떻게 준비했는지 알려드리고자 합니다. 병특을 준비하는/궁금한 사람에게 도움이 되길 바<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Node.js 로 slack-bot 을 만들어보았다]]></title>
+        <id>https://velog.io/@eamon3481/Node.js-%EB%A1%9C-slack-bot-%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%95%98%EB%8B%A4</id>
+        <link href="https://velog.io/@eamon3481/Node.js-%EB%A1%9C-slack-bot-%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%95%98%EB%8B%A4"/>
+        <updated>2021-08-08T17:38:16.595Z</updated>
+        <content type="html"><![CDATA[<p>내게 개발을 공부하기 전에 개발자에 대한 어떤 로망 이 있었던 것은 사실이다.그 무수한 로망 중 하나가 게으른 개발자 로망인데 설명하자면 이런 것이다."아~ 이거 계속 반복하기 귀찮은데 (거만한 표정으로) 귀찮은데 코딩으로 자동화 시켜볼까~"대충 이런 로망이다.  </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JS 문법을 통한 깔끔한 JS 사용하기]]></title>
+        <id>https://velog.io/@swhan9404/JS-%EB%AC%B8%EB%B2%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B9%94%EB%81%94%ED%95%9C-JS-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0</id>
+        <link href="https://velog.io/@swhan9404/JS-%EB%AC%B8%EB%B2%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B9%94%EB%81%94%ED%95%9C-JS-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0"/>
+        <updated>2021-08-11T05:32:27.011Z</updated>
+        <content type="html"><![CDATA[<p>다음 내용들은 영상에서 나온 내용을 정리한 내용입니다.https://youtu.be/BUAhpB3FmS4안좋은 코드조건이 두가지인 경우 elif 를 작성할 필요 없음좋은 코드삼항 연산자 이용condition ? exprIfTrue : exprIfFalse 안좋<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[데브코스] 프로그래머스 데브코스 프론트엔드 합격 후기 🔥 + 면접 꿀팁!🍯]]></title>
+        <id>https://velog.io/@surim014/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0</id>
+        <link href="https://velog.io/@surim014/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0"/>
+        <updated>2021-08-08T17:38:16.598Z</updated>
+        <content type="html"><![CDATA[<p>프로그래머스가 과정을 기획한 100% 정부지원 국비 교육 프로그램다수의 프론트엔드 현업 개발자로 구성된 강사진과 멘토기초 지식부터 탄탄하게 배울 수 있는 알짜배기 커리큘럼5개월동안 동료들과 함께하며 다양한 스터디를 통한 주도적인 성장 기회밀착 면담을 통한 커리어 로드맵<!-- -->...</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu를 Windows 95 테마로 꾸미기]]></title>
@@ -33,81 +86,6 @@
 마음잡고 내부 시스템을 뜯어고쳐야 우리가 알던 고전 윈도우로 만들 수 있죠
 
 하지만 리<!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실시간으로 깃허브 알림 받기, Gitify 2주간 사용기]]></title>
-        <id>https://velog.io/@broccolism/%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9C%BC%EB%A1%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%95%8C%EB%A6%BC-%EB%B0%9B%EA%B8%B0-Gitify-2%EC%A3%BC%EA%B0%84-%EC%82%AC%EC%9A%A9%EA%B8%B0</id>
-        <link href="https://velog.io/@broccolism/%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9C%BC%EB%A1%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EC%95%8C%EB%A6%BC-%EB%B0%9B%EA%B8%B0-Gitify-2%EC%A3%BC%EA%B0%84-%EC%82%AC%EC%9A%A9%EA%B8%B0"/>
-        <updated>2021-08-08T17:38:16.593Z</updated>
-        <content type="html"><![CDATA[<p>카카오톡처럼 깃허브 알림 받기</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로그래머스 데브코스 면접/합격 후기]]></title>
-        <id>https://velog.io/@minsgy/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%A9%B4%EC%A0%91%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0</id>
-        <link href="https://velog.io/@minsgy/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%EB%A9%B4%EC%A0%91%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0"/>
-        <updated>2021-08-08T17:38:16.594Z</updated>
-        <content type="html"><![CDATA[<p>취업이 두려운 졸예자...
-
-벌써 어느덧 마지막 4학년 2학기를 앞두고 취업 준비에 있다.
-
-학생이라는 방패가 더 이상 불가능한 시점이 온다는 것에 두려웠다.
-
-그 와중에 코로나의 여파로 경제는 점점 더 힘들어지고
-인턴 자리는 점점 좁아지고.. 현재 상황에 대해 고민이<!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Node.js 로 slack-bot 을 만들어보았다]]></title>
-        <id>https://velog.io/@eamon3481/Node.js-%EB%A1%9C-slack-bot-%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%95%98%EB%8B%A4</id>
-        <link href="https://velog.io/@eamon3481/Node.js-%EB%A1%9C-slack-bot-%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%95%98%EB%8B%A4"/>
-        <updated>2021-08-08T17:38:16.595Z</updated>
-        <content type="html"><![CDATA[<p>내게 개발을 공부하기 전에 개발자에 대한 어떤 로망 이 있었던 것은 사실이다.그 무수한 로망 중 하나가 게으른 개발자 로망인데 설명하자면 이런 것이다."아~ 이거 계속 반복하기 귀찮은데 (거만한 표정으로) 귀찮은데 코딩으로 자동화 시켜볼까~"대충 이런 로망이다.  </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대에서 스타트업 준비하기-1]]></title>
-        <id>https://velog.io/@lgun202/%EA%B5%B0%EB%8C%80%EC%97%90%EC%84%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-1</id>
-        <link href="https://velog.io/@lgun202/%EA%B5%B0%EB%8C%80%EC%97%90%EC%84%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-1"/>
-        <updated>2021-08-08T17:38:16.597Z</updated>
-        <content type="html"><![CDATA[<p>군대 1년 6개월, 짧으면 짧고 길면 긴 시간이다.
-이 시간을 알차게 보내고 싶어서 Velog를 시작하게 되었다 :)
-
-😅 너무 뒤처지는 거 같지만
-- 방향을 정할 수 있는 좋은 시기!?
-군대를 앞두면 1년 6개월 동안 개발 커리어를 못 쌓는다는 생각에 걱정을 많이 <!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데브코스] 프로그래머스 데브코스 프론트엔드 합격 후기 🔥 + 면접 꿀팁!🍯]]></title>
-        <id>https://velog.io/@surim014/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0</id>
-        <link href="https://velog.io/@surim014/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EB%8D%B0%EB%B8%8C%EC%BD%94%EC%8A%A4-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0"/>
-        <updated>2021-08-08T17:38:16.598Z</updated>
-        <content type="html"><![CDATA[<p>프로그래머스가 과정을 기획한 100% 정부지원 국비 교육 프로그램다수의 프론트엔드 현업 개발자로 구성된 강사진과 멘토기초 지식부터 탄탄하게 배울 수 있는 알짜배기 커리큘럼5개월동안 동료들과 함께하며 다양한 스터디를 통한 주도적인 성장 기회밀착 면담을 통한 커리어 로드맵<!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다양한  기술 블로그 플랫폼]]></title>
-        <id>https://velog.io/@dltlaos11/%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC</id>
-        <link href="https://velog.io/@dltlaos11/%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC"/>
-        <updated>2021-08-08T17:38:16.601Z</updated>
-        <content type="html"><![CDATA[<p>네이버 블로그 Naver카카오 티스토리 tstory벨로그 velog브런치 brunch워드프레스 wordpress미디엄 Medium깃허브 블로그 github.io노션 Notion네이버 블로그네이버 블로그장점: 간단하고 쉽다, 네이버 검색이 잘됨. 단점: 구글에 노출이 되<!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[TIL] 01 : JavaScript 기본]]></title>
-        <id>https://velog.io/@xjpassion/TIL-01-JavaScript-Basics</id>
-        <link href="https://velog.io/@xjpassion/TIL-01-JavaScript-Basics"/>
-        <updated>2021-08-08T17:38:16.602Z</updated>
-        <content type="html"><![CDATA[<p>
-Introduction
-개발 공부를 오랜만에 하려니 신기하고 재밌는 것이 많다. 다양한 개념과 잘 쓰지 않았던 문법들을 보려니 갑자기 머리에서 쥐가 나는 듯 하다. 계속 보다보면 괜찮아질 것이라 믿는다. 올해 처음 눈여겨 본 화살표 함수가 이제는 조금 친숙해지기 때문<!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구조 분해 할당 (북극곰은 사람을 찢지. 구조분해할당은...)]]></title>
-        <id>https://velog.io/@sunnyday/%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9</id>
-        <link href="https://velog.io/@sunnyday/%EA%B5%AC%EC%A1%B0-%EB%B6%84%ED%95%B4-%ED%95%A0%EB%8B%B9"/>
-        <updated>2021-08-08T17:38:16.603Z</updated>
-        <content type="html"><![CDATA[<p>🤔'구조 분해 할당'이란?
-배열이나 객체의 속성을 해체하여 그 값을 개별 변수에 담을 수 있게 하는 JavaScript 표현식
-
-어려운말~어려운말~어려운말~어려운말~어려운말~어려운말~어려운말~어려운말
-이럴 땐? 예시를 보자!
-</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TIL #5 - React 프로젝트하면서 이건 지키자!]]></title>
@@ -125,50 +103,47 @@ React Class형에서는 라이프사이클에 대한 이해가 필요하다.
 constructor -&gt; render -&gt;<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개발만 잘하면 군대 개꿀로 다녀올 수 있다?!]]></title>
-        <id>https://velog.io/@academey/%EA%B0%9C%EB%B0%9C%EB%A7%8C-%EC%9E%98%ED%95%98%EB%A9%B4-%EA%B5%B0%EB%8C%80-%EA%B0%9C%EA%BF%80%EB%A1%9C-%EB%8B%A4%EB%85%80%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4</id>
-        <link href="https://velog.io/@academey/%EA%B0%9C%EB%B0%9C%EB%A7%8C-%EC%9E%98%ED%95%98%EB%A9%B4-%EA%B5%B0%EB%8C%80-%EA%B0%9C%EA%BF%80%EB%A1%9C-%EB%8B%A4%EB%85%80%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4"/>
-        <updated>2021-08-08T17:38:16.605Z</updated>
-        <content type="html"><![CDATA[<p>!youtube[9Xikx4nAe5U]
-
-0. 들어가며
-
-안녕하세요. 병특을 들어봤을지도 안 들어봤을지도 모르는 여러분. 1년 동안 병특이라는 제도를 준비한 사람으로서, 그게 뭔지, 어떻게 준비했는지 알려드리고자 합니다. 병특을 준비하는/궁금한 사람에게 도움이 되길 바<!-- -->...</p>]]></content>
+        <title type="html"><![CDATA[다양한  기술 블로그 플랫폼]]></title>
+        <id>https://velog.io/@dltlaos11/%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC</id>
+        <link href="https://velog.io/@dltlaos11/%EB%8B%A4%EC%96%91%ED%95%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%ED%94%8C%EB%9E%AB%ED%8F%BC"/>
+        <updated>2021-08-08T17:38:16.601Z</updated>
+        <content type="html"><![CDATA[<p>네이버 블로그 Naver카카오 티스토리 tstory벨로그 velog브런치 brunch워드프레스 wordpress미디엄 Medium깃허브 블로그 github.io노션 Notion네이버 블로그네이버 블로그장점: 간단하고 쉽다, 네이버 검색이 잘됨. 단점: 구글에 노출이 되<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[리액트 문서 읽기 1] - 엘리먼트와 렌더링]]></title>
-        <id>https://velog.io/@tanney-102/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EC%99%80-%EB%A0%8C%EB%8D%94%EB%A7%81</id>
-        <link href="https://velog.io/@tanney-102/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%AC%B8%EC%84%9C-%EC%9D%BD%EA%B8%B0-1-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EC%99%80-%EB%A0%8C%EB%8D%94%EB%A7%81"/>
-        <updated>2021-08-08T17:38:16.607Z</updated>
-        <content type="html"><![CDATA[<p>* 리액트 공식문서와 함께 읽으시면 더욱 좋습니다.*
-* 거침없는 피드백은 더 더욱 좋습니다*
-
-리액트 엘리먼트
-
-&gt; 엘리먼트는 React 앱의 가장 작은 단위입니다.
-
-브라우저에 돔 엘리먼트가 있듯 리액트에도 엘리먼트라는 개념이 존재합니다. 돔 엘리먼트와 한가지 다른<!-- -->...</p>]]></content>
+        <title type="html"><![CDATA[[Week1] 나는 말하는 감자]]></title>
+        <id>https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4</id>
+        <link href="https://velog.io/@minsgy/Week1-%EB%82%B4%EA%B0%80-%EA%B8%B0%EC%B4%88%EC%98%80%EB%8B%A4"/>
+        <updated>2021-08-11T05:32:27.021Z</updated>
+        <content type="html"><![CDATA[<p>프로그래머스 프론트엔드 데브코스 1주차</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[최종 합격] 네이버 신입 공채 : 기술 직군]]></title>
-        <id>https://velog.io/@inbdni/%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%EA%B8%B0%EC%88%A0-%EC%A7%81%EA%B5%B0</id>
-        <link href="https://velog.io/@inbdni/%EC%B5%9C%EC%A2%85-%ED%95%A9%EA%B2%A9-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8B%A0%EC%9E%85-%EA%B3%B5%EC%B1%84-%EA%B8%B0%EC%88%A0-%EC%A7%81%EA%B5%B0"/>
-        <updated>2021-08-08T17:38:16.608Z</updated>
-        <content type="html"><![CDATA[<p>2021 상반기 네이버 신입 공채 : 기술 직군 최종 합격 후기</p>]]></content>
+        <title type="html"><![CDATA[[week1] Web Storage? 무엇을 저장해?]]></title>
+        <id>https://velog.io/@minsgy/Web-Storage-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%B4</id>
+        <link href="https://velog.io/@minsgy/Web-Storage-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%A0%80%EC%9E%A5%ED%95%B4"/>
+        <updated>2021-08-11T05:32:27.022Z</updated>
+        <content type="html"><![CDATA[<p>
+🤔웹 스토리지 (Web Storage)가 뭐야?
+
+기본적인 웹 구성은 Client-Server로 나뉘게 되며 서버단에는 Database가 존재한다.
+
+보통 정보 저장은 Database에 하게 된다.
+
+그러나 일부 정보를 상태 유지 하기 위해서 Client 단에 저장<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🤔 List 랑 Array ..? 대체 무슨 차이야?]]></title>
-        <id>https://velog.io/@haero_kim/List-%EB%9E%91-Array-..-%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%95%BC</id>
-        <link href="https://velog.io/@haero_kim/List-%EB%9E%91-Array-..-%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%95%BC"/>
-        <updated>2021-08-08T17:38:16.609Z</updated>
-        <content type="html"><![CDATA[<p>코틀린에서의 List 와 Array 의 명백한 차이점 알아보기</p>]]></content>
+        <title type="html"><![CDATA[썸네일 메이커(Thumbnail Maker) 만들기 | Toy Project]]></title>
+        <id>https://velog.io/@oneook/%EC%8D%B8%EB%84%A4%EC%9D%BC-%EB%A9%94%EC%9D%B4%EC%BB%A4Thumbnail-Maker-Toy-Project</id>
+        <link href="https://velog.io/@oneook/%EC%8D%B8%EB%84%A4%EC%9D%BC-%EB%A9%94%EC%9D%B4%EC%BB%A4Thumbnail-Maker-Toy-Project"/>
+        <updated>2021-08-11T05:32:27.024Z</updated>
+        <content type="html"><![CDATA[<p>누구든지 10초 안에 무난한 벨로그 썸네일을 만들 수 있습니다. 어도비, 오피스 없어도 됩니다. 당신은 개발과 글쓰기에만 집중하세요.
+같이 공부하는 기수 분들 중에 포토샵 같은 편집 프로그램이 익숙치 않은 분들도 계실 것이다. 벨로그에 기술블로그를 꾸준히 쓰는것도 일</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TIL 1 | 클로저 이해하기]]></title>
-        <id>https://velog.io/@grighth12/TIL-1-%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0</id>
-        <link href="https://velog.io/@grighth12/TIL-1-%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0"/>
-        <updated>2021-08-08T17:38:16.610Z</updated>
-        <content type="html"><![CDATA[<p>자바스크립트의 클로저에 대해 이해해보자.</p>]]></content>
+        <title type="html"><![CDATA[Wecode✨ 1주차의 기록]]></title>
+        <id>https://velog.io/@jun_n3/Wecode-1%EC%A3%BC%EC%B0%A8%EC%9D%98-%EA%B8%B0%EB%A1%9D</id>
+        <link href="https://velog.io/@jun_n3/Wecode-1%EC%A3%BC%EC%B0%A8%EC%9D%98-%EA%B8%B0%EB%A1%9D"/>
+        <updated>2021-08-08T17:38:16.621Z</updated>
+        <content type="html"><![CDATA[<p>위코드 과정을 시작하기 위해서 서울에 올라온지 벌써 1주일이 되가고 있다. 개강일을 앞두고 코로나가 감염자가 꽤 많이 나왔고 그 핑계로 올라감을 망설인 시간이 꽤 됐다. 사실, 지금 나이에 무언가 새로 시작한다는 것이 설레기도 했지만 많이 두렵기도 했다. 즐거우니까, <!-- -->...</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꾸깃 project 1주차를 넘기며]]></title>
@@ -178,11 +153,39 @@ constructor -&gt; render -&gt;<!-- -->...</p>]]></content>
         <content type="html"><![CDATA[<p>위코드 생활 한달이 지나고 드디어 1차 project가 시작되었다. 각자 하고 싶은 페이지를 발표한 뒤 후보를 뽑고 투표를 통해 6개의 팀으로 선정된다. 그 중 내가 발표한 '쿡킷' 페이지가 선정되었다. (솔직히 될 줄 알았다!🤣)우리 팀은 FE 3명, BE 2명 총<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Vue의 현실] API Interface 만들기]]></title>
-        <id>https://velog.io/@uriyang_/Vue%EC%9D%98-%ED%98%84%EC%8B%A4-API-inteface-2</id>
-        <link href="https://velog.io/@uriyang_/Vue%EC%9D%98-%ED%98%84%EC%8B%A4-API-inteface-2"/>
-        <updated>2021-08-08T17:38:16.613Z</updated>
-        <content type="html"><![CDATA[<p>드디어 API Interface 구성! 더 좋은 방법이 있을 경우 제보 부탁드립니다.</p>]]></content>
+        <title type="html"><![CDATA[[React]Throttle로 Sticky Header 구현하기]]></title>
+        <id>https://velog.io/@dami/ReactThrottle%EB%A1%9C-Sticky-Header-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0</id>
+        <link href="https://velog.io/@dami/ReactThrottle%EB%A1%9C-Sticky-Header-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0"/>
+        <updated>2021-08-11T05:32:27.030Z</updated>
+        <content type="html"><![CDATA[<p>Throttle로 Sticky Header 구현하기</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React Router -왜 useLocation은 render를 일으킬까?]]></title>
+        <id>https://velog.io/@eye3570/React-Router-%EC%99%9C-useLocation%EC%9D%80-render%EB%A5%BC-%EC%9D%BC%EC%9C%BC%ED%82%AC%EA%B9%8C</id>
+        <link href="https://velog.io/@eye3570/React-Router-%EC%99%9C-useLocation%EC%9D%80-render%EB%A5%BC-%EC%9D%BC%EC%9C%BC%ED%82%AC%EA%B9%8C"/>
+        <updated>2021-08-11T05:32:27.030Z</updated>
+        <content type="html"><![CDATA[<p>자란다 과제를 배포 전에 코드 정리를 하면서 의문점을 들게 한 코드를 찾게 되었다.화면에 랜더링 되는 공통 컴포넌트 Header.js 파일에서react router 패키지 함수인 useLocation() 호출만으로 useEffect와 useState 없이 해당 화면을 <!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[책 소개] 쉽게 배우는 소프트웨어 공학 - 김치수]]></title>
+        <id>https://velog.io/@cheo/book-easy-software-engineering</id>
+        <link href="https://velog.io/@cheo/book-easy-software-engineering"/>
+        <updated>2021-08-11T05:32:27.033Z</updated>
+        <content type="html"><![CDATA[<p>오늘 소개할 책은 "쉽게 배우는 소프트웨어 공학(2판)"이다. 찾아보니 대학강의용 교재이며 강의는 아래와 같이 K-MOOC에서 들을 수 있다고 한다. 강좌 만족도가 무려 4.4점이다. </p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애니메이션에서 불필요한 속성 하나가 브라우저 렌더링 성능에 끼치는 영향]]></title>
+        <id>https://velog.io/@hseoy/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EC%86%8D%EC%84%B1-%ED%95%98%EB%82%98%EA%B0%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5%EC%97%90-%EB%81%BC%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5</id>
+        <link href="https://velog.io/@hseoy/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%EC%97%90%EC%84%9C-%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C-%EC%86%8D%EC%84%B1-%ED%95%98%EB%82%98%EA%B0%80-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%84%B1%EB%8A%A5%EC%97%90-%EB%81%BC%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5"/>
+        <updated>2021-08-11T05:32:27.034Z</updated>
+        <content type="html"><![CDATA[<p>돈이 떨어지는 애니메이션최근 프로젝트에서 위처럼 돈이 나풀거리며 떨어지는 애니메이션을 구현했습니다. '가계부'라는 프로젝트 주제에 맞게 돈을 많이 벌었으면 하는 마음에 돈이 날라다니는 애니메이션을 추가했는 데 프로젝트를 배포하고나서 결과물을 확인하신 멘토님께 이런 피드<!-- -->...</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[POB#10] Assignment 3: 자란다 기업 과제 기술 정리. Jest를 이용한 test 작성]]></title>
+        <id>https://velog.io/@tunakim/POB09-Assignment-3-%EC%9E%90%EB%9E%80%EB%8B%A4-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC-jest%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-test-%EC%9E%91%EC%84%B1</id>
+        <link href="https://velog.io/@tunakim/POB09-Assignment-3-%EC%9E%90%EB%9E%80%EB%8B%A4-%EA%B8%B0%EC%88%A0-%EC%A0%95%EB%A6%AC-jest%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-test-%EC%9E%91%EC%84%B1"/>
+        <updated>2021-08-11T05:32:27.035Z</updated>
+        <content type="html"><![CDATA[<p>Assignment 3: 자란다 기술 정리 ( jest를 이용한 test 작성 )</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[교생실습후기/정보교과] 정보교과 교생실습 후기(1)]]></title>
@@ -197,31 +200,17 @@ constructor -&gt; render -&gt;<!-- -->...</p>]]></content>
 나는 사범대가 아닌 공과대 컴퓨터소프트웨어공학과에 재학중이기 때문에 따로 교직이수를 신<!-- -->...</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[TIL] 8월 2일: 자바스크립트 기초 문법부터 다지는 알짜배기 강의]]></title>
-        <id>https://velog.io/@seungrok-yoon/TIL-20210802</id>
-        <link href="https://velog.io/@seungrok-yoon/TIL-20210802"/>
-        <updated>2021-08-08T17:38:16.616Z</updated>
-        <content type="html"><![CDATA[<p>2021년 K-Digital Training: 빅데이터 플랫폼 프론트엔드 엔지니어링 데브 코스 수강생의 첫 TIL! 게으름...멈춰~!마음 속에서 계속 이 말이 끊이지 않고 나오고 있다. 그 동안 "에잉.. 어떻게든 취업하겠지" 하면서 허송세월 했던 나날들이 주마등처럼<!-- -->...</p>]]></content>
+        <title type="html"><![CDATA[🤔 List 랑 Array ..? 대체 무슨 차이야?]]></title>
+        <id>https://velog.io/@haero_kim/List-%EB%9E%91-Array-..-%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%95%BC</id>
+        <link href="https://velog.io/@haero_kim/List-%EB%9E%91-Array-..-%EB%8C%80%EC%B2%B4-%EB%AC%B4%EC%8A%A8-%EC%B0%A8%EC%9D%B4%EC%95%BC"/>
+        <updated>2021-08-08T17:38:16.609Z</updated>
+        <content type="html"><![CDATA[<p>코틀린에서의 List 와 Array 의 명백한 차이점 알아보기</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wecode✨ 1주차의 기록]]></title>
-        <id>https://velog.io/@jun_n3/Wecode-1%EC%A3%BC%EC%B0%A8%EC%9D%98-%EA%B8%B0%EB%A1%9D</id>
-        <link href="https://velog.io/@jun_n3/Wecode-1%EC%A3%BC%EC%B0%A8%EC%9D%98-%EA%B8%B0%EB%A1%9D"/>
-        <updated>2021-08-08T17:38:16.621Z</updated>
-        <content type="html"><![CDATA[<p>위코드 과정을 시작하기 위해서 서울에 올라온지 벌써 1주일이 되가고 있다. 개강일을 앞두고 코로나가 감염자가 꽤 많이 나왔고 그 핑계로 올라감을 망설인 시간이 꽤 됐다. 사실, 지금 나이에 무언가 새로 시작한다는 것이 설레기도 했지만 많이 두렵기도 했다. 즐거우니까, <!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨로그, thank me plz]]></title>
-        <id>https://velog.io/@hy_cv/%EB%B2%A8%EB%A1%9C%EA%B7%B8-thank-me-plz</id>
-        <link href="https://velog.io/@hy_cv/%EB%B2%A8%EB%A1%9C%EA%B7%B8-thank-me-plz"/>
-        <updated>2021-08-08T17:38:16.623Z</updated>
-        <content type="html"><![CDATA[<p>기술 개발 블로그를 고민고민 하다가 최종적으로 벨로그를 골랐다. github io 사이에서 마지막까지 좀 고민했는데, 아무래도 첫 블로그라 글을 주기적으로 쓰기만 해도 스스로를 우쭈쭈 우쭈쭈 해줘야 할것 같은데 깃허브 io 는 배워야할게 너무 많았다. 배우다가 지쳐서 <!-- -->...</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TIL 2. 데이터 타입의 종류]]></title>
-        <id>https://velog.io/@changh950/TIL2.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%9D%98-%EC%A2%85%EB%A5%98</id>
-        <link href="https://velog.io/@changh950/TIL2.-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%83%80%EC%9E%85%EC%9D%98-%EC%A2%85%EB%A5%98"/>
-        <updated>2021-08-08T17:38:16.624Z</updated>
-        <content type="html"><![CDATA[<p>TIL 2</p>]]></content>
+        <title type="html"><![CDATA[슬기로운 M1 MacBook생활 - 설마 아직도 드래그를 힘들게하니..? 트랙패드 200%활용법]]></title>
+        <id>https://velog.io/@joshuara7235/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-M1-MacBook%EC%83%9D%ED%99%9C-%EC%84%A4%EB%A7%88-%EC%95%84%EC%A7%81%EB%8F%84-%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A5%BC-%ED%9E%98%EB%93%A4%EA%B2%8C%ED%95%98%EB%8B%88..-%ED%8A%B8%EB%9E%99%ED%8C%A8%EB%93%9C-200%ED%99%9C%EC%9A%A9%EB%B2%95</id>
+        <link href="https://velog.io/@joshuara7235/%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-M1-MacBook%EC%83%9D%ED%99%9C-%EC%84%A4%EB%A7%88-%EC%95%84%EC%A7%81%EB%8F%84-%EB%93%9C%EB%9E%98%EA%B7%B8%EB%A5%BC-%ED%9E%98%EB%93%A4%EA%B2%8C%ED%95%98%EB%8B%88..-%ED%8A%B8%EB%9E%99%ED%8C%A8%EB%93%9C-200%ED%99%9C%EC%9A%A9%EB%B2%95"/>
+        <updated>2021-08-11T05:32:27.040Z</updated>
+        <content type="html"><![CDATA[<p>💻 트랙패드 200% 활용법</p>]]></content>
     </entry>
 </feed>
