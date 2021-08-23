@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews</title>
-    <updated>2021-08-15T05:32:36.008Z</updated>
+    <updated>2021-08-23T17:37:27.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Svelte로 작성한 macOS]]></title>
-        <id>https://macos.vercel.app/</id>
-        <link href="https://macos.vercel.app/"/>
-        <updated>2021-08-15T05:32:22.131Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4822"><a class="upvote" href="javascript:vote(4822, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://macos.vercel.app/" rel="nofollow" id="tr1"><h1>Svelte로 작성한 macOS</h1></a> <span class="topicurl">(macos.vercel.app)</span></td>]]></content>
+        <title type="html"><![CDATA[애플은 이제 Antifragile 회사 입니다]]></title>
+        <id>https://tidbits.com/2021/07/30/apple-is-now-an-antifragile-company/</id>
+        <link href="https://tidbits.com/2021/07/30/apple-is-now-an-antifragile-company/"/>
+        <updated>2021-08-23T17:37:14.224Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4870"><a class="upvote" href="javascript:vote(4870, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://tidbits.com/2021/07/30/apple-is-now-an-antifragile-company/" rel="nofollow" id="tr1"><h1>애플은 이제 Antifragile 회사 입니다</h1></a> <span class="topicurl">(tidbits.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WinXP - 윈도우XP in React]]></title>
-        <id>https://winxp.vercel.app/</id>
-        <link href="https://winxp.vercel.app/"/>
-        <updated>2021-08-15T05:32:22.133Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4821"><a class="upvote" href="javascript:vote(4821, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://winxp.vercel.app/" rel="nofollow" id="tr2"><h1>WinXP - 윈도우XP in React</h1></a> <span class="topicurl">(winxp.vercel.app)</span></td>]]></content>
+        <title type="html"><![CDATA[스카이림의 수레와 벌, 여우와 보물]]></title>
+        <id>https://imseongkang.wordpress.com/2021/08/22/skylimdevstory/</id>
+        <link href="https://imseongkang.wordpress.com/2021/08/22/skylimdevstory/"/>
+        <updated>2021-08-23T17:37:14.226Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4869"><a class="upvote" href="javascript:vote(4869, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://imseongkang.wordpress.com/2021/08/22/skylimdevstory/" rel="nofollow" id="tr2"><h1>스카이림의 수레와 벌, 여우와 보물</h1></a> <span class="topicurl">(imseongkang.wordpress.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무료 오픈소스 안드로이드 앱이 웹사이트 링크를 포함해서 구글플레이 에서 제거됨]]></title>
-        <id>https://github.com/language-transfer/lt-app/pull/44</id>
-        <link href="https://github.com/language-transfer/lt-app/pull/44"/>
-        <updated>2021-08-15T05:32:22.134Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4820"><a class="upvote" href="javascript:vote(4820, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/language-transfer/lt-app/pull/44" rel="nofollow" id="tr3"><h1>무료 오픈소스 안드로이드 앱이 웹사이트 링크를 포함해서 구글플레이 에서 제거됨</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <title type="html"><![CDATA[JS 번들링/트랜스파일링 없는 최신 웹앱]]></title>
+        <id>https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755</id>
+        <link href="https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755"/>
+        <updated>2021-08-23T17:37:14.227Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4868"><a class="upvote" href="javascript:vote(4868, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755" rel="nofollow" id="tr3"><h1>JS 번들링/트랜스파일링 없는 최신 웹앱</h1></a> <span class="topicurl">(world.hey.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데비안 11 릴리즈]]></title>
-        <id>https://www.debian.org/releases/bullseye/amd64/release-notes/</id>
-        <link href="https://www.debian.org/releases/bullseye/amd64/release-notes/"/>
-        <updated>2021-08-15T05:32:22.141Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4819"><a class="upvote" href="javascript:vote(4819, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.debian.org/releases/bullseye/amd64/release-notes/" rel="nofollow" id="tr4"><h1>데비안 11 릴리즈</h1></a> <span class="topicurl">(debian.org)</span></td>]]></content>
+        <title type="html"><![CDATA[FilesRemote - SSH 파일 매니저]]></title>
+        <id>https://github.com/allanrbo/filesremote</id>
+        <link href="https://github.com/allanrbo/filesremote"/>
+        <updated>2021-08-23T17:37:14.229Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4867"><a class="upvote" href="javascript:vote(4867, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/allanrbo/filesremote" rel="nofollow" id="tr4"><h1>FilesRemote - SSH 파일 매니저</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역)]]></title>
-        <id>https://m.blog.naver.com/PostView.nhn?blogId=vbcjfkak1&amp;logNo=40124752728&amp;proxyReferer=&amp;proxyReferer=http:%2F%2Fblog.naver.com%2Fvbcjfkak1%2F40124752728</id>
-        <link href="https://m.blog.naver.com/PostView.nhn?blogId=vbcjfkak1&amp;logNo=40124752728&amp;proxyReferer=&amp;proxyReferer=http:%2F%2Fblog.naver.com%2Fvbcjfkak1%2F40124752728"/>
-        <updated>2021-08-15T05:32:22.141Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4818"><a class="upvote" href="javascript:vote(4818, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://m.blog.naver.com/PostView.nhn?blogId=vbcjfkak1&amp;logNo=40124752728&amp;proxyReferer=&amp;proxyReferer=http:%2F%2Fblog.naver.com%2Fvbcjfkak1%2F40124752728" rel="nofollow" id="tr5"><h1>GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역)</h1></a> <span class="topicurl">(m.blog.naver.com)</span></td>]]></content>
+        <title type="html"><![CDATA[STRICT tables for SQLite 초안]]></title>
+        <id>https://www.sqlite.org/draft/stricttables.html</id>
+        <link href="https://www.sqlite.org/draft/stricttables.html"/>
+        <updated>2021-08-23T17:37:14.231Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4866"><a class="upvote" href="javascript:vote(4866, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.sqlite.org/draft/stricttables.html" rel="nofollow" id="tr5"><h1>STRICT tables for SQLite 초안</h1></a> <span class="topicurl">(sqlite.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask GN: 다들 작업하실 떄 어떤 환경을 좋아하세요?]]></title>
-        <id>https://news.hada.io/topic?id=4817</id>
-        <link href="https://news.hada.io/topic?id=4817"/>
-        <updated>2021-08-15T05:32:22.143Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4817"><a class="upvote" href="javascript:vote(4817, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4817" id="tr6"><h1>Ask GN: 다들 작업하실 떄 어떤 환경을 좋아하세요? </h1></a> <span class="topicurl"></span></td>]]></content>
+        <title type="html"><![CDATA[Awesome Guidelines]]></title>
+        <id>https://github.com/Kristories/awesome-guidelines</id>
+        <link href="https://github.com/Kristories/awesome-guidelines"/>
+        <updated>2021-08-23T17:37:14.254Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4865"><a class="upvote" href="javascript:vote(4865, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Kristories/awesome-guidelines" rel="nofollow" id="tr6"><h1>Awesome Guidelines</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[eBPF 재단 출범]]></title>
-        <id>https://www.linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation</id>
-        <link href="https://www.linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation"/>
-        <updated>2021-08-15T05:32:22.147Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4816"><a class="upvote" href="javascript:vote(4816, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.linuxfoundation.org/press-release/facebook-google-isovalent-microsoft-and-netflix-launch-ebpf-foundation-as-part-of-the-linux-foundation" rel="nofollow" id="tr7"><h1>eBPF 재단 출범</h1></a> <span class="topicurl">(linuxfoundation.org)</span></td>]]></content>
+        <title type="html"><![CDATA[고운돋움 & 고운바탕 - 한글 폰트]]></title>
+        <id>https://github.com/yangheeryu/Gowun-Dodum</id>
+        <link href="https://github.com/yangheeryu/Gowun-Dodum"/>
+        <updated>2021-08-23T17:37:14.257Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4864"><a class="upvote" href="javascript:vote(4864, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/yangheeryu/Gowun-Dodum" rel="nofollow" id="tr7"><h1>고운돋움 &amp; 고운바탕 - 한글 폰트</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[JSZip - Zip파일 생성/읽기/수정용 JS 라이브러리]]></title>
-        <id>https://github.com/Stuk/jszip</id>
-        <link href="https://github.com/Stuk/jszip"/>
-        <updated>2021-08-15T05:32:22.149Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4815"><a class="upvote" href="javascript:vote(4815, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Stuk/jszip" rel="nofollow" id="tr8"><h1>JSZip - Zip파일 생성/읽기/수정용 JS 라이브러리</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <title type="html"><![CDATA[wavesurfer.js - 인터랙티브 오디오 파형 시각화 라이브러리 오픈소스]]></title>
+        <id>https://wavesurfer-js.org/</id>
+        <link href="https://wavesurfer-js.org/"/>
+        <updated>2021-08-23T17:37:14.258Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4863"><a class="upvote" href="javascript:vote(4863, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://wavesurfer-js.org/" rel="nofollow" id="tr8"><h1>wavesurfer.js - 인터랙티브 오디오 파형 시각화 라이브러리 오픈소스 </h1></a> <span class="topicurl">(wavesurfer-js.org)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WinCompose - 윈도우용 특수문자 입력 도구]]></title>
-        <id>https://github.com/samhocevar/wincompose</id>
-        <link href="https://github.com/samhocevar/wincompose"/>
-        <updated>2021-08-15T05:32:22.150Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4814"><a class="upvote" href="javascript:vote(4814, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/samhocevar/wincompose" rel="nofollow" id="tr9"><h1>WinCompose - 윈도우용 특수문자 입력 도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <title type="html"><![CDATA[Maestral - 리눅스/맥용 오픈소스 Dropbox 클라이언트]]></title>
+        <id>https://github.com/SamSchott/maestral</id>
+        <link href="https://github.com/SamSchott/maestral"/>
+        <updated>2021-08-23T17:37:14.258Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4862"><a class="upvote" href="javascript:vote(4862, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/SamSchott/maestral" rel="nofollow" id="tr9"><h1>Maestral - 리눅스/맥용 오픈소스 Dropbox 클라이언트</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GitHub, Git동작에 대해 비밀번호 인증 지원 종료]]></title>
-        <id>https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/</id>
-        <link href="https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/"/>
-        <updated>2021-08-15T05:32:22.152Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4813"><a class="upvote" href="javascript:vote(4813, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.blog/changelog/2021-08-12-git-password-authentication-is-shutting-down/" rel="nofollow" id="tr10"><h1>GitHub, Git동작에 대해 비밀번호 인증 지원 종료</h1></a> <span class="topicurl">(github.blog)</span></td>]]></content>
+        <title type="html"><![CDATA[Bootstrap 10주년]]></title>
+        <id>https://blog.getbootstrap.com/2021/08/19/ten/</id>
+        <link href="https://blog.getbootstrap.com/2021/08/19/ten/"/>
+        <updated>2021-08-23T17:37:14.273Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4861"><a class="upvote" href="javascript:vote(4861, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://blog.getbootstrap.com/2021/08/19/ten/" rel="nofollow" id="tr10"><h1>Bootstrap 10주년</h1></a> <span class="topicurl">(blog.getbootstrap.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현대 신경과학은 과연 동키콩을 이해할 수 있는가 (2016)]]></title>
-        <id>http://m.todayhumor.co.kr/view.php?table=bestofbest&amp;no=295521&amp;page=8</id>
-        <link href="http://m.todayhumor.co.kr/view.php?table=bestofbest&amp;no=295521&amp;page=8"/>
-        <updated>2021-08-13T17:39:40.258Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4812"><a class="upvote" href="javascript:vote(4812, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="http://m.todayhumor.co.kr/view.php?table=bestofbest&amp;no=295521&amp;page=8" rel="nofollow" id="tr11"><h1>현대 신경과학은 과연 동키콩을 이해할 수 있는가 (2016)</h1></a> <span class="topicurl">(m.todayhumor.co.kr)</span></td>]]></content>
+        <title type="html"><![CDATA[crssnt - 구글 시트에서 RSS 생성하는 오픈소스]]></title>
+        <id>https://github.com/tgel0/crssnt</id>
+        <link href="https://github.com/tgel0/crssnt"/>
+        <updated>2021-08-23T17:37:14.273Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4860"><a class="upvote" href="javascript:vote(4860, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/tgel0/crssnt" rel="nofollow" id="tr11"><h1>crssnt - 구글 시트에서 RSS 생성하는 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Keyv - 여러DB 백엔드를 지원하는 Node.js용 키밸류 저장소]]></title>
-        <id>https://keyv.js.org/</id>
-        <link href="https://keyv.js.org/"/>
-        <updated>2021-08-13T17:39:40.258Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4811"><a class="upvote" href="javascript:vote(4811, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://keyv.js.org/" rel="nofollow" id="tr12"><h1>Keyv - 여러DB 백엔드를 지원하는 Node.js용 키밸류 저장소</h1></a> <span class="topicurl">(keyv.js.org)</span></td>]]></content>
+        <title type="html"><![CDATA[Tesla AI day 감상]]></title>
+        <id>https://www.facebook.com/lee.jihyo/posts/10227112499258937</id>
+        <link href="https://www.facebook.com/lee.jihyo/posts/10227112499258937"/>
+        <updated>2021-08-23T17:37:14.274Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4859"><a class="upvote" href="javascript:vote(4859, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.facebook.com/lee.jihyo/posts/10227112499258937" rel="nofollow" id="tr12"><h1>Tesla AI day 감상</h1></a> <span class="topicurl">(facebook.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mosh : Mobile Shell - 진화된 SSH]]></title>
-        <id>https://mosh.org/</id>
-        <link href="https://mosh.org/"/>
-        <updated>2021-08-13T17:39:40.258Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4810"><a class="upvote" href="javascript:vote(4810, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://mosh.org/" rel="nofollow" id="tr13"><h1>Mosh : Mobile Shell - 진화된 SSH</h1></a> <span class="topicurl">(mosh.org)</span></td>]]></content>
+        <title type="html"><![CDATA[Show GN: 드로우비트 - 기업 경품 이벤트 모음]]></title>
+        <id>https://news.hada.io/topic?id=4858</id>
+        <link href="https://news.hada.io/topic?id=4858"/>
+        <updated>2021-08-23T17:37:14.274Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4858"><a class="upvote" href="javascript:vote(4858, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4858" rel="nofollow" id="tr13"><h1>Show GN: 드로우비트 - 기업 경품 이벤트 모음</h1></a> <span class="topicurl">(drawbeat.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alda - 음악 작곡을 위한 프로그래밍 언어]]></title>
+        <id>https://alda.io/</id>
+        <link href="https://alda.io/"/>
+        <updated>2021-08-23T17:37:14.275Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4857"><a class="upvote" href="javascript:vote(4857, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://alda.io/" rel="nofollow" id="tr14"><h1>Alda - 음악 작곡을 위한 프로그래밍 언어</h1></a> <span class="topicurl">(alda.io)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이번 주말에 뭐 하시나요?]]></title>
-        <id>https://news.hada.io/topic?id=4809</id>
-        <link href="https://news.hada.io/topic?id=4809"/>
-        <updated>2021-08-13T17:39:40.258Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4809"><a class="upvote" href="javascript:vote(4809, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4809" id="tr14"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <id>https://news.hada.io/topic?id=4856</id>
+        <link href="https://news.hada.io/topic?id=4856"/>
+        <updated>2021-08-23T17:37:14.279Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4856"><a class="upvote" href="javascript:vote(4856, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4856" id="tr15"><h1>Ask GN: 이번 주말에 뭐 하시나요?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹용 SQL의 미래]]></title>
-        <id>https://jlongster.com/future-sql-web</id>
-        <link href="https://jlongster.com/future-sql-web"/>
-        <updated>2021-08-13T17:39:40.267Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4808"><a class="upvote" href="javascript:vote(4808, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://jlongster.com/future-sql-web" rel="nofollow" id="tr15"><h1>웹용 SQL의 미래</h1></a> <span class="topicurl">(jlongster.com)</span></td>]]></content>
+        <title type="html"><![CDATA[EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스]]></title>
+        <id>https://github.com/postalsys/emailengine</id>
+        <link href="https://github.com/postalsys/emailengine"/>
+        <updated>2021-08-23T17:37:14.281Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4855"><a class="upvote" href="javascript:vote(4855, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/postalsys/emailengine" rel="nofollow" id="tr16"><h1>EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1Password 8버전 부터 구독형으로만 가능, 로컬 Vault 지원 안함]]></title>
-        <id>https://1password.community/discussion/comment/601917/#Comment_601917</id>
-        <link href="https://1password.community/discussion/comment/601917/#Comment_601917"/>
-        <updated>2021-08-13T17:39:40.267Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4807"><a class="upvote" href="javascript:vote(4807, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://1password.community/discussion/comment/601917/#Comment_601917" rel="nofollow" id="tr16"><h1>1Password 8버전 부터 구독형으로만 가능, 로컬 Vault 지원 안함</h1></a> <span class="topicurl">(1password.community)</span></td>]]></content>
+        <title type="html"><![CDATA[Slack이 API를 디자인 하는 법]]></title>
+        <id>https://slack.engineering/how-we-design-our-apis-at-slack/</id>
+        <link href="https://slack.engineering/how-we-design-our-apis-at-slack/"/>
+        <updated>2021-08-23T17:37:14.282Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4854"><a class="upvote" href="javascript:vote(4854, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://slack.engineering/how-we-design-our-apis-at-slack/" rel="nofollow" id="tr17"><h1>Slack이 API를 디자인 하는 법</h1></a> <span class="topicurl">(slack.engineering)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LINE, FIDO2 서버 오픈소스로 공개]]></title>
-        <id>https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource/</id>
-        <link href="https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource/"/>
-        <updated>2021-08-13T17:39:40.270Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4806"><a class="upvote" href="javascript:vote(4806, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource/" rel="nofollow" id="tr17"><h1>LINE, FIDO2 서버 오픈소스로 공개</h1></a> <span class="topicurl">(engineering.linecorp.com)</span></td>]]></content>
+        <title type="html"><![CDATA[GitHub Actions로 SW회사 자동화 하기]]></title>
+        <id>https://posthog.com/blog/automating-a-software-company-with-github-actions</id>
+        <link href="https://posthog.com/blog/automating-a-software-company-with-github-actions"/>
+        <updated>2021-08-23T17:37:14.284Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4853"><a class="upvote" href="javascript:vote(4853, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://posthog.com/blog/automating-a-software-company-with-github-actions" rel="nofollow" id="tr18"><h1>GitHub Actions로 SW회사 자동화 하기</h1></a> <span class="topicurl">(posthog.com)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Salesforce, 스트리밍 서비스 Salesforce+ 시작 예정]]></title>
-        <id>https://www.axios.com/salesforce-streaming-service-professionals-30a58e49-77fc-469d-9ff7-99f866678a98.html</id>
-        <link href="https://www.axios.com/salesforce-streaming-service-professionals-30a58e49-77fc-469d-9ff7-99f866678a98.html"/>
-        <updated>2021-08-13T17:39:40.270Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4805"><a class="upvote" href="javascript:vote(4805, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.axios.com/salesforce-streaming-service-professionals-30a58e49-77fc-469d-9ff7-99f866678a98.html" rel="nofollow" id="tr18"><h1>Salesforce, 스트리밍 서비스 Salesforce+ 시작 예정</h1></a> <span class="topicurl">(axios.com)</span></td>]]></content>
+        <title type="html"><![CDATA[burst - 코드를 클라우드에서 쉽게 실행하기]]></title>
+        <id>https://burstable.ai/</id>
+        <link href="https://burstable.ai/"/>
+        <updated>2021-08-23T17:37:14.286Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4852"><a class="upvote" href="javascript:vote(4852, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://burstable.ai/" rel="nofollow" id="tr19"><h1>burst - 코드를 클라우드에서 쉽게 실행하기</h1></a> <span class="topicurl">(burstable.ai)</span></td>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Slip - 프로그래밍 강의를 만들어서 판매하기]]></title>
-        <id>https://www.slip.so/</id>
-        <link href="https://www.slip.so/"/>
-        <updated>2021-08-13T17:39:40.270Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4804"><a class="upvote" href="javascript:vote(4804, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.slip.so/" rel="nofollow" id="tr19"><h1>Slip - 프로그래밍 강의를 만들어서 판매하기 </h1></a> <span class="topicurl">(slip.so)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정]]></title>
-        <id>https://openai.com/blog/openai-codex/</id>
-        <link href="https://openai.com/blog/openai-codex/"/>
-        <updated>2021-08-13T17:39:40.270Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4803"><a class="upvote" href="javascript:vote(4803, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://openai.com/blog/openai-codex/" rel="nofollow" id="tr20"><h1>OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정</h1></a> <span class="topicurl">(openai.com)</span></td>]]></content>
+        <title type="html"><![CDATA[식탁보 프로젝트 - 윈도우 샌드박스 기능을 활용한 인터넷뱅킹 환경 구현]]></title>
+        <id>https://github.com/dotnetdev-kr/TableCloth</id>
+        <link href="https://github.com/dotnetdev-kr/TableCloth"/>
+        <updated>2021-08-23T17:37:14.292Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4851"><a class="upvote" href="javascript:vote(4851, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/dotnetdev-kr/TableCloth" rel="nofollow" id="tr20"><h1>식탁보 프로젝트 - 윈도우 샌드박스 기능을 활용한 인터넷뱅킹 환경 구현</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
 </feed>
