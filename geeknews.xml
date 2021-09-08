@@ -2,147 +2,147 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://news.hada.io/new</id>
     <title>GeekNews</title>
-    <updated>2021-09-07T17:39:45.597Z</updated>
+    <updated>2021-09-08T05:33:33.269Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://news.hada.io/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Y-Combinator 2021 여름 데모데이 참가 스타트업 377개]]></title>
+        <id>https://techcrunch.com/2021/08/31/here-are-all-the-companies-from-y-combinators-summer-2021-demo-day-part-1/</id>
+        <link href="https://techcrunch.com/2021/08/31/here-are-all-the-companies-from-y-combinators-summer-2021-demo-day-part-1/"/>
+        <updated>2021-09-08T05:33:21.417Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4974"><a class="upvote" href="javascript:vote(4974, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://techcrunch.com/2021/08/31/here-are-all-the-companies-from-y-combinators-summer-2021-demo-day-part-1/" rel="nofollow" id="tr1"><h1>Y-Combinator 2021 여름 데모데이 참가 스타트업 377개</h1></a> <span class="topicurl">(techcrunch.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[htmlq - jq for HTML]]></title>
+        <id>https://github.com/mgdm/htmlq</id>
+        <link href="https://github.com/mgdm/htmlq"/>
+        <updated>2021-09-08T05:33:21.420Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4973"><a class="upvote" href="javascript:vote(4973, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/mgdm/htmlq" rel="nofollow" id="tr2"><h1>htmlq - jq for HTML</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마존, 자체 브랜드 TV 10월에 출시할 것]]></title>
+        <id>https://www.theverge.com/2021/9/2/22655016/amazon-branded-tv-television-tcl</id>
+        <link href="https://www.theverge.com/2021/9/2/22655016/amazon-branded-tv-television-tcl"/>
+        <updated>2021-09-08T05:33:21.421Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4972"><a class="upvote" href="javascript:vote(4972, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.theverge.com/2021/9/2/22655016/amazon-branded-tv-television-tcl" rel="nofollow" id="tr3"><h1>아마존, 자체 브랜드 TV 10월에 출시할 것</h1></a> <span class="topicurl">(theverge.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 인터넷 보고서 2021 [52p PDF]]]></title>
+        <id>https://multimedia.scmp.com/infographics/china-internet-2021/</id>
+        <link href="https://multimedia.scmp.com/infographics/china-internet-2021/"/>
+        <updated>2021-09-08T05:33:21.424Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4971"><a class="upvote" href="javascript:vote(4971, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://multimedia.scmp.com/infographics/china-internet-2021/" rel="nofollow" id="tr4"><h1>중국 인터넷 보고서 2021 [52p PDF]</h1></a> <span class="topicurl">(multimedia.scmp.com)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 모바일 쇼핑 앱 보고서 : 리테일의 현재와 미래 [37p 한국어 PDF]]]></title>
+        <id>https://info.liftoff.io/ko/2021-mobile-shopping-apps-report</id>
+        <link href="https://info.liftoff.io/ko/2021-mobile-shopping-apps-report"/>
+        <updated>2021-09-08T05:33:21.426Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4970"><a class="upvote" href="javascript:vote(4970, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://info.liftoff.io/ko/2021-mobile-shopping-apps-report" rel="nofollow" id="tr5"><h1>2021 모바일 쇼핑 앱 보고서 : 리테일의 현재와 미래 [37p 한국어 PDF]</h1></a> <span class="topicurl">(info.liftoff.io)</span></td>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show GN: EasyLogic Studio]]></title>
+        <id>https://news.hada.io/topic?id=4969</id>
+        <link href="https://news.hada.io/topic?id=4969"/>
+        <updated>2021-09-08T05:33:21.426Z</updated>
+        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4969"><a class="upvote" href="javascript:vote(4969, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4969" rel="nofollow" id="tr6"><h1>Show GN: EasyLogic Studio</h1></a> <span class="topicurl">(easylogic.studio)</span></td>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Knowre 신입 웹개발 커리큘럼]]></title>
         <id>https://github.com/Knowre-Dev/WebDevCurriculum</id>
         <link href="https://github.com/Knowre-Dev/WebDevCurriculum"/>
         <updated>2021-09-07T17:39:39.049Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">1</td><td class="vote"><span id="vote4968"><a class="upvote" href="javascript:vote(4968, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Knowre-Dev/WebDevCurriculum" rel="nofollow" id="tr1"><h1>Knowre 신입 웹개발 커리큘럼</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4968"><a class="upvote" href="javascript:vote(4968, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/Knowre-Dev/WebDevCurriculum" rel="nofollow" id="tr7"><h1>Knowre 신입 웹개발 커리큘럼</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유용한 확장을 포함한 Postgres Docker 이미지들]]></title>
         <id>https://github.com/supabase/postgres</id>
         <link href="https://github.com/supabase/postgres"/>
         <updated>2021-09-07T17:39:39.051Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">2</td><td class="vote"><span id="vote4967"><a class="upvote" href="javascript:vote(4967, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/supabase/postgres" rel="nofollow" id="tr2"><h1>유용한 확장을 포함한 Postgres Docker 이미지들</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4967"><a class="upvote" href="javascript:vote(4967, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/supabase/postgres" rel="nofollow" id="tr8"><h1>유용한 확장을 포함한 Postgres Docker 이미지들</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kubescape - 쿠버네티스 보안 설치 확인도구]]></title>
         <id>https://github.com/armosec/kubescape</id>
         <link href="https://github.com/armosec/kubescape"/>
         <updated>2021-09-07T17:39:39.051Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">3</td><td class="vote"><span id="vote4966"><a class="upvote" href="javascript:vote(4966, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/armosec/kubescape" rel="nofollow" id="tr3"><h1>Kubescape - 쿠버네티스 보안 설치 확인도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4966"><a class="upvote" href="javascript:vote(4966, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/armosec/kubescape" rel="nofollow" id="tr9"><h1>Kubescape - 쿠버네티스 보안 설치 확인도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenWrt 21.02.0 릴리즈]]></title>
         <id>https://openwrt.org/releases/21.02/notes-21.02.0</id>
         <link href="https://openwrt.org/releases/21.02/notes-21.02.0"/>
         <updated>2021-09-07T17:39:39.051Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">4</td><td class="vote"><span id="vote4965"><a class="upvote" href="javascript:vote(4965, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://openwrt.org/releases/21.02/notes-21.02.0" rel="nofollow" id="tr4"><h1>OpenWrt 21.02.0 릴리즈</h1></a> <span class="topicurl">(openwrt.org)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4965"><a class="upvote" href="javascript:vote(4965, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://openwrt.org/releases/21.02/notes-21.02.0" rel="nofollow" id="tr10"><h1>OpenWrt 21.02.0 릴리즈</h1></a> <span class="topicurl">(openwrt.org)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리눅스 커널에 Paragon NTFS 드라이버 머지]]></title>
         <id>https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f</id>
         <link href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f"/>
         <updated>2021-09-07T17:39:39.059Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">5</td><td class="vote"><span id="vote4964"><a class="upvote" href="javascript:vote(4964, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f" rel="nofollow" id="tr5"><h1>리눅스 커널에 Paragon NTFS 드라이버 머지</h1></a> <span class="topicurl">(git.kernel.org)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4964"><a class="upvote" href="javascript:vote(4964, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=f7464060f7ab9a2424428008f0ee9f1e267e410f" rel="nofollow" id="tr11"><h1>리눅스 커널에 Paragon NTFS 드라이버 머지</h1></a> <span class="topicurl">(git.kernel.org)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[맵(지도)의 미래는 게임의 현재를 따라간다 (번역)]]></title>
         <id>https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/</id>
         <link href="https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/"/>
         <updated>2021-09-07T17:39:39.061Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">6</td><td class="vote"><span id="vote4963"><a class="upvote" href="javascript:vote(4963, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/" rel="nofollow" id="tr6"><h1>맵(지도)의 미래는 게임의 현재를 따라간다 (번역)</h1></a> <span class="topicurl">(ebadak.news)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4963"><a class="upvote" href="javascript:vote(4963, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/" rel="nofollow" id="tr12"><h1>맵(지도)의 미래는 게임의 현재를 따라간다 (번역)</h1></a> <span class="topicurl">(ebadak.news)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?]]></title>
         <id>https://news.hada.io/topic?id=4962</id>
         <link href="https://news.hada.io/topic?id=4962"/>
         <updated>2021-09-07T17:39:39.068Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">7</td><td class="vote"><span id="vote4962"><a class="upvote" href="javascript:vote(4962, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4962" id="tr7"><h1>Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?</h1></a> <span class="topicurl"></span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4962"><a class="upvote" href="javascript:vote(4962, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4962" id="tr13"><h1>Ask GN: 이달의 구인공고 - 멤버를 찾고 계신가요 ?</h1></a> <span class="topicurl"></span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[년 3.5억 수익내는 Vue.js UI 라이브러리 만든 후기]]></title>
         <id>https://www.starterstory.com/stories/i-built-a-300k-year-vue-js-component-library</id>
         <link href="https://www.starterstory.com/stories/i-built-a-300k-year-vue-js-component-library"/>
         <updated>2021-09-07T17:39:39.068Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">8</td><td class="vote"><span id="vote4961"><a class="upvote" href="javascript:vote(4961, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.starterstory.com/stories/i-built-a-300k-year-vue-js-component-library" rel="nofollow" id="tr8"><h1>년 3.5억 수익내는 Vue.js UI 라이브러리 만든 후기</h1></a> <span class="topicurl">(starterstory.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4961"><a class="upvote" href="javascript:vote(4961, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.starterstory.com/stories/i-built-a-300k-year-vue-js-component-library" rel="nofollow" id="tr14"><h1>년 3.5억 수익내는 Vue.js UI 라이브러리 만든 후기</h1></a> <span class="topicurl">(starterstory.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Show GN: 소쿠리캣]]></title>
         <id>https://news.hada.io/topic?id=4960</id>
         <link href="https://news.hada.io/topic?id=4960"/>
         <updated>2021-09-07T17:39:39.070Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">9</td><td class="vote"><span id="vote4960"><a class="upvote" href="javascript:vote(4960, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4960" rel="nofollow" id="tr9"><h1>Show GN: 소쿠리캣</h1></a> <span class="topicurl">(sokuricat.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4960"><a class="upvote" href="javascript:vote(4960, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4960" rel="nofollow" id="tr15"><h1>Show GN: 소쿠리캣</h1></a> <span class="topicurl">(sokuricat.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[iola - REST API로 이용가능한 Socket 클라이언트]]></title>
         <id>https://github.com/pvarentsov/iola</id>
         <link href="https://github.com/pvarentsov/iola"/>
         <updated>2021-09-07T17:39:39.075Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">10</td><td class="vote"><span id="vote4959"><a class="upvote" href="javascript:vote(4959, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/pvarentsov/iola" rel="nofollow" id="tr10"><h1>iola - REST API로 이용가능한 Socket 클라이언트</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4959"><a class="upvote" href="javascript:vote(4959, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/pvarentsov/iola" rel="nofollow" id="tr16"><h1>iola - REST API로 이용가능한 Socket 클라이언트</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Smartcrop.js - 콘텐츠 인식해서 이미지 크롭하기]]></title>
         <id>https://github.com/jwagner/smartcrop.js</id>
         <link href="https://github.com/jwagner/smartcrop.js"/>
         <updated>2021-09-07T17:39:39.076Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">11</td><td class="vote"><span id="vote4958"><a class="upvote" href="javascript:vote(4958, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/jwagner/smartcrop.js" rel="nofollow" id="tr11"><h1>Smartcrop.js - 콘텐츠 인식해서 이미지 크롭하기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4958"><a class="upvote" href="javascript:vote(4958, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/jwagner/smartcrop.js" rel="nofollow" id="tr17"><h1>Smartcrop.js - 콘텐츠 인식해서 이미지 크롭하기</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Zero - 스타트업이 첫날부터 개발 & 배포 가능하게 해주는 부트스트래핑 도구]]></title>
         <id>https://github.com/commitdev/zero</id>
         <link href="https://github.com/commitdev/zero"/>
         <updated>2021-09-07T17:39:39.077Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">12</td><td class="vote"><span id="vote4957"><a class="upvote" href="javascript:vote(4957, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/commitdev/zero" rel="nofollow" id="tr12"><h1>Zero - 스타트업이 첫날부터 개발 &amp; 배포 가능하게 해주는 부트스트래핑 도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4957"><a class="upvote" href="javascript:vote(4957, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/commitdev/zero" rel="nofollow" id="tr18"><h1>Zero - 스타트업이 첫날부터 개발 &amp; 배포 가능하게 해주는 부트스트래핑 도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TermDBMS - DB 조회/수정용 TUI]]></title>
         <id>https://github.com/mathaou/termdbms</id>
         <link href="https://github.com/mathaou/termdbms"/>
         <updated>2021-09-07T17:39:39.080Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">13</td><td class="vote"><span id="vote4956"><a class="upvote" href="javascript:vote(4956, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/mathaou/termdbms" rel="nofollow" id="tr13"><h1>TermDBMS - DB 조회/수정용 TUI</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4956"><a class="upvote" href="javascript:vote(4956, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/mathaou/termdbms" rel="nofollow" id="tr19"><h1>TermDBMS - DB 조회/수정용 TUI</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[크롬 93 새 기능]]></title>
         <id>https://developer.chrome.com/blog/new-in-chrome-93/</id>
         <link href="https://developer.chrome.com/blog/new-in-chrome-93/"/>
         <updated>2021-09-07T17:39:39.081Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">14</td><td class="vote"><span id="vote4955"><a class="upvote" href="javascript:vote(4955, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developer.chrome.com/blog/new-in-chrome-93/" rel="nofollow" id="tr14"><h1>크롬 93 새 기능</h1></a> <span class="topicurl">(developer.chrome.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rclip - AI를 이용한 사진 검색 CLI 도구]]></title>
-        <id>https://github.com/yurijmikhalevich/rclip</id>
-        <link href="https://github.com/yurijmikhalevich/rclip"/>
-        <updated>2021-09-07T17:39:39.081Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">15</td><td class="vote"><span id="vote4954"><a class="upvote" href="javascript:vote(4954, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://github.com/yurijmikhalevich/rclip" rel="nofollow" id="tr15"><h1>rclip - AI를 이용한 사진 검색 CLI 도구</h1></a> <span class="topicurl">(github.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Docker에서 Podman으로 이관하기 (맥/윈)]]></title>
-        <id>https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/</id>
-        <link href="https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/"/>
-        <updated>2021-09-07T17:39:39.082Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">16</td><td class="vote"><span id="vote4953"><a class="upvote" href="javascript:vote(4953, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://marcusnoble.co.uk/2021-09-01-migrating-from-docker-to-podman/" rel="nofollow" id="tr16"><h1>Docker에서 Podman으로 이관하기 (맥/윈)</h1></a> <span class="topicurl">(marcusnoble.co.uk)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show GN: iOS Pomodoro Timer and Relaxing Sounds 앱]]></title>
-        <id>https://news.hada.io/topic?id=4952</id>
-        <link href="https://news.hada.io/topic?id=4952"/>
-        <updated>2021-09-07T17:39:39.089Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">17</td><td class="vote"><span id="vote4952"><a class="upvote" href="javascript:vote(4952, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="topic?id=4952" rel="nofollow" id="tr17"><h1>Show GN: iOS Pomodoro Timer and Relaxing Sounds 앱</h1></a> <span class="topicurl">(apps.apple.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, '리더 앱'에 웹사이트 링크 허용 예정]]></title>
-        <id>https://www.apple.com/kr/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/</id>
-        <link href="https://www.apple.com/kr/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/"/>
-        <updated>2021-09-07T17:39:39.089Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">18</td><td class="vote"><span id="vote4951"><a class="upvote" href="javascript:vote(4951, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://www.apple.com/kr/newsroom/2021/09/japan-fair-trade-commission-closes-app-store-investigation/" rel="nofollow" id="tr18"><h1>애플, '리더 앱'에 웹사이트 링크 허용 예정 </h1></a> <span class="topicurl">(apple.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visual Studio Code 1.60 업데이트 (2021년 8월)]]></title>
-        <id>https://code.visualstudio.com/updates/v1_60</id>
-        <link href="https://code.visualstudio.com/updates/v1_60"/>
-        <updated>2021-09-07T17:39:39.090Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">19</td><td class="vote"><span id="vote4950"><a class="upvote" href="javascript:vote(4950, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://code.visualstudio.com/updates/v1_60" rel="nofollow" id="tr19"><h1>Visual Studio Code 1.60 업데이트 (2021년 8월)</h1></a> <span class="topicurl">(code.visualstudio.com)</span></td>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, RISC-V 프로그래머 구인중]]></title>
-        <id>https://jobs.apple.com/en-us/details/200282667/risc-v-high-performance-programmer</id>
-        <link href="https://jobs.apple.com/en-us/details/200282667/risc-v-high-performance-programmer"/>
-        <updated>2021-09-07T17:39:39.092Z</updated>
-        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4949"><a class="upvote" href="javascript:vote(4949, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://jobs.apple.com/en-us/details/200282667/risc-v-high-performance-programmer" rel="nofollow" id="tr20"><h1>애플, RISC-V 프로그래머 구인중</h1></a> <span class="topicurl">(jobs.apple.com)</span></td>]]></content>
+        <content type="html"><![CDATA[<td class="votenum">20</td><td class="vote"><span id="vote4955"><a class="upvote" href="javascript:vote(4955, &quot;up&quot;);">▲</a></span></td><td class="topictitle"><a href="https://developer.chrome.com/blog/new-in-chrome-93/" rel="nofollow" id="tr20"><h1>크롬 93 새 기능</h1></a> <span class="topicurl">(developer.chrome.com)</span></td>]]></content>
     </entry>
 </feed>
