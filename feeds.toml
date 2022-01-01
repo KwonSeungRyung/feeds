@@ -13,3 +13,10 @@ entrySelector = ".sc-dVhcbM"
 titleSelector = "h4"
 linkSelector = ".sc-fMiknA"
 contentSelector = ".description-wrapper"
+
+[kakaotech]
+title = "kakaotech"
+url = "https://tech.kakaoenterprise.com/"
+entrySelector = ".thumb"
+titleSelector = ".title"
+linkSelector = ".summary"
