@@ -1,10 +1,10 @@
-[geeknews]
-title = "GeekNews"
-url = "https://news.hada.io/new"
-entrySelector = ".topic"
-titleSelector = "td.topictitle > a > h1"
-linkSelector = "td.topictitle > a"
-contentSelector = "body > main > article > table > tbody > tr.topictitle > a > h1"
+#[geeknews]
+#title = "GeekNews"
+#url = "https://news.hada.io/new"
+#entrySelector = ".topic"
+#titleSelector = "td.topictitle > a > h1"
+#linkSelector = "td.topictitle > a"
+#contentSelector = "body > main > article > table > tbody > tr.topictitle > a > h1"
 
 [velog]
 title = "velog"
