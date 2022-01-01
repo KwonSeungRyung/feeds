@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tech.kakaoenterprise.com/</id>
+    <title>kakaotech</title>
+    <updated>2022-01-01T13:53:52.634Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://tech.kakaoenterprise.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[0]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.968Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.968Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.968Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.968Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.968Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.970Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.972Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7]]></title>
+        <id>https://tech.kakaoenterprise.com/</id>
+        <link href="https://tech.kakaoenterprise.com/"/>
+        <updated>2022-01-01T13:53:51.972Z</updated>
+    </entry>
+</feed>

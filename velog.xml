@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://velog.io</id>
-    <title>velog</title>
-    <updated>2021-09-17T17:38:06.370Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://static.velog.io/favicons/favicon-32x32.png</icon>
-</feed>
