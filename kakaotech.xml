@@ -2,37 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tech.kakaoenterprise.com/</id>
     <title>kakaotech</title>
-    <updated>2022-04-05T17:40:58.718Z</updated>
+    <updated>2022-04-06T05:37:00.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://tistory4.daumcdn.net/tistory/3769165/07aa76d9ba224eb289bef9ca9e5f2e32</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://tech.kakaoenterprise.com/</id>
         <link href="https://tech.kakaoenterprise.com/"/>
-        <updated>2022-04-05T17:40:57.954Z</updated>
+        <updated>2022-04-06T05:36:57.578Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://tech.kakaoenterprise.com/</id>
         <link href="https://tech.kakaoenterprise.com/"/>
-        <updated>2022-04-05T17:40:57.954Z</updated>
+        <updated>2022-04-06T05:36:57.580Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://tech.kakaoenterprise.com/</id>
         <link href="https://tech.kakaoenterprise.com/"/>
-        <updated>2022-04-05T17:40:57.955Z</updated>
+        <updated>2022-04-06T05:36:57.582Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://tech.kakaoenterprise.com/</id>
         <link href="https://tech.kakaoenterprise.com/"/>
-        <updated>2022-04-05T17:40:57.958Z</updated>
+        <updated>2022-04-06T05:36:57.583Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[4]]></title>
         <id>https://tech.kakaoenterprise.com/</id>
         <link href="https://tech.kakaoenterprise.com/"/>
-        <updated>2022-04-05T17:40:57.960Z</updated>
+        <updated>2022-04-06T05:36:57.585Z</updated>
     </entry>
 </feed>
